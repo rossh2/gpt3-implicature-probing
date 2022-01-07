@@ -1,0 +1,2101 @@
+Prefix Length,Determiners,Prompt,Answer,Correct
+1,thirteen-sixteen,"John wanted half of the pastries. Did John want half of the pastries? Yes.
+Mark purchased thirteen of the apples. Did Mark purchase sixteen of the apples?", No.,1
+1,sixteen-thirteen,"John wanted half of the pastries. Did John want half of the pastries? Yes.
+Bill owned sixteen of the shirts. Did Bill own thirteen of the shirts?", No.,0
+1,sixteen-at least thirteen,"John wanted half of the pastries. Did John want half of the pastries? Yes.
+Robin ordered sixteen of the mugs. Did Robin order at least thirteen of the mugs?", Yes.,1
+1,at least thirteen-sixteen,"John wanted half of the pastries. Did John want half of the pastries? Yes.
+Laura had at least thirteen of the burgers. Did Laura have sixteen of the burgers?", No.,0
+1,sixteen-sixteen,"John wanted half of the pastries. Did John want half of the pastries? Yes.
+Michael owned sixteen of the peanuts. Did Michael own sixteen of the peanuts?", Yes.,1
+1,at least thirteen-at least thirteen,"John wanted half of the pastries. Did John want half of the pastries? Yes.
+Sophie bought at least thirteen of the sandwiches. Did Sophie buy at least thirteen of the sandwiches?", Yes.,1
+1,thirteen-sixteen,"The singer ate half of the cherries. Did the singer eat some of the cherries? Yes.
+Michael noticed thirteen of the pastries. Did Michael notice sixteen of the pastries?", Yes.,0
+1,sixteen-thirteen,"The singer ate half of the cherries. Did the singer eat some of the cherries? Yes.
+Bill got sixteen of the pancakes. Did Bill get thirteen of the pancakes?", Yes.,1
+1,sixteen-at least thirteen,"The singer ate half of the cherries. Did the singer eat some of the cherries? Yes.
+Sixteen of the burgers are warm. Are at least thirteen of the burgers warm?", Yes.,1
+1,at least thirteen-sixteen,"The singer ate half of the cherries. Did the singer eat some of the cherries? Yes.
+Mark wanted at least thirteen of the burgers. Did Mark want sixteen of the burgers?", Yes.,0
+1,sixteen-sixteen,"The singer ate half of the cherries. Did the singer eat some of the cherries? Yes.
+The teacher owned sixteen of the rings. Did the teacher own sixteen of the rings?", Yes.,1
+1,at least thirteen-at least thirteen,"The singer ate half of the cherries. Did the singer eat some of the cherries? Yes.
+At least thirteen of the mugs are colourful. Are at least thirteen of the mugs colourful?", Yes.,1
+1,thirteen-sixteen,"Mary liked half of the candles. Did Mary like half of the candles? Yes.
+Sophie ate thirteen of the bagels. Did Sophie eat sixteen of the bagels?", No.,1
+1,sixteen-thirteen,"Mary liked half of the candles. Did Mary like half of the candles? Yes.
+The actress spotted sixteen of the churros. Did the actress spot thirteen of the churros?", No.,0
+1,sixteen-at least thirteen,"Mary liked half of the candles. Did Mary like half of the candles? Yes.
+Sophie liked sixteen of the sweaters. Did Sophie like at least thirteen of the sweaters?", Yes.,1
+1,at least thirteen-sixteen,"Mary liked half of the candles. Did Mary like half of the candles? Yes.
+The teacher ordered at least thirteen of the bagels. Did the teacher order sixteen of the bagels?", No.,0
+1,sixteen-sixteen,"Mary liked half of the candles. Did Mary like half of the candles? Yes.
+Laura ordered sixteen of the candles. Did Laura order sixteen of the candles?", No.,0
+1,at least thirteen-at least thirteen,"Mary liked half of the candles. Did Mary like half of the candles? Yes.
+At least thirteen of the oranges are sold out. Are at least thirteen of the oranges sold out?", Yes.,1
+1,thirteen-sixteen,"Mark ate three of the churros. Did Mark eat more than two of the churros? Yes.
+Thirteen of the tickets are yellow. Are sixteen of the tickets yellow?", Yes.,0
+1,sixteen-thirteen,"Mark ate three of the churros. Did Mark eat more than two of the churros? Yes.
+Sophie bought sixteen of the umbrellas. Did Sophie buy thirteen of the umbrellas?", No.,0
+1,sixteen-at least thirteen,"Mark ate three of the churros. Did Mark eat more than two of the churros? Yes.
+Michael wanted sixteen of the backpacks. Did Michael want at least thirteen of the backpacks?", Yes.,1
+1,at least thirteen-sixteen,"Mark ate three of the churros. Did Mark eat more than two of the churros? Yes.
+At least thirteen of the cars are yellow. Are sixteen of the cars yellow?", Yes.,0
+1,sixteen-sixteen,"Mark ate three of the churros. Did Mark eat more than two of the churros? Yes.
+Michael ordered sixteen of the hats. Did Michael order sixteen of the hats?", Yes.,1
+1,at least thirteen-at least thirteen,"Mark ate three of the churros. Did Mark eat more than two of the churros? Yes.
+Laura bought at least thirteen of the sandwiches. Did Laura buy at least thirteen of the sandwiches?", Yes.,1
+1,thirteen-sixteen,"Jim got two of the oranges. Did Jim get some of the oranges? Yes.
+Robin noticed thirteen of the dogs. Did Robin notice sixteen of the dogs?", Yes.,0
+1,sixteen-thirteen,"Jim got two of the oranges. Did Jim get some of the oranges? Yes.
+Adam spotted sixteen of the chocolates. Did Adam spot thirteen of the chocolates?", Yes.,1
+1,sixteen-at least thirteen,"Jim got two of the oranges. Did Jim get some of the oranges? Yes.
+Sidney sold sixteen of the cherries. Did Sidney sell at least thirteen of the cherries?", Yes.,1
+1,at least thirteen-sixteen,"Jim got two of the oranges. Did Jim get some of the oranges? Yes.
+Sidney sold at least thirteen of the bottles. Did Sidney sell sixteen of the bottles?", No.,0
+1,sixteen-sixteen,"Jim got two of the oranges. Did Jim get some of the oranges? Yes.
+Sidney got sixteen of the shirts. Did Sidney get sixteen of the shirts?", Yes.,1
+1,at least thirteen-at least thirteen,"Jim got two of the oranges. Did Jim get some of the oranges? Yes.
+The actress wanted at least thirteen of the umbrellas. Did the actress want at least thirteen of the umbrellas?", Yes.,1
+1,thirteen-sixteen,"The singer spotted half of the attractions. Did the singer spot some of the attractions? Yes.
+Michael ate thirteen of the apples. Did Michael eat sixteen of the apples?", Yes.,0
+1,sixteen-thirteen,"The singer spotted half of the attractions. Did the singer spot some of the attractions? Yes.
+Adam owned sixteen of the strawberries. Did Adam own thirteen of the strawberries?", Yes.,1
+1,sixteen-at least thirteen,"The singer spotted half of the attractions. Did the singer spot some of the attractions? Yes.
+Jim noticed sixteen of the performers. Did Jim notice at least thirteen of the performers?", Yes.,1
+1,at least thirteen-sixteen,"The singer spotted half of the attractions. Did the singer spot some of the attractions? Yes.
+Jo saw at least thirteen of the shirts. Did Jo see sixteen of the shirts?", Yes.,0
+1,sixteen-sixteen,"The singer spotted half of the attractions. Did the singer spot some of the attractions? Yes.
+Sophie spotted sixteen of the cats. Did Sophie spot sixteen of the cats?", Yes.,1
+1,at least thirteen-at least thirteen,"The singer spotted half of the attractions. Did the singer spot some of the attractions? Yes.
+The woman ate at least thirteen of the burgers. Did the woman eat at least thirteen of the burgers?", Yes.,1
+1,thirteen-sixteen,"Bill sold three of the pancakes. Did Bill sell three of the pancakes? Yes.
+Thirteen of the cupcakes are warm. Are sixteen of the cupcakes warm?", Yes.,0
+1,sixteen-thirteen,"Bill sold three of the pancakes. Did Bill sell three of the pancakes? Yes.
+Mary had sixteen of the sandwiches. Did Mary have thirteen of the sandwiches?", No.,0
+1,sixteen-at least thirteen,"Bill sold three of the pancakes. Did Bill sell three of the pancakes? Yes.
+Sixteen of the shoes are cheap. Are at least thirteen of the shoes cheap?", Yes.,1
+1,at least thirteen-sixteen,"Bill sold three of the pancakes. Did Bill sell three of the pancakes? Yes.
+The teacher wanted at least thirteen of the snacks. Did the teacher want sixteen of the snacks?", Yes.,0
+1,sixteen-sixteen,"Bill sold three of the pancakes. Did Bill sell three of the pancakes? Yes.
+John ate sixteen of the oranges. Did John eat sixteen of the oranges?", Yes.,1
+1,at least thirteen-at least thirteen,"Bill sold three of the pancakes. Did Bill sell three of the pancakes? Yes.
+Jo wanted at least thirteen of the keyrings. Did Jo want at least thirteen of the keyrings?", Yes.,1
+1,thirteen-sixteen,"Sally ate three of the cupcakes. Did Sally eat more than two of the cupcakes? Yes.
+Ann owned thirteen of the strawberries. Did Ann own sixteen of the strawberries?", No.,1
+1,sixteen-thirteen,"Sally ate three of the cupcakes. Did Sally eat more than two of the cupcakes? Yes.
+The actor sold sixteen of the chocolates. Did the actor sell thirteen of the chocolates?", No.,0
+1,sixteen-at least thirteen,"Sally ate three of the cupcakes. Did Sally eat more than two of the cupcakes? Yes.
+Sam wanted sixteen of the rings. Did Sam want at least thirteen of the rings?", Yes.,1
+1,at least thirteen-sixteen,"Sally ate three of the cupcakes. Did Sally eat more than two of the cupcakes? Yes.
+The actor saw at least thirteen of the hats. Did the actor see sixteen of the hats?", No.,0
+1,sixteen-sixteen,"Sally ate three of the cupcakes. Did Sally eat more than two of the cupcakes? Yes.
+The actress spotted sixteen of the pancakes. Did the actress spot sixteen of the pancakes?", Yes.,1
+1,at least thirteen-at least thirteen,"Sally ate three of the cupcakes. Did Sally eat more than two of the cupcakes? Yes.
+Michael wanted at least thirteen of the shirts. Did Michael want at least thirteen of the shirts?", Yes.,1
+1,thirteen-sixteen,"Three of the chocolates are impressive. Are three of the chocolates impressive? Yes.
+Sam liked thirteen of the apples. Did Sam like sixteen of the apples?", No.,1
+1,sixteen-thirteen,"Three of the chocolates are impressive. Are three of the chocolates impressive? Yes.
+Sixteen of the cupcakes are cold. Are thirteen of the cupcakes cold?", Yes.,1
+1,sixteen-at least thirteen,"Three of the chocolates are impressive. Are three of the chocolates impressive? Yes.
+Ann saw sixteen of the candles. Did Ann see at least thirteen of the candles?", Yes.,1
+1,at least thirteen-sixteen,"Three of the chocolates are impressive. Are three of the chocolates impressive? Yes.
+Ann had at least thirteen of the sandwiches. Did Ann have sixteen of the sandwiches?", Yes.,0
+1,sixteen-sixteen,"Three of the chocolates are impressive. Are three of the chocolates impressive? Yes.
+The actor owned sixteen of the backpacks. Did the actor own sixteen of the backpacks?", Yes.,1
+1,at least thirteen-at least thirteen,"Three of the chocolates are impressive. Are three of the chocolates impressive? Yes.
+Sam owned at least thirteen of the rings. Did Sam own at least thirteen of the rings?", Yes.,1
+1,thirteen-sixteen,"Three of the bottles are orange. Are three of the bottles orange? Yes.
+The teacher ordered thirteen of the oranges. Did the teacher order sixteen of the oranges?", No.,1
+1,sixteen-thirteen,"Three of the bottles are orange. Are three of the bottles orange? Yes.
+Sixteen of the toys are cheap. Are thirteen of the toys cheap?", No.,0
+1,sixteen-at least thirteen,"Three of the bottles are orange. Are three of the bottles orange? Yes.
+Robin owned sixteen of the pastries. Did Robin own at least thirteen of the pastries?", Yes.,1
+1,at least thirteen-sixteen,"Three of the bottles are orange. Are three of the bottles orange? Yes.
+Sidney had at least thirteen of the keyrings. Did Sidney have sixteen of the keyrings?", No.,0
+1,sixteen-sixteen,"Three of the bottles are orange. Are three of the bottles orange? Yes.
+Sam noticed sixteen of the snacks. Did Sam notice sixteen of the snacks?", Yes.,1
+1,at least thirteen-at least thirteen,"Three of the bottles are orange. Are three of the bottles orange? Yes.
+Jo ate at least thirteen of the cupcakes. Did Jo eat at least thirteen of the cupcakes?", Yes.,1
+1,thirteen-sixteen,"John bought half of the peanuts. Did John buy half of the peanuts? Yes.
+Sally liked thirteen of the oranges. Did Sally like sixteen of the oranges?", No.,1
+1,sixteen-thirteen,"John bought half of the peanuts. Did John buy half of the peanuts? Yes.
+Robin saw sixteen of the warnings. Did Robin see thirteen of the warnings?", No.,0
+1,sixteen-at least thirteen,"John bought half of the peanuts. Did John buy half of the peanuts? Yes.
+The actor bought sixteen of the bottles. Did the actor buy at least thirteen of the bottles?", Yes.,1
+1,at least thirteen-sixteen,"John bought half of the peanuts. Did John buy half of the peanuts? Yes.
+At least thirteen of the pancakes are expensive. Are sixteen of the pancakes expensive?", No.,0
+1,sixteen-sixteen,"John bought half of the peanuts. Did John buy half of the peanuts? Yes.
+Lucy owned sixteen of the pretzels. Did Lucy own sixteen of the pretzels?", Yes.,1
+1,at least thirteen-at least thirteen,"John bought half of the peanuts. Did John buy half of the peanuts? Yes.
+Bill owned at least thirteen of the bagels. Did Bill own at least thirteen of the bagels?", Yes.,1
+1,thirteen-sixteen,"The woman noticed three of the adverts. Did the woman notice three of the adverts? Yes.
+The teacher spotted thirteen of the peanuts. Did the teacher spot sixteen of the peanuts?", No.,1
+1,sixteen-thirteen,"The woman noticed three of the adverts. Did the woman notice three of the adverts? Yes.
+The man sold sixteen of the keyrings. Did the man sell thirteen of the keyrings?", No.,0
+1,sixteen-at least thirteen,"The woman noticed three of the adverts. Did the woman notice three of the adverts? Yes.
+Sidney ordered sixteen of the tickets. Did Sidney order at least thirteen of the tickets?", Yes.,1
+1,at least thirteen-sixteen,"The woman noticed three of the adverts. Did the woman notice three of the adverts? Yes.
+The teacher saw at least thirteen of the cars. Did the teacher see sixteen of the cars?", No.,0
+1,sixteen-sixteen,"The woman noticed three of the adverts. Did the woman notice three of the adverts? Yes.
+Sixteen of the mugs are on sale. Are sixteen of the mugs on sale?", Yes.,1
+1,at least thirteen-at least thirteen,"The woman noticed three of the adverts. Did the woman notice three of the adverts? Yes.
+The woman spotted at least thirteen of the pastries. Did the woman spot at least thirteen of the pastries?", Yes.,1
+1,thirteen-sixteen,"Adam bought some of the bottles. Did Adam buy two of the bottles? Yes.
+Jo owned thirteen of the rings. Did Jo own sixteen of the rings?", No.,1
+1,sixteen-thirteen,"Adam bought some of the bottles. Did Adam buy two of the bottles? Yes.
+Jim got sixteen of the pancakes. Did Jim get thirteen of the pancakes?", No.,0
+1,sixteen-at least thirteen,"Adam bought some of the bottles. Did Adam buy two of the bottles? Yes.
+Sophie spotted sixteen of the pancakes. Did Sophie spot at least thirteen of the pancakes?", Yes.,1
+1,at least thirteen-sixteen,"Adam bought some of the bottles. Did Adam buy two of the bottles? Yes.
+Sam spotted at least thirteen of the parades. Did Sam spot sixteen of the parades?", Yes.,0
+1,sixteen-sixteen,"Adam bought some of the bottles. Did Adam buy two of the bottles? Yes.
+Sixteen of the apples are colourful. Are sixteen of the apples colourful?", Yes.,1
+1,at least thirteen-at least thirteen,"Adam bought some of the bottles. Did Adam buy two of the bottles? Yes.
+Sam liked at least thirteen of the chocolates. Did Sam like at least thirteen of the chocolates?", Yes.,1
+1,thirteen-sixteen,"Jim purchased three of the sandwiches. Did Jim purchase more than two of the sandwiches? Yes.
+The actor saw thirteen of the performers. Did the actor see sixteen of the performers?", No.,1
+1,sixteen-thirteen,"Jim purchased three of the sandwiches. Did Jim purchase more than two of the sandwiches? Yes.
+Jim ate sixteen of the pastries. Did Jim eat thirteen of the pastries?", Yes.,1
+1,sixteen-at least thirteen,"Jim purchased three of the sandwiches. Did Jim purchase more than two of the sandwiches? Yes.
+Ann spotted sixteen of the cakes. Did Ann spot at least thirteen of the cakes?", Yes.,1
+1,at least thirteen-sixteen,"Jim purchased three of the sandwiches. Did Jim purchase more than two of the sandwiches? Yes.
+Mark noticed at least thirteen of the cars. Did Mark notice sixteen of the cars?", Yes.,0
+1,sixteen-sixteen,"Jim purchased three of the sandwiches. Did Jim purchase more than two of the sandwiches? Yes.
+Adam liked sixteen of the mugs. Did Adam like sixteen of the mugs?", Yes.,1
+1,at least thirteen-at least thirteen,"Jim purchased three of the sandwiches. Did Jim purchase more than two of the sandwiches? Yes.
+The teacher ate at least thirteen of the cherries. Did the teacher eat at least thirteen of the cherries?", Yes.,1
+1,thirteen-sixteen,"Jim sold some of the oranges. Did Jim sell more than one of the oranges? Yes.
+Jo got thirteen of the sweaters. Did Jo get sixteen of the sweaters?", No.,1
+1,sixteen-thirteen,"Jim sold some of the oranges. Did Jim sell more than one of the oranges? Yes.
+Sixteen of the mugs are green. Are thirteen of the mugs green?", Yes.,1
+1,sixteen-at least thirteen,"Jim sold some of the oranges. Did Jim sell more than one of the oranges? Yes.
+The singer purchased sixteen of the cherries. Did the singer purchase at least thirteen of the cherries?", Yes.,1
+1,at least thirteen-sixteen,"Jim sold some of the oranges. Did Jim sell more than one of the oranges? Yes.
+Ann ordered at least thirteen of the sweaters. Did Ann order sixteen of the sweaters?", No.,0
+1,sixteen-sixteen,"Jim sold some of the oranges. Did Jim sell more than one of the oranges? Yes.
+Jo got sixteen of the shirts. Did Jo get sixteen of the shirts?", Yes.,1
+1,at least thirteen-at least thirteen,"Jim sold some of the oranges. Did Jim sell more than one of the oranges? Yes.
+Sam noticed at least thirteen of the backpacks. Did Sam notice at least thirteen of the backpacks?", Yes.,1
+1,thirteen-sixteen,"Adam got half of the hats. Did Adam get half of the hats? Yes.
+The actress saw thirteen of the burgers. Did the actress see sixteen of the burgers?", No.,1
+1,sixteen-thirteen,"Adam got half of the hats. Did Adam get half of the hats? Yes.
+Adam bought sixteen of the cars. Did Adam buy thirteen of the cars?", No.,0
+1,sixteen-at least thirteen,"Adam got half of the hats. Did Adam get half of the hats? Yes.
+Ann got sixteen of the scarves. Did Ann get at least thirteen of the scarves?", Yes.,1
+1,at least thirteen-sixteen,"Adam got half of the hats. Did Adam get half of the hats? Yes.
+The teacher bought at least thirteen of the apples. Did the teacher buy sixteen of the apples?", No.,0
+1,sixteen-sixteen,"Adam got half of the hats. Did Adam get half of the hats? Yes.
+Sixteen of the mugs are green. Are sixteen of the mugs green?", Yes.,1
+1,at least thirteen-at least thirteen,"Adam got half of the hats. Did Adam get half of the hats? Yes.
+Sally ordered at least thirteen of the cherries. Did Sally order at least thirteen of the cherries?", Yes.,1
+1,thirteen-sixteen,"Ann had three of the pretzels. Did Ann have three of the pretzels? Yes.
+The teacher sold thirteen of the toys. Did the teacher sell sixteen of the toys?", No.,1
+1,sixteen-thirteen,"Ann had three of the pretzels. Did Ann have three of the pretzels? Yes.
+Sophie bought sixteen of the snacks. Did Sophie buy thirteen of the snacks?", No.,0
+1,sixteen-at least thirteen,"Ann had three of the pretzels. Did Ann have three of the pretzels? Yes.
+Mary bought sixteen of the scarves. Did Mary buy at least thirteen of the scarves?", Yes.,1
+1,at least thirteen-sixteen,"Ann had three of the pretzels. Did Ann have three of the pretzels? Yes.
+At least thirteen of the rings are cheap. Are sixteen of the rings cheap?", Yes.,0
+1,sixteen-sixteen,"Ann had three of the pretzels. Did Ann have three of the pretzels? Yes.
+Sidney bought sixteen of the apples. Did Sidney buy sixteen of the apples?", Yes.,1
+1,at least thirteen-at least thirteen,"Ann had three of the pretzels. Did Ann have three of the pretzels? Yes.
+The actress bought at least thirteen of the cupcakes. Did the actress buy at least thirteen of the cupcakes?", Yes.,1
+1,thirteen-sixteen,"The man liked two of the apples. Did the man like two of the apples? Yes.
+Mark got thirteen of the shoes. Did Mark get sixteen of the shoes?", No.,1
+1,sixteen-thirteen,"The man liked two of the apples. Did the man like two of the apples? Yes.
+Jo noticed sixteen of the shirts. Did Jo notice thirteen of the shirts?", No.,0
+1,sixteen-at least thirteen,"The man liked two of the apples. Did the man like two of the apples? Yes.
+Sixteen of the pretzels are mouldy. Are at least thirteen of the pretzels mouldy?", Yes.,1
+1,at least thirteen-sixteen,"The man liked two of the apples. Did the man like two of the apples? Yes.
+At least thirteen of the pastries are mouldy. Are sixteen of the pastries mouldy?", No.,0
+1,sixteen-sixteen,"The man liked two of the apples. Did the man like two of the apples? Yes.
+Jim wanted sixteen of the umbrellas. Did Jim want sixteen of the umbrellas?", Yes.,1
+1,at least thirteen-at least thirteen,"The man liked two of the apples. Did the man like two of the apples? Yes.
+At least thirteen of the adverts are colourful. Are at least thirteen of the adverts colourful?", Yes.,1
+1,thirteen-sixteen,"Three of the backpacks are orange. Are three of the backpacks orange? Yes.
+Thirteen of the tickets are red. Are sixteen of the tickets red?", No.,1
+1,sixteen-thirteen,"Three of the backpacks are orange. Are three of the backpacks orange? Yes.
+The actor liked sixteen of the candles. Did the actor like thirteen of the candles?", No.,0
+1,sixteen-at least thirteen,"Three of the backpacks are orange. Are three of the backpacks orange? Yes.
+Lucy got sixteen of the pretzels. Did Lucy get at least thirteen of the pretzels?", Yes.,1
+1,at least thirteen-sixteen,"Three of the backpacks are orange. Are three of the backpacks orange? Yes.
+Jo bought at least thirteen of the sandwiches. Did Jo buy sixteen of the sandwiches?", No.,0
+1,sixteen-sixteen,"Three of the backpacks are orange. Are three of the backpacks orange? Yes.
+Sixteen of the shoes are green. Are sixteen of the shoes green?", Yes.,1
+1,at least thirteen-at least thirteen,"Three of the backpacks are orange. Are three of the backpacks orange? Yes.
+At least thirteen of the strawberries are delicious. Are at least thirteen of the strawberries delicious?", Yes.,1
+1,thirteen-sixteen,"Sam got two of the sweaters. Did Sam get some of the sweaters? Yes.
+Thirteen of the toys are yellow. Are sixteen of the toys yellow?", Yes.,0
+1,sixteen-thirteen,"Sam got two of the sweaters. Did Sam get some of the sweaters? Yes.
+The woman liked sixteen of the cars. Did the woman like thirteen of the cars?", No.,0
+1,sixteen-at least thirteen,"Sam got two of the sweaters. Did Sam get some of the sweaters? Yes.
+The man sold sixteen of the strawberries. Did the man sell at least thirteen of the strawberries?", Yes.,1
+1,at least thirteen-sixteen,"Sam got two of the sweaters. Did Sam get some of the sweaters? Yes.
+Mark got at least thirteen of the hats. Did Mark get sixteen of the hats?", Yes.,0
+1,sixteen-sixteen,"Sam got two of the sweaters. Did Sam get some of the sweaters? Yes.
+The singer wanted sixteen of the cherries. Did the singer want sixteen of the cherries?", Yes.,1
+1,at least thirteen-at least thirteen,"Sam got two of the sweaters. Did Sam get some of the sweaters? Yes.
+Adam bought at least thirteen of the toys. Did Adam buy at least thirteen of the toys?", Yes.,1
+1,thirteen-sixteen,"Three of the pastries are pretty. Are more than two of the pastries pretty? Yes.
+Thirteen of the toys are red. Are sixteen of the toys red?", Yes.,0
+1,sixteen-thirteen,"Three of the pastries are pretty. Are more than two of the pastries pretty? Yes.
+The actress ordered sixteen of the strawberries. Did the actress order thirteen of the strawberries?", No.,0
+1,sixteen-at least thirteen,"Three of the pastries are pretty. Are more than two of the pastries pretty? Yes.
+Robin ate sixteen of the pancakes. Did Robin eat at least thirteen of the pancakes?", Yes.,1
+1,at least thirteen-sixteen,"Three of the pastries are pretty. Are more than two of the pastries pretty? Yes.
+At least thirteen of the candles are yellow. Are sixteen of the candles yellow?", Yes.,0
+1,sixteen-sixteen,"Three of the pastries are pretty. Are more than two of the pastries pretty? Yes.
+Sixteen of the cars are pretty. Are sixteen of the cars pretty?", Yes.,1
+1,at least thirteen-at least thirteen,"Three of the pastries are pretty. Are more than two of the pastries pretty? Yes.
+At least thirteen of the apples are mouldy. Are at least thirteen of the apples mouldy?", Yes.,1
+1,thirteen-sixteen,"Both of the candles are colourful. Are both of the candles colourful? Yes.
+Sidney spotted thirteen of the performers. Did Sidney spot sixteen of the performers?", No.,1
+1,sixteen-thirteen,"Both of the candles are colourful. Are both of the candles colourful? Yes.
+Sixteen of the attractions are impressive. Are thirteen of the attractions impressive?", Yes.,1
+1,sixteen-at least thirteen,"Both of the candles are colourful. Are both of the candles colourful? Yes.
+Mary had sixteen of the churros. Did Mary have at least thirteen of the churros?", Yes.,1
+1,at least thirteen-sixteen,"Both of the candles are colourful. Are both of the candles colourful? Yes.
+At least thirteen of the adverts are impressive. Are sixteen of the adverts impressive?", Yes.,0
+1,sixteen-sixteen,"Both of the candles are colourful. Are both of the candles colourful? Yes.
+Adam got sixteen of the cupcakes. Did Adam get sixteen of the cupcakes?", Yes.,1
+1,at least thirteen-at least thirteen,"Both of the candles are colourful. Are both of the candles colourful? Yes.
+Michael wanted at least thirteen of the cupcakes. Did Michael want at least thirteen of the cupcakes?", Yes.,1
+1,thirteen-sixteen,"Michael spotted some of the rings. Did Michael spot two of the rings? Yes.
+Sophie noticed thirteen of the burgers. Did Sophie notice sixteen of the burgers?", No.,1
+1,sixteen-thirteen,"Michael spotted some of the rings. Did Michael spot two of the rings? Yes.
+Jo spotted sixteen of the strawberries. Did Jo spot thirteen of the strawberries?", Yes.,1
+1,sixteen-at least thirteen,"Michael spotted some of the rings. Did Michael spot two of the rings? Yes.
+Sophie spotted sixteen of the candles. Did Sophie spot at least thirteen of the candles?", Yes.,1
+1,at least thirteen-sixteen,"Michael spotted some of the rings. Did Michael spot two of the rings? Yes.
+Lucy owned at least thirteen of the snacks. Did Lucy own sixteen of the snacks?", No.,0
+1,sixteen-sixteen,"Michael spotted some of the rings. Did Michael spot two of the rings? Yes.
+The actor saw sixteen of the sights. Did the actor see sixteen of the sights?", Yes.,1
+1,at least thirteen-at least thirteen,"Michael spotted some of the rings. Did Michael spot two of the rings? Yes.
+The teacher had at least thirteen of the candles. Did the teacher have at least thirteen of the candles?", Yes.,1
+1,thirteen-sixteen,"The woman ate three of the burgers. Did the woman eat three of the burgers? Yes.
+Bill got thirteen of the sweaters. Did Bill get sixteen of the sweaters?", No.,1
+1,sixteen-thirteen,"The woman ate three of the burgers. Did the woman eat three of the burgers? Yes.
+Sixteen of the sweaters are green. Are thirteen of the sweaters green?", Yes.,1
+1,sixteen-at least thirteen,"The woman ate three of the burgers. Did the woman eat three of the burgers? Yes.
+Sixteen of the sweaters are cheap. Are at least thirteen of the sweaters cheap?", Yes.,1
+1,at least thirteen-sixteen,"The woman ate three of the burgers. Did the woman eat three of the burgers? Yes.
+The woman liked at least thirteen of the pancakes. Did the woman like sixteen of the pancakes?", Yes.,0
+1,sixteen-sixteen,"The woman ate three of the burgers. Did the woman eat three of the burgers? Yes.
+The actress spotted sixteen of the apples. Did the actress spot sixteen of the apples?", Yes.,1
+1,at least thirteen-at least thirteen,"The woman ate three of the burgers. Did the woman eat three of the burgers? Yes.
+At least thirteen of the sandwiches are sold out. Are at least thirteen of the sandwiches sold out?", Yes.,1
+1,thirteen-sixteen,"The man had half of the umbrellas. Did the man have half of the umbrellas? Yes.
+Robin sold thirteen of the pretzels. Did Robin sell sixteen of the pretzels?", No.,1
+1,sixteen-thirteen,"The man had half of the umbrellas. Did the man have half of the umbrellas? Yes.
+Sidney spotted sixteen of the stores. Did Sidney spot thirteen of the stores?", No.,0
+1,sixteen-at least thirteen,"The man had half of the umbrellas. Did the man have half of the umbrellas? Yes.
+Sally sold sixteen of the cherries. Did Sally sell at least thirteen of the cherries?", Yes.,1
+1,at least thirteen-sixteen,"The man had half of the umbrellas. Did the man have half of the umbrellas? Yes.
+Sally got at least thirteen of the apples. Did Sally get sixteen of the apples?", No.,0
+1,sixteen-sixteen,"The man had half of the umbrellas. Did the man have half of the umbrellas? Yes.
+Sixteen of the chocolates are cold. Are sixteen of the chocolates cold?", Yes.,1
+1,at least thirteen-at least thirteen,"The man had half of the umbrellas. Did the man have half of the umbrellas? Yes.
+Sidney wanted at least thirteen of the mugs. Did Sidney want at least thirteen of the mugs?", Yes.,1
+2,thirteen-sixteen,"Sally owned three of the burgers. Did Sally own more than two of the burgers? Yes.
+The actress ate several of the pancakes. Did the actress eat none of the pancakes? No.
+Thirteen of the burgers are impressive. Are sixteen of the burgers impressive?", No.,1
+2,sixteen-thirteen,"Sally owned three of the burgers. Did Sally own more than two of the burgers? Yes.
+The actress ate several of the pancakes. Did the actress eat none of the pancakes? No.
+Sally purchased sixteen of the oranges. Did Sally purchase thirteen of the oranges?", No.,0
+2,sixteen-at least thirteen,"Sally owned three of the burgers. Did Sally own more than two of the burgers? Yes.
+The actress ate several of the pancakes. Did the actress eat none of the pancakes? No.
+The teacher got sixteen of the sandwiches. Did the teacher get at least thirteen of the sandwiches?", Yes.,1
+2,at least thirteen-sixteen,"Sally owned three of the burgers. Did Sally own more than two of the burgers? Yes.
+The actress ate several of the pancakes. Did the actress eat none of the pancakes? No.
+At least thirteen of the shirts are red. Are sixteen of the shirts red?", Yes.,0
+2,sixteen-sixteen,"Sally owned three of the burgers. Did Sally own more than two of the burgers? Yes.
+The actress ate several of the pancakes. Did the actress eat none of the pancakes? No.
+Sixteen of the scarves are red. Are sixteen of the scarves red?", Yes.,1
+2,at least thirteen-at least thirteen,"Sally owned three of the burgers. Did Sally own more than two of the burgers? Yes.
+The actress ate several of the pancakes. Did the actress eat none of the pancakes? No.
+Jo spotted at least thirteen of the mice. Did Jo spot at least thirteen of the mice?", Yes.,1
+2,thirteen-sixteen,"Laura got most of the shirts. Did Laura get none of the shirts? No.
+The actor wanted two of the rings. Did the actor want some of the rings? Yes.
+Sally spotted thirteen of the giraffes. Did Sally spot sixteen of the giraffes?", No.,1
+2,sixteen-thirteen,"Laura got most of the shirts. Did Laura get none of the shirts? No.
+The actor wanted two of the rings. Did the actor want some of the rings? Yes.
+Laura got sixteen of the pancakes. Did Laura get thirteen of the pancakes?", No.,0
+2,sixteen-at least thirteen,"Laura got most of the shirts. Did Laura get none of the shirts? No.
+The actor wanted two of the rings. Did the actor want some of the rings? Yes.
+Laura ate sixteen of the chocolates. Did Laura eat at least thirteen of the chocolates?", Yes.,1
+2,at least thirteen-sixteen,"Laura got most of the shirts. Did Laura get none of the shirts? No.
+The actor wanted two of the rings. Did the actor want some of the rings? Yes.
+The actress had at least thirteen of the snacks. Did the actress have sixteen of the snacks?", No.,0
+2,sixteen-sixteen,"Laura got most of the shirts. Did Laura get none of the shirts? No.
+The actor wanted two of the rings. Did the actor want some of the rings? Yes.
+Sixteen of the scarves are pretty. Are sixteen of the scarves pretty?", Yes.,1
+2,at least thirteen-at least thirteen,"Laura got most of the shirts. Did Laura get none of the shirts? No.
+The actor wanted two of the rings. Did the actor want some of the rings? Yes.
+Bill purchased at least thirteen of the shoes. Did Bill purchase at least thirteen of the shoes?", Yes.,1
+2,thirteen-sixteen,"The teacher spotted half of the dogs. Did the teacher spot half of the dogs? Yes.
+Sidney got none of the churros. Did Sidney get all of the churros? No.
+The actress wanted thirteen of the mugs. Did the actress want sixteen of the mugs?", No.,1
+2,sixteen-thirteen,"The teacher spotted half of the dogs. Did the teacher spot half of the dogs? Yes.
+Sidney got none of the churros. Did Sidney get all of the churros? No.
+The man got sixteen of the cherries. Did the man get thirteen of the cherries?", Yes.,1
+2,sixteen-at least thirteen,"The teacher spotted half of the dogs. Did the teacher spot half of the dogs? Yes.
+Sidney got none of the churros. Did Sidney get all of the churros? No.
+Sixteen of the attractions are colourful. Are at least thirteen of the attractions colourful?", Yes.,1
+2,at least thirteen-sixteen,"The teacher spotted half of the dogs. Did the teacher spot half of the dogs? Yes.
+Sidney got none of the churros. Did Sidney get all of the churros? No.
+Jo bought at least thirteen of the bottles. Did Jo buy sixteen of the bottles?", Yes.,0
+2,sixteen-sixteen,"The teacher spotted half of the dogs. Did the teacher spot half of the dogs? Yes.
+Sidney got none of the churros. Did Sidney get all of the churros? No.
+The actress noticed sixteen of the oranges. Did the actress notice sixteen of the oranges?", Yes.,1
+2,at least thirteen-at least thirteen,"The teacher spotted half of the dogs. Did the teacher spot half of the dogs? Yes.
+Sidney got none of the churros. Did Sidney get all of the churros? No.
+The man had at least thirteen of the shirts. Did the man have at least thirteen of the shirts?", Yes.,1
+2,thirteen-sixteen,"Jo wanted several of the pretzels. Did Jo want none of the pretzels? No.
+Mark owned some of the snacks. Did Mark own more than one of the snacks? Yes.
+Sidney got thirteen of the pancakes. Did Sidney get sixteen of the pancakes?", No.,1
+2,sixteen-thirteen,"Jo wanted several of the pretzels. Did Jo want none of the pretzels? No.
+Mark owned some of the snacks. Did Mark own more than one of the snacks? Yes.
+Bill had sixteen of the pretzels. Did Bill have thirteen of the pretzels?", No.,0
+2,sixteen-at least thirteen,"Jo wanted several of the pretzels. Did Jo want none of the pretzels? No.
+Mark owned some of the snacks. Did Mark own more than one of the snacks? Yes.
+Ann ate sixteen of the pretzels. Did Ann eat at least thirteen of the pretzels?", Yes.,1
+2,at least thirteen-sixteen,"Jo wanted several of the pretzels. Did Jo want none of the pretzels? No.
+Mark owned some of the snacks. Did Mark own more than one of the snacks? Yes.
+Sidney wanted at least thirteen of the pretzels. Did Sidney want sixteen of the pretzels?", No.,0
+2,sixteen-sixteen,"Jo wanted several of the pretzels. Did Jo want none of the pretzels? No.
+Mark owned some of the snacks. Did Mark own more than one of the snacks? Yes.
+Sam wanted sixteen of the candles. Did Sam want sixteen of the candles?", No.,0
+2,at least thirteen-at least thirteen,"Jo wanted several of the pretzels. Did Jo want none of the pretzels? No.
+Mark owned some of the snacks. Did Mark own more than one of the snacks? Yes.
+Mark ordered at least thirteen of the pancakes. Did Mark order at least thirteen of the pancakes?", Yes.,1
+2,thirteen-sixteen,"The woman bought several of the bagels. Did the woman buy none of the bagels? No.
+Sophie noticed both of the cherries. Did Sophie notice all of the cherries? Yes.
+Bill spotted thirteen of the mice. Did Bill spot sixteen of the mice?", No.,1
+2,sixteen-thirteen,"The woman bought several of the bagels. Did the woman buy none of the bagels? No.
+Sophie noticed both of the cherries. Did Sophie notice all of the cherries? Yes.
+The man ate sixteen of the oranges. Did the man eat thirteen of the oranges?", No.,0
+2,sixteen-at least thirteen,"The woman bought several of the bagels. Did the woman buy none of the bagels? No.
+Sophie noticed both of the cherries. Did Sophie notice all of the cherries? Yes.
+Sixteen of the sweaters are blue. Are at least thirteen of the sweaters blue?", Yes.,1
+2,at least thirteen-sixteen,"The woman bought several of the bagels. Did the woman buy none of the bagels? No.
+Sophie noticed both of the cherries. Did Sophie notice all of the cherries? Yes.
+Jo liked at least thirteen of the hats. Did Jo like sixteen of the hats?", No.,0
+2,sixteen-sixteen,"The woman bought several of the bagels. Did the woman buy none of the bagels? No.
+Sophie noticed both of the cherries. Did Sophie notice all of the cherries? Yes.
+Sidney ordered sixteen of the mugs. Did Sidney order sixteen of the mugs?", No.,0
+2,at least thirteen-at least thirteen,"The woman bought several of the bagels. Did the woman buy none of the bagels? No.
+Sophie noticed both of the cherries. Did Sophie notice all of the cherries? Yes.
+Jim noticed at least thirteen of the giraffes. Did Jim notice at least thirteen of the giraffes?", Yes.,1
+2,thirteen-sixteen,"The singer had most of the chocolates. Did the singer have none of the chocolates? No.
+Ann spotted three of the umbrellas. Did Ann spot three of the umbrellas? Yes.
+The man owned thirteen of the strawberries. Did the man own sixteen of the strawberries?", No.,1
+2,sixteen-thirteen,"The singer had most of the chocolates. Did the singer have none of the chocolates? No.
+Ann spotted three of the umbrellas. Did Ann spot three of the umbrellas? Yes.
+Jo sold sixteen of the sweaters. Did Jo sell thirteen of the sweaters?", No.,0
+2,sixteen-at least thirteen,"The singer had most of the chocolates. Did the singer have none of the chocolates? No.
+Ann spotted three of the umbrellas. Did Ann spot three of the umbrellas? Yes.
+Sixteen of the sweaters are impressive. Are at least thirteen of the sweaters impressive?", Yes.,1
+2,at least thirteen-sixteen,"The singer had most of the chocolates. Did the singer have none of the chocolates? No.
+Ann spotted three of the umbrellas. Did Ann spot three of the umbrellas? Yes.
+Ann sold at least thirteen of the bagels. Did Ann sell sixteen of the bagels?", No.,0
+2,sixteen-sixteen,"The singer had most of the chocolates. Did the singer have none of the chocolates? No.
+Ann spotted three of the umbrellas. Did Ann spot three of the umbrellas? Yes.
+Jo ordered sixteen of the backpacks. Did Jo order sixteen of the backpacks?", Yes.,1
+2,at least thirteen-at least thirteen,"The singer had most of the chocolates. Did the singer have none of the chocolates? No.
+Ann spotted three of the umbrellas. Did Ann spot three of the umbrellas? Yes.
+The teacher spotted at least thirteen of the signs. Did the teacher spot at least thirteen of the signs?", Yes.,1
+2,thirteen-sixteen,"Several of the strawberries are colourful. Are none of the strawberries colourful? No.
+Ann sold two of the bagels. Did Ann sell more than one of the bagels? Yes.
+Sophie had thirteen of the pastries. Did Sophie have sixteen of the pastries?", No.,1
+2,sixteen-thirteen,"Several of the strawberries are colourful. Are none of the strawberries colourful? No.
+Ann sold two of the bagels. Did Ann sell more than one of the bagels? Yes.
+Robin bought sixteen of the bottles. Did Robin buy thirteen of the bottles?", No.,0
+2,sixteen-at least thirteen,"Several of the strawberries are colourful. Are none of the strawberries colourful? No.
+Ann sold two of the bagels. Did Ann sell more than one of the bagels? Yes.
+Sixteen of the cupcakes are colourful. Are at least thirteen of the cupcakes colourful?", Yes.,1
+2,at least thirteen-sixteen,"Several of the strawberries are colourful. Are none of the strawberries colourful? No.
+Ann sold two of the bagels. Did Ann sell more than one of the bagels? Yes.
+Lucy saw at least thirteen of the parades. Did Lucy see sixteen of the parades?", No.,0
+2,sixteen-sixteen,"Several of the strawberries are colourful. Are none of the strawberries colourful? No.
+Ann sold two of the bagels. Did Ann sell more than one of the bagels? Yes.
+Lucy owned sixteen of the cherries. Did Lucy own sixteen of the cherries?", Yes.,1
+2,at least thirteen-at least thirteen,"Several of the strawberries are colourful. Are none of the strawberries colourful? No.
+Ann sold two of the bagels. Did Ann sell more than one of the bagels? Yes.
+Sidney purchased at least thirteen of the sweaters. Did Sidney purchase at least thirteen of the sweaters?", Yes.,1
+2,thirteen-sixteen,"The singer wanted several of the sweaters. Did the singer want none of the sweaters? No.
+The actor spotted some of the pancakes. Did the actor spot more than one of the pancakes? Yes.
+Laura got thirteen of the oranges. Did Laura get sixteen of the oranges?", No.,1
+2,sixteen-thirteen,"The singer wanted several of the sweaters. Did the singer want none of the sweaters? No.
+The actor spotted some of the pancakes. Did the actor spot more than one of the pancakes? Yes.
+Lucy ate sixteen of the cupcakes. Did Lucy eat thirteen of the cupcakes?", No.,0
+2,sixteen-at least thirteen,"The singer wanted several of the sweaters. Did the singer want none of the sweaters? No.
+The actor spotted some of the pancakes. Did the actor spot more than one of the pancakes? Yes.
+Sixteen of the shoes are red. Are at least thirteen of the shoes red?", Yes.,1
+2,at least thirteen-sixteen,"The singer wanted several of the sweaters. Did the singer want none of the sweaters? No.
+The actor spotted some of the pancakes. Did the actor spot more than one of the pancakes? Yes.
+Jo liked at least thirteen of the rings. Did Jo like sixteen of the rings?", No.,0
+2,sixteen-sixteen,"The singer wanted several of the sweaters. Did the singer want none of the sweaters? No.
+The actor spotted some of the pancakes. Did the actor spot more than one of the pancakes? Yes.
+The singer sold sixteen of the apples. Did the singer sell sixteen of the apples?", Yes.,1
+2,at least thirteen-at least thirteen,"The singer wanted several of the sweaters. Did the singer want none of the sweaters? No.
+The actor spotted some of the pancakes. Did the actor spot more than one of the pancakes? Yes.
+Sam wanted at least thirteen of the mugs. Did Sam want at least thirteen of the mugs?", Yes.,1
+2,thirteen-sixteen,"Michael purchased exactly two of the sweaters. Did Michael purchase three of the sweaters? No.
+The actress sold two of the backpacks. Did the actress sell some of the backpacks? Yes.
+John bought thirteen of the hats. Did John buy sixteen of the hats?", No.,1
+2,sixteen-thirteen,"Michael purchased exactly two of the sweaters. Did Michael purchase three of the sweaters? No.
+The actress sold two of the backpacks. Did the actress sell some of the backpacks? Yes.
+Adam owned sixteen of the cars. Did Adam own thirteen of the cars?", No.,0
+2,sixteen-at least thirteen,"Michael purchased exactly two of the sweaters. Did Michael purchase three of the sweaters? No.
+The actress sold two of the backpacks. Did the actress sell some of the backpacks? Yes.
+Jo had sixteen of the pancakes. Did Jo have at least thirteen of the pancakes?", Yes.,1
+2,at least thirteen-sixteen,"Michael purchased exactly two of the sweaters. Did Michael purchase three of the sweaters? No.
+The actress sold two of the backpacks. Did the actress sell some of the backpacks? Yes.
+At least thirteen of the snacks are tasty. Are sixteen of the snacks tasty?", No.,0
+2,sixteen-sixteen,"Michael purchased exactly two of the sweaters. Did Michael purchase three of the sweaters? No.
+The actress sold two of the backpacks. Did the actress sell some of the backpacks? Yes.
+Sixteen of the shoes are cheap. Are sixteen of the shoes cheap?", Yes.,1
+2,at least thirteen-at least thirteen,"Michael purchased exactly two of the sweaters. Did Michael purchase three of the sweaters? No.
+The actress sold two of the backpacks. Did the actress sell some of the backpacks? Yes.
+Ann purchased at least thirteen of the snacks. Did Ann purchase at least thirteen of the snacks?", Yes.,1
+2,thirteen-sixteen,"John liked three of the snacks. Did John like more than two of the snacks? Yes.
+Bill purchased none of the oranges. Did Bill purchase all of the oranges? No.
+Sidney had thirteen of the oranges. Did Sidney have sixteen of the oranges?", No.,1
+2,sixteen-thirteen,"John liked three of the snacks. Did John like more than two of the snacks? Yes.
+Bill purchased none of the oranges. Did Bill purchase all of the oranges? No.
+The actor owned sixteen of the sandwiches. Did the actor own thirteen of the sandwiches?", No.,0
+2,sixteen-at least thirteen,"John liked three of the snacks. Did John like more than two of the snacks? Yes.
+Bill purchased none of the oranges. Did Bill purchase all of the oranges? No.
+Adam noticed sixteen of the shoes. Did Adam notice at least thirteen of the shoes?", Yes.,1
+2,at least thirteen-sixteen,"John liked three of the snacks. Did John like more than two of the snacks? Yes.
+Bill purchased none of the oranges. Did Bill purchase all of the oranges? No.
+At least thirteen of the tickets are on sale. Are sixteen of the tickets on sale?", No.,0
+2,sixteen-sixteen,"John liked three of the snacks. Did John like more than two of the snacks? Yes.
+Bill purchased none of the oranges. Did Bill purchase all of the oranges? No.
+Sophie bought sixteen of the sweaters. Did Sophie buy sixteen of the sweaters?", Yes.,1
+2,at least thirteen-at least thirteen,"John liked three of the snacks. Did John like more than two of the snacks? Yes.
+Bill purchased none of the oranges. Did Bill purchase all of the oranges? No.
+Bill spotted at least thirteen of the strawberries. Did Bill spot at least thirteen of the strawberries?", Yes.,1
+2,thirteen-sixteen,"The teacher ate both of the sandwiches. Did the teacher eat all of the sandwiches? Yes.
+Adam ate exactly two of the chocolates. Did Adam eat none of the chocolates? No.
+John had thirteen of the rings. Did John have sixteen of the rings?", No.,1
+2,sixteen-thirteen,"The teacher ate both of the sandwiches. Did the teacher eat all of the sandwiches? Yes.
+Adam ate exactly two of the chocolates. Did Adam eat none of the chocolates? No.
+The actress liked sixteen of the sandwiches. Did the actress like thirteen of the sandwiches?", No.,0
+2,sixteen-at least thirteen,"The teacher ate both of the sandwiches. Did the teacher eat all of the sandwiches? Yes.
+Adam ate exactly two of the chocolates. Did Adam eat none of the chocolates? No.
+Mary ordered sixteen of the strawberries. Did Mary order at least thirteen of the strawberries?", Yes.,1
+2,at least thirteen-sixteen,"The teacher ate both of the sandwiches. Did the teacher eat all of the sandwiches? Yes.
+Adam ate exactly two of the chocolates. Did Adam eat none of the chocolates? No.
+Jim ate at least thirteen of the strawberries. Did Jim eat sixteen of the strawberries?", No.,0
+2,sixteen-sixteen,"The teacher ate both of the sandwiches. Did the teacher eat all of the sandwiches? Yes.
+Adam ate exactly two of the chocolates. Did Adam eat none of the chocolates? No.
+Sophie liked sixteen of the bagels. Did Sophie like sixteen of the bagels?", Yes.,1
+2,at least thirteen-at least thirteen,"The teacher ate both of the sandwiches. Did the teacher eat all of the sandwiches? Yes.
+Adam ate exactly two of the chocolates. Did Adam eat none of the chocolates? No.
+Mary saw at least thirteen of the pastries. Did Mary see at least thirteen of the pastries?", Yes.,1
+2,thirteen-sixteen,"Adam ate three of the sandwiches. Did Adam eat more than two of the sandwiches? Yes.
+Lucy noticed most of the hats. Did Lucy notice none of the hats? No.
+The teacher owned thirteen of the churros. Did the teacher own sixteen of the churros?", No.,1
+2,sixteen-thirteen,"Adam ate three of the sandwiches. Did Adam eat more than two of the sandwiches? Yes.
+Lucy noticed most of the hats. Did Lucy notice none of the hats? No.
+Sixteen of the pancakes are colourful. Are thirteen of the pancakes colourful?", Yes.,1
+2,sixteen-at least thirteen,"Adam ate three of the sandwiches. Did Adam eat more than two of the sandwiches? Yes.
+Lucy noticed most of the hats. Did Lucy notice none of the hats? No.
+Lucy ate sixteen of the cherries. Did Lucy eat at least thirteen of the cherries?", Yes.,1
+2,at least thirteen-sixteen,"Adam ate three of the sandwiches. Did Adam eat more than two of the sandwiches? Yes.
+Lucy noticed most of the hats. Did Lucy notice none of the hats? No.
+Mark had at least thirteen of the sandwiches. Did Mark have sixteen of the sandwiches?", Yes.,0
+2,sixteen-sixteen,"Adam ate three of the sandwiches. Did Adam eat more than two of the sandwiches? Yes.
+Lucy noticed most of the hats. Did Lucy notice none of the hats? No.
+The actress had sixteen of the cakes. Did the actress have sixteen of the cakes?", Yes.,1
+2,at least thirteen-at least thirteen,"Adam ate three of the sandwiches. Did Adam eat more than two of the sandwiches? Yes.
+Lucy noticed most of the hats. Did Lucy notice none of the hats? No.
+Jo spotted at least thirteen of the mugs. Did Jo spot at least thirteen of the mugs?", Yes.,1
+2,thirteen-sixteen,"Sam had three of the pancakes. Did Sam have more than two of the pancakes? Yes.
+Most of the snacks are tasty. Are none of the snacks tasty? No.
+Sally bought thirteen of the umbrellas. Did Sally buy sixteen of the umbrellas?", No.,1
+2,sixteen-thirteen,"Sam had three of the pancakes. Did Sam have more than two of the pancakes? Yes.
+Most of the snacks are tasty. Are none of the snacks tasty? No.
+The actress noticed sixteen of the rings. Did the actress notice thirteen of the rings?", Yes.,1
+2,sixteen-at least thirteen,"Sam had three of the pancakes. Did Sam have more than two of the pancakes? Yes.
+Most of the snacks are tasty. Are none of the snacks tasty? No.
+The singer purchased sixteen of the pastries. Did the singer purchase at least thirteen of the pastries?", Yes.,1
+2,at least thirteen-sixteen,"Sam had three of the pancakes. Did Sam have more than two of the pancakes? Yes.
+Most of the snacks are tasty. Are none of the snacks tasty? No.
+Jim liked at least thirteen of the rings. Did Jim like sixteen of the rings?", No.,0
+2,sixteen-sixteen,"Sam had three of the pancakes. Did Sam have more than two of the pancakes? Yes.
+Most of the snacks are tasty. Are none of the snacks tasty? No.
+Mark had sixteen of the bagels. Did Mark have sixteen of the bagels?", Yes.,1
+2,at least thirteen-at least thirteen,"Sam had three of the pancakes. Did Sam have more than two of the pancakes? Yes.
+Most of the snacks are tasty. Are none of the snacks tasty? No.
+Sophie bought at least thirteen of the strawberries. Did Sophie buy at least thirteen of the strawberries?", Yes.,1
+2,thirteen-sixteen,"The woman sold exactly two of the apples. Did the woman sell one of the apples? No.
+The teacher owned both of the sandwiches. Did the teacher own all of the sandwiches? Yes.
+Jo sold thirteen of the scarves. Did Jo sell sixteen of the scarves?", No.,1
+2,sixteen-thirteen,"The woman sold exactly two of the apples. Did the woman sell one of the apples? No.
+The teacher owned both of the sandwiches. Did the teacher own all of the sandwiches? Yes.
+Mary ordered sixteen of the backpacks. Did Mary order thirteen of the backpacks?", No.,0
+2,sixteen-at least thirteen,"The woman sold exactly two of the apples. Did the woman sell one of the apples? No.
+The teacher owned both of the sandwiches. Did the teacher own all of the sandwiches? Yes.
+Sixteen of the keyrings are orange. Are at least thirteen of the keyrings orange?", Yes.,1
+2,at least thirteen-sixteen,"The woman sold exactly two of the apples. Did the woman sell one of the apples? No.
+The teacher owned both of the sandwiches. Did the teacher own all of the sandwiches? Yes.
+At least thirteen of the bagels are delicious. Are sixteen of the bagels delicious?", Yes.,0
+2,sixteen-sixteen,"The woman sold exactly two of the apples. Did the woman sell one of the apples? No.
+The teacher owned both of the sandwiches. Did the teacher own all of the sandwiches? Yes.
+Sophie wanted sixteen of the cherries. Did Sophie want sixteen of the cherries?", Yes.,1
+2,at least thirteen-at least thirteen,"The woman sold exactly two of the apples. Did the woman sell one of the apples? No.
+The teacher owned both of the sandwiches. Did the teacher own all of the sandwiches? Yes.
+At least thirteen of the sandwiches are warm. Are at least thirteen of the sandwiches warm?", Yes.,1
+2,thirteen-sixteen,"The singer spotted exactly two of the pastries. Did the singer spot three of the pastries? No.
+Some of the oranges are expensive. Are two of the oranges expensive? Yes.
+Sidney got thirteen of the cakes. Did Sidney get sixteen of the cakes?", No.,1
+2,sixteen-thirteen,"The singer spotted exactly two of the pastries. Did the singer spot three of the pastries? No.
+Some of the oranges are expensive. Are two of the oranges expensive? Yes.
+The singer sold sixteen of the cars. Did the singer sell thirteen of the cars?", No.,0
+2,sixteen-at least thirteen,"The singer spotted exactly two of the pastries. Did the singer spot three of the pastries? No.
+Some of the oranges are expensive. Are two of the oranges expensive? Yes.
+Michael purchased sixteen of the bottles. Did Michael purchase at least thirteen of the bottles?", Yes.,1
+2,at least thirteen-sixteen,"The singer spotted exactly two of the pastries. Did the singer spot three of the pastries? No.
+Some of the oranges are expensive. Are two of the oranges expensive? Yes.
+Adam noticed at least thirteen of the shirts. Did Adam notice sixteen of the shirts?", No.,0
+2,sixteen-sixteen,"The singer spotted exactly two of the pastries. Did the singer spot three of the pastries? No.
+Some of the oranges are expensive. Are two of the oranges expensive? Yes.
+The actor ordered sixteen of the bagels. Did the actor order sixteen of the bagels?", No.,0
+2,at least thirteen-at least thirteen,"The singer spotted exactly two of the pastries. Did the singer spot three of the pastries? No.
+Some of the oranges are expensive. Are two of the oranges expensive? Yes.
+At least thirteen of the pancakes are expensive. Are at least thirteen of the pancakes expensive?", Yes.,1
+2,thirteen-sixteen,"Sam wanted three of the oranges. Did Sam want more than two of the oranges? Yes.
+None of the churros are impressive. Are two of the churros impressive? No.
+Adam spotted thirteen of the cakes. Did Adam spot sixteen of the cakes?", No.,1
+2,sixteen-thirteen,"Sam wanted three of the oranges. Did Sam want more than two of the oranges? Yes.
+None of the churros are impressive. Are two of the churros impressive? No.
+John ate sixteen of the chocolates. Did John eat thirteen of the chocolates?", No.,0
+2,sixteen-at least thirteen,"Sam wanted three of the oranges. Did Sam want more than two of the oranges? Yes.
+None of the churros are impressive. Are two of the churros impressive? No.
+Adam noticed sixteen of the backpacks. Did Adam notice at least thirteen of the backpacks?", Yes.,1
+2,at least thirteen-sixteen,"Sam wanted three of the oranges. Did Sam want more than two of the oranges? Yes.
+None of the churros are impressive. Are two of the churros impressive? No.
+Bill liked at least thirteen of the oranges. Did Bill like sixteen of the oranges?", Yes.,0
+2,sixteen-sixteen,"Sam wanted three of the oranges. Did Sam want more than two of the oranges? Yes.
+None of the churros are impressive. Are two of the churros impressive? No.
+Robin wanted sixteen of the snacks. Did Robin want sixteen of the snacks?", Yes.,1
+2,at least thirteen-at least thirteen,"Sam wanted three of the oranges. Did Sam want more than two of the oranges? Yes.
+None of the churros are impressive. Are two of the churros impressive? No.
+Jim ate at least thirteen of the pastries. Did Jim eat at least thirteen of the pastries?", Yes.,1
+2,thirteen-sixteen,"Most of the burgers are expensive. Are none of the burgers expensive? No.
+Sophie liked some of the pastries. Did Sophie like two of the pastries? Yes.
+Thirteen of the bagels are delicious. Are sixteen of the bagels delicious?", No.,1
+2,sixteen-thirteen,"Most of the burgers are expensive. Are none of the burgers expensive? No.
+Sophie liked some of the pastries. Did Sophie like two of the pastries? Yes.
+Jim had sixteen of the oranges. Did Jim have thirteen of the oranges?", No.,0
+2,sixteen-at least thirteen,"Most of the burgers are expensive. Are none of the burgers expensive? No.
+Sophie liked some of the pastries. Did Sophie like two of the pastries? Yes.
+Jim had sixteen of the sweaters. Did Jim have at least thirteen of the sweaters?", Yes.,1
+2,at least thirteen-sixteen,"Most of the burgers are expensive. Are none of the burgers expensive? No.
+Sophie liked some of the pastries. Did Sophie like two of the pastries? Yes.
+Sally got at least thirteen of the tickets. Did Sally get sixteen of the tickets?", No.,0
+2,sixteen-sixteen,"Most of the burgers are expensive. Are none of the burgers expensive? No.
+Sophie liked some of the pastries. Did Sophie like two of the pastries? Yes.
+Lucy bought sixteen of the scarves. Did Lucy buy sixteen of the scarves?", Yes.,1
+2,at least thirteen-at least thirteen,"Most of the burgers are expensive. Are none of the burgers expensive? No.
+Sophie liked some of the pastries. Did Sophie like two of the pastries? Yes.
+The teacher ordered at least thirteen of the tickets. Did the teacher order at least thirteen of the tickets?", Yes.,1
+2,thirteen-sixteen,"Three of the shoes are affordable. Are more than two of the shoes affordable? Yes.
+Jo sold most of the mugs. Did Jo sell none of the mugs? No.
+Thirteen of the shirts are impressive. Are sixteen of the shirts impressive?", No.,1
+2,sixteen-thirteen,"Three of the shoes are affordable. Are more than two of the shoes affordable? Yes.
+Jo sold most of the mugs. Did Jo sell none of the mugs? No.
+Jo ordered sixteen of the pancakes. Did Jo order thirteen of the pancakes?", No.,0
+2,sixteen-at least thirteen,"Three of the shoes are affordable. Are more than two of the shoes affordable? Yes.
+Jo sold most of the mugs. Did Jo sell none of the mugs? No.
+Adam spotted sixteen of the cars. Did Adam spot at least thirteen of the cars?", Yes.,1
+2,at least thirteen-sixteen,"Three of the shoes are affordable. Are more than two of the shoes affordable? Yes.
+Jo sold most of the mugs. Did Jo sell none of the mugs? No.
+Ann noticed at least thirteen of the warnings. Did Ann notice sixteen of the warnings?", No.,0
+2,sixteen-sixteen,"Three of the shoes are affordable. Are more than two of the shoes affordable? Yes.
+Jo sold most of the mugs. Did Jo sell none of the mugs? No.
+Mark ordered sixteen of the cakes. Did Mark order sixteen of the cakes?", Yes.,1
+2,at least thirteen-at least thirteen,"Three of the shoes are affordable. Are more than two of the shoes affordable? Yes.
+Jo sold most of the mugs. Did Jo sell none of the mugs? No.
+John had at least thirteen of the keyrings. Did John have at least thirteen of the keyrings?", Yes.,1
+2,thirteen-sixteen,"The teacher spotted most of the cakes. Did the teacher spot none of the cakes? No.
+Sally ordered both of the apples. Did Sally order all of the apples? Yes.
+Jim spotted thirteen of the bottles. Did Jim spot sixteen of the bottles?", No.,1
+2,sixteen-thirteen,"The teacher spotted most of the cakes. Did the teacher spot none of the cakes? No.
+Sally ordered both of the apples. Did Sally order all of the apples? Yes.
+The singer noticed sixteen of the cupcakes. Did the singer notice thirteen of the cupcakes?", No.,0
+2,sixteen-at least thirteen,"The teacher spotted most of the cakes. Did the teacher spot none of the cakes? No.
+Sally ordered both of the apples. Did Sally order all of the apples? Yes.
+Sixteen of the bagels are expensive. Are at least thirteen of the bagels expensive?", Yes.,1
+2,at least thirteen-sixteen,"The teacher spotted most of the cakes. Did the teacher spot none of the cakes? No.
+Sally ordered both of the apples. Did Sally order all of the apples? Yes.
+Sam ate at least thirteen of the oranges. Did Sam eat sixteen of the oranges?", No.,0
+2,sixteen-sixteen,"The teacher spotted most of the cakes. Did the teacher spot none of the cakes? No.
+Sally ordered both of the apples. Did Sally order all of the apples? Yes.
+The woman bought sixteen of the cakes. Did the woman buy sixteen of the cakes?", No.,0
+2,at least thirteen-at least thirteen,"The teacher spotted most of the cakes. Did the teacher spot none of the cakes? No.
+Sally ordered both of the apples. Did Sally order all of the apples? Yes.
+Adam bought at least thirteen of the pancakes. Did Adam buy at least thirteen of the pancakes?", Yes.,1
+2,thirteen-sixteen,"Mark wanted most of the shoes. Did Mark want none of the shoes? No.
+Sidney ate both of the pancakes. Did Sidney eat two of the pancakes? Yes.
+Michael got thirteen of the cars. Did Michael get sixteen of the cars?", No.,1
+2,sixteen-thirteen,"Mark wanted most of the shoes. Did Mark want none of the shoes? No.
+Sidney ate both of the pancakes. Did Sidney eat two of the pancakes? Yes.
+Sixteen of the cakes are mouldy. Are thirteen of the cakes mouldy?", No.,0
+2,sixteen-at least thirteen,"Mark wanted most of the shoes. Did Mark want none of the shoes? No.
+Sidney ate both of the pancakes. Did Sidney eat two of the pancakes? Yes.
+Sixteen of the burgers are cold. Are at least thirteen of the burgers cold?", Yes.,1
+2,at least thirteen-sixteen,"Mark wanted most of the shoes. Did Mark want none of the shoes? No.
+Sidney ate both of the pancakes. Did Sidney eat two of the pancakes? Yes.
+The woman ordered at least thirteen of the chocolates. Did the woman order sixteen of the chocolates?", No.,0
+2,sixteen-sixteen,"Mark wanted most of the shoes. Did Mark want none of the shoes? No.
+Sidney ate both of the pancakes. Did Sidney eat two of the pancakes? Yes.
+Sixteen of the attractions are colourful. Are sixteen of the attractions colourful?", Yes.,1
+2,at least thirteen-at least thirteen,"Mark wanted most of the shoes. Did Mark want none of the shoes? No.
+Sidney ate both of the pancakes. Did Sidney eat two of the pancakes? Yes.
+The teacher noticed at least thirteen of the oranges. Did the teacher notice at least thirteen of the oranges?", Yes.,1
+2,thirteen-sixteen,"Mark had all of the cupcakes. Did Mark have none of the cupcakes? No.
+The actor got two of the toys. Did the actor get some of the toys? Yes.
+Thirteen of the cakes are impressive. Are sixteen of the cakes impressive?", No.,1
+2,sixteen-thirteen,"Mark had all of the cupcakes. Did Mark have none of the cupcakes? No.
+The actor got two of the toys. Did the actor get some of the toys? Yes.
+Jim got sixteen of the bagels. Did Jim get thirteen of the bagels?", No.,0
+2,sixteen-at least thirteen,"Mark had all of the cupcakes. Did Mark have none of the cupcakes? No.
+The actor got two of the toys. Did the actor get some of the toys? Yes.
+The actress got sixteen of the hats. Did the actress get at least thirteen of the hats?", Yes.,1
+2,at least thirteen-sixteen,"Mark had all of the cupcakes. Did Mark have none of the cupcakes? No.
+The actor got two of the toys. Did the actor get some of the toys? Yes.
+Mark ate at least thirteen of the pastries. Did Mark eat sixteen of the pastries?", No.,0
+2,sixteen-sixteen,"Mark had all of the cupcakes. Did Mark have none of the cupcakes? No.
+The actor got two of the toys. Did the actor get some of the toys? Yes.
+The man had sixteen of the shirts. Did the man have sixteen of the shirts?", Yes.,1
+2,at least thirteen-at least thirteen,"Mark had all of the cupcakes. Did Mark have none of the cupcakes? No.
+The actor got two of the toys. Did the actor get some of the toys? Yes.
+At least thirteen of the shirts are blue. Are at least thirteen of the shirts blue?", Yes.,1
+2,thirteen-sixteen,"Sam noticed half of the strawberries. Did Sam notice half of the strawberries? Yes.
+The man owned exactly two of the mugs. Did the man own none of the mugs? No.
+Thirteen of the oranges are on sale. Are sixteen of the oranges on sale?", No.,1
+2,sixteen-thirteen,"Sam noticed half of the strawberries. Did Sam notice half of the strawberries? Yes.
+The man owned exactly two of the mugs. Did the man own none of the mugs? No.
+Sixteen of the mugs are orange. Are thirteen of the mugs orange?", Yes.,1
+2,sixteen-at least thirteen,"Sam noticed half of the strawberries. Did Sam notice half of the strawberries? Yes.
+The man owned exactly two of the mugs. Did the man own none of the mugs? No.
+The actress got sixteen of the cherries. Did the actress get at least thirteen of the cherries?", Yes.,1
+2,at least thirteen-sixteen,"Sam noticed half of the strawberries. Did Sam notice half of the strawberries? Yes.
+The man owned exactly two of the mugs. Did the man own none of the mugs? No.
+Jim spotted at least thirteen of the chocolates. Did Jim spot sixteen of the chocolates?", No.,0
+2,sixteen-sixteen,"Sam noticed half of the strawberries. Did Sam notice half of the strawberries? Yes.
+The man owned exactly two of the mugs. Did the man own none of the mugs? No.
+The woman purchased sixteen of the pretzels. Did the woman purchase sixteen of the pretzels?", Yes.,1
+2,at least thirteen-at least thirteen,"Sam noticed half of the strawberries. Did Sam notice half of the strawberries? Yes.
+The man owned exactly two of the mugs. Did the man own none of the mugs? No.
+Robin sold at least thirteen of the rings. Did Robin sell at least thirteen of the rings?", Yes.,1
+2,thirteen-sixteen,"The teacher ate all of the pancakes. Did the teacher eat none of the pancakes? No.
+Laura sold three of the keyrings. Did Laura sell three of the keyrings? Yes.
+Jo sold thirteen of the rings. Did Jo sell sixteen of the rings?", No.,1
+2,sixteen-thirteen,"The teacher ate all of the pancakes. Did the teacher eat none of the pancakes? No.
+Laura sold three of the keyrings. Did Laura sell three of the keyrings? Yes.
+Lucy purchased sixteen of the snacks. Did Lucy purchase thirteen of the snacks?", No.,0
+2,sixteen-at least thirteen,"The teacher ate all of the pancakes. Did the teacher eat none of the pancakes? No.
+Laura sold three of the keyrings. Did Laura sell three of the keyrings? Yes.
+Sam sold sixteen of the pastries. Did Sam sell at least thirteen of the pastries?", Yes.,1
+2,at least thirteen-sixteen,"The teacher ate all of the pancakes. Did the teacher eat none of the pancakes? No.
+Laura sold three of the keyrings. Did Laura sell three of the keyrings? Yes.
+The singer ate at least thirteen of the bagels. Did the singer eat sixteen of the bagels?", No.,0
+2,sixteen-sixteen,"The teacher ate all of the pancakes. Did the teacher eat none of the pancakes? No.
+Laura sold three of the keyrings. Did Laura sell three of the keyrings? Yes.
+The man noticed sixteen of the keyrings. Did the man notice sixteen of the keyrings?", No.,0
+2,at least thirteen-at least thirteen,"The teacher ate all of the pancakes. Did the teacher eat none of the pancakes? No.
+Laura sold three of the keyrings. Did Laura sell three of the keyrings? Yes.
+Michael got at least thirteen of the tickets. Did Michael get at least thirteen of the tickets?", Yes.,1
+2,thirteen-sixteen,"Adam saw exactly two of the umbrellas. Did Adam see three of the umbrellas? No.
+The actor noticed three of the cakes. Did the actor notice more than two of the cakes? Yes.
+Thirteen of the candles are orange. Are sixteen of the candles orange?", No.,1
+2,sixteen-thirteen,"Adam saw exactly two of the umbrellas. Did Adam see three of the umbrellas? No.
+The actor noticed three of the cakes. Did the actor notice more than two of the cakes? Yes.
+Adam wanted sixteen of the tickets. Did Adam want thirteen of the tickets?", No.,0
+2,sixteen-at least thirteen,"Adam saw exactly two of the umbrellas. Did Adam see three of the umbrellas? No.
+The actor noticed three of the cakes. Did the actor notice more than two of the cakes? Yes.
+Sidney purchased sixteen of the hats. Did Sidney purchase at least thirteen of the hats?", Yes.,1
+2,at least thirteen-sixteen,"Adam saw exactly two of the umbrellas. Did Adam see three of the umbrellas? No.
+The actor noticed three of the cakes. Did the actor notice more than two of the cakes? Yes.
+Bill spotted at least thirteen of the signs. Did Bill spot sixteen of the signs?", No.,0
+2,sixteen-sixteen,"Adam saw exactly two of the umbrellas. Did Adam see three of the umbrellas? No.
+The actor noticed three of the cakes. Did the actor notice more than two of the cakes? Yes.
+Mary ate sixteen of the pastries. Did Mary eat sixteen of the pastries?", Yes.,1
+2,at least thirteen-at least thirteen,"Adam saw exactly two of the umbrellas. Did Adam see three of the umbrellas? No.
+The actor noticed three of the cakes. Did the actor notice more than two of the cakes? Yes.
+John noticed at least thirteen of the cars. Did John notice at least thirteen of the cars?", Yes.,1
+2,thirteen-sixteen,"Jo noticed three of the mugs. Did Jo notice more than two of the mugs? Yes.
+Sidney noticed exactly two of the giraffes. Did Sidney notice none of the giraffes? No.
+Bill liked thirteen of the oranges. Did Bill like sixteen of the oranges?", No.,1
+2,sixteen-thirteen,"Jo noticed three of the mugs. Did Jo notice more than two of the mugs? Yes.
+Sidney noticed exactly two of the giraffes. Did Sidney notice none of the giraffes? No.
+Bill ordered sixteen of the rings. Did Bill order thirteen of the rings?", Yes.,1
+2,sixteen-at least thirteen,"Jo noticed three of the mugs. Did Jo notice more than two of the mugs? Yes.
+Sidney noticed exactly two of the giraffes. Did Sidney notice none of the giraffes? No.
+Adam spotted sixteen of the bottles. Did Adam spot at least thirteen of the bottles?", Yes.,1
+2,at least thirteen-sixteen,"Jo noticed three of the mugs. Did Jo notice more than two of the mugs? Yes.
+Sidney noticed exactly two of the giraffes. Did Sidney notice none of the giraffes? No.
+Sally ordered at least thirteen of the cars. Did Sally order sixteen of the cars?", No.,0
+2,sixteen-sixteen,"Jo noticed three of the mugs. Did Jo notice more than two of the mugs? Yes.
+Sidney noticed exactly two of the giraffes. Did Sidney notice none of the giraffes? No.
+Sixteen of the pastries are mouldy. Are sixteen of the pastries mouldy?", Yes.,1
+2,at least thirteen-at least thirteen,"Jo noticed three of the mugs. Did Jo notice more than two of the mugs? Yes.
+Sidney noticed exactly two of the giraffes. Did Sidney notice none of the giraffes? No.
+The actress ordered at least thirteen of the pretzels. Did the actress order at least thirteen of the pretzels?", Yes.,1
+3,thirteen-sixteen,"Sam bought some of the rings. Did Sam buy two of the rings? Yes.
+Sally sold exactly two of the oranges. Did Sally sell one of the oranges? No.
+Most of the cherries are on sale. Are three of the cherries on sale? Maybe.
+Jim saw thirteen of the cakes. Did Jim see sixteen of the cakes?", No.,1
+3,sixteen-thirteen,"Sam bought some of the rings. Did Sam buy two of the rings? Yes.
+Sally sold exactly two of the oranges. Did Sally sell one of the oranges? No.
+Most of the cherries are on sale. Are three of the cherries on sale? Maybe.
+Bill noticed sixteen of the toys. Did Bill notice thirteen of the toys?", No.,0
+3,sixteen-at least thirteen,"Sam bought some of the rings. Did Sam buy two of the rings? Yes.
+Sally sold exactly two of the oranges. Did Sally sell one of the oranges? No.
+Most of the cherries are on sale. Are three of the cherries on sale? Maybe.
+Robin ate sixteen of the sandwiches. Did Robin eat at least thirteen of the sandwiches?", Yes.,1
+3,at least thirteen-sixteen,"Sam bought some of the rings. Did Sam buy two of the rings? Yes.
+Sally sold exactly two of the oranges. Did Sally sell one of the oranges? No.
+Most of the cherries are on sale. Are three of the cherries on sale? Maybe.
+The woman purchased at least thirteen of the chocolates. Did the woman purchase sixteen of the chocolates?", No.,0
+3,sixteen-sixteen,"Sam bought some of the rings. Did Sam buy two of the rings? Yes.
+Sally sold exactly two of the oranges. Did Sally sell one of the oranges? No.
+Most of the cherries are on sale. Are three of the cherries on sale? Maybe.
+Sally bought sixteen of the churros. Did Sally buy sixteen of the churros?", Yes.,1
+3,at least thirteen-at least thirteen,"Sam bought some of the rings. Did Sam buy two of the rings? Yes.
+Sally sold exactly two of the oranges. Did Sally sell one of the oranges? No.
+Most of the cherries are on sale. Are three of the cherries on sale? Maybe.
+Mark saw at least thirteen of the sweaters. Did Mark see at least thirteen of the sweaters?", Yes.,1
+3,thirteen-sixteen,"Adam owned most of the tickets. Did Adam own none of the tickets? No.
+Ann liked two of the hats. Did Ann like half of the hats? Maybe.
+Adam ate some of the churros. Did Adam eat more than one of the churros? Yes.
+Thirteen of the mugs are expensive. Are sixteen of the mugs expensive?", No.,1
+3,sixteen-thirteen,"Adam owned most of the tickets. Did Adam own none of the tickets? No.
+Ann liked two of the hats. Did Ann like half of the hats? Maybe.
+Adam ate some of the churros. Did Adam eat more than one of the churros? Yes.
+Robin owned sixteen of the cupcakes. Did Robin own thirteen of the cupcakes?", No.,0
+3,sixteen-at least thirteen,"Adam owned most of the tickets. Did Adam own none of the tickets? No.
+Ann liked two of the hats. Did Ann like half of the hats? Maybe.
+Adam ate some of the churros. Did Adam eat more than one of the churros? Yes.
+Mary ordered sixteen of the shirts. Did Mary order at least thirteen of the shirts?", Yes.,1
+3,at least thirteen-sixteen,"Adam owned most of the tickets. Did Adam own none of the tickets? No.
+Ann liked two of the hats. Did Ann like half of the hats? Maybe.
+Adam ate some of the churros. Did Adam eat more than one of the churros? Yes.
+Sally spotted at least thirteen of the toys. Did Sally spot sixteen of the toys?", No.,0
+3,sixteen-sixteen,"Adam owned most of the tickets. Did Adam own none of the tickets? No.
+Ann liked two of the hats. Did Ann like half of the hats? Maybe.
+Adam ate some of the churros. Did Adam eat more than one of the churros? Yes.
+The actress had sixteen of the strawberries. Did the actress have sixteen of the strawberries?", Yes.,1
+3,at least thirteen-at least thirteen,"Adam owned most of the tickets. Did Adam own none of the tickets? No.
+Ann liked two of the hats. Did Ann like half of the hats? Maybe.
+Adam ate some of the churros. Did Adam eat more than one of the churros? Yes.
+Bill saw at least thirteen of the peanuts. Did Bill see at least thirteen of the peanuts?", Yes.,1
+3,thirteen-sixteen,"Sam purchased some of the pancakes. Did Sam purchase two of the pancakes? Yes.
+Jim purchased several of the pancakes. Did Jim purchase none of the pancakes? No.
+Half of the cakes are cold. Are three of the cakes cold? Maybe.
+Adam ordered thirteen of the chocolates. Did Adam order sixteen of the chocolates?", No.,1
+3,sixteen-thirteen,"Sam purchased some of the pancakes. Did Sam purchase two of the pancakes? Yes.
+Jim purchased several of the pancakes. Did Jim purchase none of the pancakes? No.
+Half of the cakes are cold. Are three of the cakes cold? Maybe.
+Jim liked sixteen of the strawberries. Did Jim like thirteen of the strawberries?", No.,0
+3,sixteen-at least thirteen,"Sam purchased some of the pancakes. Did Sam purchase two of the pancakes? Yes.
+Jim purchased several of the pancakes. Did Jim purchase none of the pancakes? No.
+Half of the cakes are cold. Are three of the cakes cold? Maybe.
+Sixteen of the mugs are yellow. Are at least thirteen of the mugs yellow?", Yes.,1
+3,at least thirteen-sixteen,"Sam purchased some of the pancakes. Did Sam purchase two of the pancakes? Yes.
+Jim purchased several of the pancakes. Did Jim purchase none of the pancakes? No.
+Half of the cakes are cold. Are three of the cakes cold? Maybe.
+At least thirteen of the chocolates are impressive. Are sixteen of the chocolates impressive?", Yes.,0
+3,sixteen-sixteen,"Sam purchased some of the pancakes. Did Sam purchase two of the pancakes? Yes.
+Jim purchased several of the pancakes. Did Jim purchase none of the pancakes? No.
+Half of the cakes are cold. Are three of the cakes cold? Maybe.
+Sixteen of the hats are colourful. Are sixteen of the hats colourful?", Yes.,1
+3,at least thirteen-at least thirteen,"Sam purchased some of the pancakes. Did Sam purchase two of the pancakes? Yes.
+Jim purchased several of the pancakes. Did Jim purchase none of the pancakes? No.
+Half of the cakes are cold. Are three of the cakes cold? Maybe.
+The teacher spotted at least thirteen of the apples. Did the teacher spot at least thirteen of the apples?", Yes.,1
+3,thirteen-sixteen,"Jo owned two of the sandwiches. Did Jo own half of the sandwiches? Maybe.
+The teacher liked all of the burgers. Did the teacher like none of the burgers? No.
+Jo owned both of the cherries. Did Jo own two of the cherries? Yes.
+The actor noticed thirteen of the apples. Did the actor notice sixteen of the apples?", No.,1
+3,sixteen-thirteen,"Jo owned two of the sandwiches. Did Jo own half of the sandwiches? Maybe.
+The teacher liked all of the burgers. Did the teacher like none of the burgers? No.
+Jo owned both of the cherries. Did Jo own two of the cherries? Yes.
+Lucy saw sixteen of the giraffes. Did Lucy see thirteen of the giraffes?", No.,0
+3,sixteen-at least thirteen,"Jo owned two of the sandwiches. Did Jo own half of the sandwiches? Maybe.
+The teacher liked all of the burgers. Did the teacher like none of the burgers? No.
+Jo owned both of the cherries. Did Jo own two of the cherries? Yes.
+John owned sixteen of the umbrellas. Did John own at least thirteen of the umbrellas?", Yes.,1
+3,at least thirteen-sixteen,"Jo owned two of the sandwiches. Did Jo own half of the sandwiches? Maybe.
+The teacher liked all of the burgers. Did the teacher like none of the burgers? No.
+Jo owned both of the cherries. Did Jo own two of the cherries? Yes.
+Robin ordered at least thirteen of the bagels. Did Robin order sixteen of the bagels?", No.,0
+3,sixteen-sixteen,"Jo owned two of the sandwiches. Did Jo own half of the sandwiches? Maybe.
+The teacher liked all of the burgers. Did the teacher like none of the burgers? No.
+Jo owned both of the cherries. Did Jo own two of the cherries? Yes.
+Laura wanted sixteen of the sweaters. Did Laura want sixteen of the sweaters?", No.,0
+3,at least thirteen-at least thirteen,"Jo owned two of the sandwiches. Did Jo own half of the sandwiches? Maybe.
+The teacher liked all of the burgers. Did the teacher like none of the burgers? No.
+Jo owned both of the cherries. Did Jo own two of the cherries? Yes.
+At least thirteen of the dogs are pretty. Are at least thirteen of the dogs pretty?", Yes.,1
+3,thirteen-sixteen,"John owned both of the snacks. Did John own all of the snacks? Yes.
+Bill sold none of the pastries. Did Bill sell some of the pastries? No.
+The teacher noticed two of the cars. Did the teacher notice half of the cars? Maybe.
+Lucy sold thirteen of the umbrellas. Did Lucy sell sixteen of the umbrellas?", No.,1
+3,sixteen-thirteen,"John owned both of the snacks. Did John own all of the snacks? Yes.
+Bill sold none of the pastries. Did Bill sell some of the pastries? No.
+The teacher noticed two of the cars. Did the teacher notice half of the cars? Maybe.
+Robin got sixteen of the scarves. Did Robin get thirteen of the scarves?", No.,0
+3,sixteen-at least thirteen,"John owned both of the snacks. Did John own all of the snacks? Yes.
+Bill sold none of the pastries. Did Bill sell some of the pastries? No.
+The teacher noticed two of the cars. Did the teacher notice half of the cars? Maybe.
+John owned sixteen of the sweaters. Did John own at least thirteen of the sweaters?", Yes.,1
+3,at least thirteen-sixteen,"John owned both of the snacks. Did John own all of the snacks? Yes.
+Bill sold none of the pastries. Did Bill sell some of the pastries? No.
+The teacher noticed two of the cars. Did the teacher notice half of the cars? Maybe.
+Michael spotted at least thirteen of the sights. Did Michael spot sixteen of the sights?", No.,0
+3,sixteen-sixteen,"John owned both of the snacks. Did John own all of the snacks? Yes.
+Bill sold none of the pastries. Did Bill sell some of the pastries? No.
+The teacher noticed two of the cars. Did the teacher notice half of the cars? Maybe.
+Ann spotted sixteen of the churros. Did Ann spot sixteen of the churros?", No.,0
+3,at least thirteen-at least thirteen,"John owned both of the snacks. Did John own all of the snacks? Yes.
+Bill sold none of the pastries. Did Bill sell some of the pastries? No.
+The teacher noticed two of the cars. Did the teacher notice half of the cars? Maybe.
+The actor bought at least thirteen of the chocolates. Did the actor buy at least thirteen of the chocolates?", Yes.,1
+3,thirteen-sixteen,"Mark sold half of the pastries. Did Mark sell three of the pastries? Maybe.
+Jo purchased all of the toys. Did Jo purchase none of the toys? No.
+Laura spotted three of the tickets. Did Laura spot more than two of the tickets? Yes.
+Sam ate thirteen of the pancakes. Did Sam eat sixteen of the pancakes?", No.,1
+3,sixteen-thirteen,"Mark sold half of the pastries. Did Mark sell three of the pastries? Maybe.
+Jo purchased all of the toys. Did Jo purchase none of the toys? No.
+Laura spotted three of the tickets. Did Laura spot more than two of the tickets? Yes.
+Jim had sixteen of the bottles. Did Jim have thirteen of the bottles?", No.,0
+3,sixteen-at least thirteen,"Mark sold half of the pastries. Did Mark sell three of the pastries? Maybe.
+Jo purchased all of the toys. Did Jo purchase none of the toys? No.
+Laura spotted three of the tickets. Did Laura spot more than two of the tickets? Yes.
+Jim had sixteen of the tickets. Did Jim have at least thirteen of the tickets?", Yes.,1
+3,at least thirteen-sixteen,"Mark sold half of the pastries. Did Mark sell three of the pastries? Maybe.
+Jo purchased all of the toys. Did Jo purchase none of the toys? No.
+Laura spotted three of the tickets. Did Laura spot more than two of the tickets? Yes.
+Laura bought at least thirteen of the candles. Did Laura buy sixteen of the candles?", Maybe.,1
+3,sixteen-sixteen,"Mark sold half of the pastries. Did Mark sell three of the pastries? Maybe.
+Jo purchased all of the toys. Did Jo purchase none of the toys? No.
+Laura spotted three of the tickets. Did Laura spot more than two of the tickets? Yes.
+Robin spotted sixteen of the oranges. Did Robin spot sixteen of the oranges?", Yes.,1
+3,at least thirteen-at least thirteen,"Mark sold half of the pastries. Did Mark sell three of the pastries? Maybe.
+Jo purchased all of the toys. Did Jo purchase none of the toys? No.
+Laura spotted three of the tickets. Did Laura spot more than two of the tickets? Yes.
+Lucy ate at least thirteen of the cherries. Did Lucy eat at least thirteen of the cherries?", Yes.,1
+3,thirteen-sixteen,"Jim owned several of the umbrellas. Did Jim own none of the umbrellas? No.
+Jo wanted most of the peanuts. Did Jo want three of the peanuts? Maybe.
+Mark got both of the shoes. Did Mark get two of the shoes? Yes.
+Ann purchased thirteen of the scarves. Did Ann purchase sixteen of the scarves?", No.,1
+3,sixteen-thirteen,"Jim owned several of the umbrellas. Did Jim own none of the umbrellas? No.
+Jo wanted most of the peanuts. Did Jo want three of the peanuts? Maybe.
+Mark got both of the shoes. Did Mark get two of the shoes? Yes.
+Adam spotted sixteen of the shirts. Did Adam spot thirteen of the shirts?", No.,0
+3,sixteen-at least thirteen,"Jim owned several of the umbrellas. Did Jim own none of the umbrellas? No.
+Jo wanted most of the peanuts. Did Jo want three of the peanuts? Maybe.
+Mark got both of the shoes. Did Mark get two of the shoes? Yes.
+Laura ordered sixteen of the chocolates. Did Laura order at least thirteen of the chocolates?", Yes.,1
+3,at least thirteen-sixteen,"Jim owned several of the umbrellas. Did Jim own none of the umbrellas? No.
+Jo wanted most of the peanuts. Did Jo want three of the peanuts? Maybe.
+Mark got both of the shoes. Did Mark get two of the shoes? Yes.
+The actress spotted at least thirteen of the rings. Did the actress spot sixteen of the rings?", No.,0
+3,sixteen-sixteen,"Jim owned several of the umbrellas. Did Jim own none of the umbrellas? No.
+Jo wanted most of the peanuts. Did Jo want three of the peanuts? Maybe.
+Mark got both of the shoes. Did Mark get two of the shoes? Yes.
+The teacher had sixteen of the mugs. Did the teacher have sixteen of the mugs?", No.,0
+3,at least thirteen-at least thirteen,"Jim owned several of the umbrellas. Did Jim own none of the umbrellas? No.
+Jo wanted most of the peanuts. Did Jo want three of the peanuts? Maybe.
+Mark got both of the shoes. Did Mark get two of the shoes? Yes.
+Sam saw at least thirteen of the pretzels. Did Sam see at least thirteen of the pretzels?", Yes.,1
+3,thirteen-sixteen,"Sally got most of the rings. Did Sally get none of the rings? No.
+The actress purchased half of the candles. Did the actress purchase three of the candles? Maybe.
+The actress wanted some of the backpacks. Did the actress want two of the backpacks? Yes.
+Sam ate thirteen of the snacks. Did Sam eat sixteen of the snacks?", No.,1
+3,sixteen-thirteen,"Sally got most of the rings. Did Sally get none of the rings? No.
+The actress purchased half of the candles. Did the actress purchase three of the candles? Maybe.
+The actress wanted some of the backpacks. Did the actress want two of the backpacks? Yes.
+Adam purchased sixteen of the umbrellas. Did Adam purchase thirteen of the umbrellas?", No.,0
+3,sixteen-at least thirteen,"Sally got most of the rings. Did Sally get none of the rings? No.
+The actress purchased half of the candles. Did the actress purchase three of the candles? Maybe.
+The actress wanted some of the backpacks. Did the actress want two of the backpacks? Yes.
+Ann liked sixteen of the toys. Did Ann like at least thirteen of the toys?", Yes.,1
+3,at least thirteen-sixteen,"Sally got most of the rings. Did Sally get none of the rings? No.
+The actress purchased half of the candles. Did the actress purchase three of the candles? Maybe.
+The actress wanted some of the backpacks. Did the actress want two of the backpacks? Yes.
+At least thirteen of the rings are impressive. Are sixteen of the rings impressive?", No.,0
+3,sixteen-sixteen,"Sally got most of the rings. Did Sally get none of the rings? No.
+The actress purchased half of the candles. Did the actress purchase three of the candles? Maybe.
+The actress wanted some of the backpacks. Did the actress want two of the backpacks? Yes.
+Laura had sixteen of the snacks. Did Laura have sixteen of the snacks?", Yes.,1
+3,at least thirteen-at least thirteen,"Sally got most of the rings. Did Sally get none of the rings? No.
+The actress purchased half of the candles. Did the actress purchase three of the candles? Maybe.
+The actress wanted some of the backpacks. Did the actress want two of the backpacks? Yes.
+The teacher noticed at least thirteen of the stores. Did the teacher notice at least thirteen of the stores?", Yes.,1
+3,thirteen-sixteen,"Mary liked two of the backpacks. Did Mary like two of the backpacks? Yes.
+The teacher noticed most of the shirts. Did the teacher notice none of the shirts? No.
+Laura bought two of the candles. Did Laura buy all of the candles? Maybe.
+Robin bought thirteen of the pancakes. Did Robin buy sixteen of the pancakes?", No.,1
+3,sixteen-thirteen,"Mary liked two of the backpacks. Did Mary like two of the backpacks? Yes.
+The teacher noticed most of the shirts. Did the teacher notice none of the shirts? No.
+Laura bought two of the candles. Did Laura buy all of the candles? Maybe.
+The actor purchased sixteen of the chocolates. Did the actor purchase thirteen of the chocolates?", No.,0
+3,sixteen-at least thirteen,"Mary liked two of the backpacks. Did Mary like two of the backpacks? Yes.
+The teacher noticed most of the shirts. Did the teacher notice none of the shirts? No.
+Laura bought two of the candles. Did Laura buy all of the candles? Maybe.
+The singer got sixteen of the cupcakes. Did the singer get at least thirteen of the cupcakes?", Yes.,1
+3,at least thirteen-sixteen,"Mary liked two of the backpacks. Did Mary like two of the backpacks? Yes.
+The teacher noticed most of the shirts. Did the teacher notice none of the shirts? No.
+Laura bought two of the candles. Did Laura buy all of the candles? Maybe.
+Sophie spotted at least thirteen of the performers. Did Sophie spot sixteen of the performers?", No.,0
+3,sixteen-sixteen,"Mary liked two of the backpacks. Did Mary like two of the backpacks? Yes.
+The teacher noticed most of the shirts. Did the teacher notice none of the shirts? No.
+Laura bought two of the candles. Did Laura buy all of the candles? Maybe.
+Sophie sold sixteen of the pancakes. Did Sophie sell sixteen of the pancakes?", Yes.,1
+3,at least thirteen-at least thirteen,"Mary liked two of the backpacks. Did Mary like two of the backpacks? Yes.
+The teacher noticed most of the shirts. Did the teacher notice none of the shirts? No.
+Laura bought two of the candles. Did Laura buy all of the candles? Maybe.
+The teacher purchased at least thirteen of the pancakes. Did the teacher purchase at least thirteen of the pancakes?", Yes.,1
+3,thirteen-sixteen,"Jim bought both of the peanuts. Did Jim buy all of the peanuts? Yes.
+Mary wanted two of the cherries. Did Mary want all of the cherries? Maybe.
+Jo purchased exactly two of the umbrellas. Did Jo purchase none of the umbrellas? No.
+The singer noticed thirteen of the chocolates. Did the singer notice sixteen of the chocolates?", No.,1
+3,sixteen-thirteen,"Jim bought both of the peanuts. Did Jim buy all of the peanuts? Yes.
+Mary wanted two of the cherries. Did Mary want all of the cherries? Maybe.
+Jo purchased exactly two of the umbrellas. Did Jo purchase none of the umbrellas? No.
+Ann sold sixteen of the shirts. Did Ann sell thirteen of the shirts?", No.,0
+3,sixteen-at least thirteen,"Jim bought both of the peanuts. Did Jim buy all of the peanuts? Yes.
+Mary wanted two of the cherries. Did Mary want all of the cherries? Maybe.
+Jo purchased exactly two of the umbrellas. Did Jo purchase none of the umbrellas? No.
+John got sixteen of the mugs. Did John get at least thirteen of the mugs?", Yes.,1
+3,at least thirteen-sixteen,"Jim bought both of the peanuts. Did Jim buy all of the peanuts? Yes.
+Mary wanted two of the cherries. Did Mary want all of the cherries? Maybe.
+Jo purchased exactly two of the umbrellas. Did Jo purchase none of the umbrellas? No.
+The singer noticed at least thirteen of the attractions. Did the singer notice sixteen of the attractions?", No.,0
+3,sixteen-sixteen,"Jim bought both of the peanuts. Did Jim buy all of the peanuts? Yes.
+Mary wanted two of the cherries. Did Mary want all of the cherries? Maybe.
+Jo purchased exactly two of the umbrellas. Did Jo purchase none of the umbrellas? No.
+Sixteen of the churros are pretty. Are sixteen of the churros pretty?", Yes.,1
+3,at least thirteen-at least thirteen,"Jim bought both of the peanuts. Did Jim buy all of the peanuts? Yes.
+Mary wanted two of the cherries. Did Mary want all of the cherries? Maybe.
+Jo purchased exactly two of the umbrellas. Did Jo purchase none of the umbrellas? No.
+Sam saw at least thirteen of the sights. Did Sam see at least thirteen of the sights?", Yes.,1
+3,thirteen-sixteen,"Jim bought none of the sandwiches. Did Jim buy two of the sandwiches? No.
+Michael purchased some of the burgers. Did Michael purchase more than one of the burgers? Yes.
+Most of the bagels are impressive. Are three of the bagels impressive? Maybe.
+Robin noticed thirteen of the backpacks. Did Robin notice sixteen of the backpacks?", No.,1
+3,sixteen-thirteen,"Jim bought none of the sandwiches. Did Jim buy two of the sandwiches? No.
+Michael purchased some of the burgers. Did Michael purchase more than one of the burgers? Yes.
+Most of the bagels are impressive. Are three of the bagels impressive? Maybe.
+Jo ate sixteen of the pastries. Did Jo eat thirteen of the pastries?", No.,0
+3,sixteen-at least thirteen,"Jim bought none of the sandwiches. Did Jim buy two of the sandwiches? No.
+Michael purchased some of the burgers. Did Michael purchase more than one of the burgers? Yes.
+Most of the bagels are impressive. Are three of the bagels impressive? Maybe.
+Lucy ate sixteen of the oranges. Did Lucy eat at least thirteen of the oranges?", Yes.,1
+3,at least thirteen-sixteen,"Jim bought none of the sandwiches. Did Jim buy two of the sandwiches? No.
+Michael purchased some of the burgers. Did Michael purchase more than one of the burgers? Yes.
+Most of the bagels are impressive. Are three of the bagels impressive? Maybe.
+The actor owned at least thirteen of the churros. Did the actor own sixteen of the churros?", No.,0
+3,sixteen-sixteen,"Jim bought none of the sandwiches. Did Jim buy two of the sandwiches? No.
+Michael purchased some of the burgers. Did Michael purchase more than one of the burgers? Yes.
+Most of the bagels are impressive. Are three of the bagels impressive? Maybe.
+Sixteen of the rings are yellow. Are sixteen of the rings yellow?", Yes.,1
+3,at least thirteen-at least thirteen,"Jim bought none of the sandwiches. Did Jim buy two of the sandwiches? No.
+Michael purchased some of the burgers. Did Michael purchase more than one of the burgers? Yes.
+Most of the bagels are impressive. Are three of the bagels impressive? Maybe.
+The actor liked at least thirteen of the hats. Did the actor like at least thirteen of the hats?", Yes.,1
+3,thirteen-sixteen,"The teacher ordered half of the peanuts. Did the teacher order half of the peanuts? Yes.
+Two of the burgers are tasty. Are half of the burgers tasty? Maybe.
+All of the pancakes are on sale. Are none of the pancakes on sale? No.
+Sam ate thirteen of the pretzels. Did Sam eat sixteen of the pretzels?", No.,1
+3,sixteen-thirteen,"The teacher ordered half of the peanuts. Did the teacher order half of the peanuts? Yes.
+Two of the burgers are tasty. Are half of the burgers tasty? Maybe.
+All of the pancakes are on sale. Are none of the pancakes on sale? No.
+Mark spotted sixteen of the warnings. Did Mark spot thirteen of the warnings?", Maybe.,0
+3,sixteen-at least thirteen,"The teacher ordered half of the peanuts. Did the teacher order half of the peanuts? Yes.
+Two of the burgers are tasty. Are half of the burgers tasty? Maybe.
+All of the pancakes are on sale. Are none of the pancakes on sale? No.
+Jim ordered sixteen of the cherries. Did Jim order at least thirteen of the cherries?", Yes.,1
+3,at least thirteen-sixteen,"The teacher ordered half of the peanuts. Did the teacher order half of the peanuts? Yes.
+Two of the burgers are tasty. Are half of the burgers tasty? Maybe.
+All of the pancakes are on sale. Are none of the pancakes on sale? No.
+Sam had at least thirteen of the chocolates. Did Sam have sixteen of the chocolates?", Maybe.,1
+3,sixteen-sixteen,"The teacher ordered half of the peanuts. Did the teacher order half of the peanuts? Yes.
+Two of the burgers are tasty. Are half of the burgers tasty? Maybe.
+All of the pancakes are on sale. Are none of the pancakes on sale? No.
+John ordered sixteen of the hats. Did John order sixteen of the hats?", Yes.,1
+3,at least thirteen-at least thirteen,"The teacher ordered half of the peanuts. Did the teacher order half of the peanuts? Yes.
+Two of the burgers are tasty. Are half of the burgers tasty? Maybe.
+All of the pancakes are on sale. Are none of the pancakes on sale? No.
+Laura noticed at least thirteen of the sandwiches. Did Laura notice at least thirteen of the sandwiches?", Yes.,1
+3,thirteen-sixteen,"John ate several of the oranges. Did John eat none of the oranges? No.
+Sophie sold some of the cars. Did Sophie sell two of the cars? Yes.
+The teacher owned half of the apples. Did the teacher own three of the apples? Maybe.
+Ann ate thirteen of the sandwiches. Did Ann eat sixteen of the sandwiches?", No.,1
+3,sixteen-thirteen,"John ate several of the oranges. Did John eat none of the oranges? No.
+Sophie sold some of the cars. Did Sophie sell two of the cars? Yes.
+The teacher owned half of the apples. Did the teacher own three of the apples? Maybe.
+Sally spotted sixteen of the temples. Did Sally spot thirteen of the temples?", No.,0
+3,sixteen-at least thirteen,"John ate several of the oranges. Did John eat none of the oranges? No.
+Sophie sold some of the cars. Did Sophie sell two of the cars? Yes.
+The teacher owned half of the apples. Did the teacher own three of the apples? Maybe.
+The man ordered sixteen of the toys. Did the man order at least thirteen of the toys?", Yes.,1
+3,at least thirteen-sixteen,"John ate several of the oranges. Did John eat none of the oranges? No.
+Sophie sold some of the cars. Did Sophie sell two of the cars? Yes.
+The teacher owned half of the apples. Did the teacher own three of the apples? Maybe.
+Laura noticed at least thirteen of the sandwiches. Did Laura notice sixteen of the sandwiches?", No.,0
+3,sixteen-sixteen,"John ate several of the oranges. Did John eat none of the oranges? No.
+Sophie sold some of the cars. Did Sophie sell two of the cars? Yes.
+The teacher owned half of the apples. Did the teacher own three of the apples? Maybe.
+The man noticed sixteen of the rings. Did the man notice sixteen of the rings?", No.,0
+3,at least thirteen-at least thirteen,"John ate several of the oranges. Did John eat none of the oranges? No.
+Sophie sold some of the cars. Did Sophie sell two of the cars? Yes.
+The teacher owned half of the apples. Did the teacher own three of the apples? Maybe.
+At least thirteen of the burgers are colourful. Are at least thirteen of the burgers colourful?", Yes.,1
+3,thirteen-sixteen,"Mary wanted half of the toys. Did Mary want half of the toys? Yes.
+Bill had all of the sandwiches. Did Bill have none of the sandwiches? No.
+Most of the burgers are mouldy. Are three of the burgers mouldy? Maybe.
+The woman wanted thirteen of the backpacks. Did the woman want sixteen of the backpacks?", No.,1
+3,sixteen-thirteen,"Mary wanted half of the toys. Did Mary want half of the toys? Yes.
+Bill had all of the sandwiches. Did Bill have none of the sandwiches? No.
+Most of the burgers are mouldy. Are three of the burgers mouldy? Maybe.
+Sixteen of the candles are affordable. Are thirteen of the candles affordable?", No.,0
+3,sixteen-at least thirteen,"Mary wanted half of the toys. Did Mary want half of the toys? Yes.
+Bill had all of the sandwiches. Did Bill have none of the sandwiches? No.
+Most of the burgers are mouldy. Are three of the burgers mouldy? Maybe.
+Jo sold sixteen of the tickets. Did Jo sell at least thirteen of the tickets?", Yes.,1
+3,at least thirteen-sixteen,"Mary wanted half of the toys. Did Mary want half of the toys? Yes.
+Bill had all of the sandwiches. Did Bill have none of the sandwiches? No.
+Most of the burgers are mouldy. Are three of the burgers mouldy? Maybe.
+Robin wanted at least thirteen of the strawberries. Did Robin want sixteen of the strawberries?", No.,0
+3,sixteen-sixteen,"Mary wanted half of the toys. Did Mary want half of the toys? Yes.
+Bill had all of the sandwiches. Did Bill have none of the sandwiches? No.
+Most of the burgers are mouldy. Are three of the burgers mouldy? Maybe.
+Sixteen of the tickets are orange. Are sixteen of the tickets orange?", Yes.,1
+3,at least thirteen-at least thirteen,"Mary wanted half of the toys. Did Mary want half of the toys? Yes.
+Bill had all of the sandwiches. Did Bill have none of the sandwiches? No.
+Most of the burgers are mouldy. Are three of the burgers mouldy? Maybe.
+At least thirteen of the sweaters are impressive. Are at least thirteen of the sweaters impressive?", Yes.,1
+3,thirteen-sixteen,"Ann saw several of the toys. Did Ann see none of the toys? No.
+Half of the chocolates are affordable. Are some of the chocolates affordable? Yes.
+Sophie owned half of the mugs. Did Sophie own three of the mugs? Maybe.
+Mark owned thirteen of the pastries. Did Mark own sixteen of the pastries?", No.,1
+3,sixteen-thirteen,"Ann saw several of the toys. Did Ann see none of the toys? No.
+Half of the chocolates are affordable. Are some of the chocolates affordable? Yes.
+Sophie owned half of the mugs. Did Sophie own three of the mugs? Maybe.
+Jim owned sixteen of the scarves. Did Jim own thirteen of the scarves?", No.,0
+3,sixteen-at least thirteen,"Ann saw several of the toys. Did Ann see none of the toys? No.
+Half of the chocolates are affordable. Are some of the chocolates affordable? Yes.
+Sophie owned half of the mugs. Did Sophie own three of the mugs? Maybe.
+Sidney ordered sixteen of the umbrellas. Did Sidney order at least thirteen of the umbrellas?", Yes.,1
+3,at least thirteen-sixteen,"Ann saw several of the toys. Did Ann see none of the toys? No.
+Half of the chocolates are affordable. Are some of the chocolates affordable? Yes.
+Sophie owned half of the mugs. Did Sophie own three of the mugs? Maybe.
+The actress had at least thirteen of the shirts. Did the actress have sixteen of the shirts?", No.,0
+3,sixteen-sixteen,"Ann saw several of the toys. Did Ann see none of the toys? No.
+Half of the chocolates are affordable. Are some of the chocolates affordable? Yes.
+Sophie owned half of the mugs. Did Sophie own three of the mugs? Maybe.
+Sidney purchased sixteen of the oranges. Did Sidney purchase sixteen of the oranges?", No.,0
+3,at least thirteen-at least thirteen,"Ann saw several of the toys. Did Ann see none of the toys? No.
+Half of the chocolates are affordable. Are some of the chocolates affordable? Yes.
+Sophie owned half of the mugs. Did Sophie own three of the mugs? Maybe.
+The actress spotted at least thirteen of the snacks. Did the actress spot at least thirteen of the snacks?", Yes.,1
+3,thirteen-sixteen,"Sidney liked exactly two of the strawberries. Did Sidney like none of the strawberries? No.
+Ann got three of the candles. Did Ann get three of the candles? Yes.
+Mark ate two of the oranges. Did Mark eat half of the oranges? Maybe.
+Thirteen of the burgers are tasty. Are sixteen of the burgers tasty?", No.,1
+3,sixteen-thirteen,"Sidney liked exactly two of the strawberries. Did Sidney like none of the strawberries? No.
+Ann got three of the candles. Did Ann get three of the candles? Yes.
+Mark ate two of the oranges. Did Mark eat half of the oranges? Maybe.
+The actress saw sixteen of the candles. Did the actress see thirteen of the candles?", No.,0
+3,sixteen-at least thirteen,"Sidney liked exactly two of the strawberries. Did Sidney like none of the strawberries? No.
+Ann got three of the candles. Did Ann get three of the candles? Yes.
+Mark ate two of the oranges. Did Mark eat half of the oranges? Maybe.
+The man had sixteen of the sweaters. Did the man have at least thirteen of the sweaters?", Yes.,1
+3,at least thirteen-sixteen,"Sidney liked exactly two of the strawberries. Did Sidney like none of the strawberries? No.
+Ann got three of the candles. Did Ann get three of the candles? Yes.
+Mark ate two of the oranges. Did Mark eat half of the oranges? Maybe.
+Adam had at least thirteen of the backpacks. Did Adam have sixteen of the backpacks?", No.,0
+3,sixteen-sixteen,"Sidney liked exactly two of the strawberries. Did Sidney like none of the strawberries? No.
+Ann got three of the candles. Did Ann get three of the candles? Yes.
+Mark ate two of the oranges. Did Mark eat half of the oranges? Maybe.
+Sam ordered sixteen of the snacks. Did Sam order sixteen of the snacks?", No.,0
+3,at least thirteen-at least thirteen,"Sidney liked exactly two of the strawberries. Did Sidney like none of the strawberries? No.
+Ann got three of the candles. Did Ann get three of the candles? Yes.
+Mark ate two of the oranges. Did Mark eat half of the oranges? Maybe.
+The singer got at least thirteen of the pastries. Did the singer get at least thirteen of the pastries?", Yes.,1
+3,thirteen-sixteen,"Most of the snacks are affordable. Are none of the snacks affordable? No.
+The man had three of the umbrellas. Did the man have more than two of the umbrellas? Yes.
+Most of the bagels are affordable. Are three of the bagels affordable? Maybe.
+Sally saw thirteen of the sandwiches. Did Sally see sixteen of the sandwiches?", No.,1
+3,sixteen-thirteen,"Most of the snacks are affordable. Are none of the snacks affordable? No.
+The man had three of the umbrellas. Did the man have more than two of the umbrellas? Yes.
+Most of the bagels are affordable. Are three of the bagels affordable? Maybe.
+Laura ate sixteen of the peanuts. Did Laura eat thirteen of the peanuts?", No.,0
+3,sixteen-at least thirteen,"Most of the snacks are affordable. Are none of the snacks affordable? No.
+The man had three of the umbrellas. Did the man have more than two of the umbrellas? Yes.
+Most of the bagels are affordable. Are three of the bagels affordable? Maybe.
+Mary got sixteen of the mugs. Did Mary get at least thirteen of the mugs?", Yes.,1
+3,at least thirteen-sixteen,"Most of the snacks are affordable. Are none of the snacks affordable? No.
+The man had three of the umbrellas. Did the man have more than two of the umbrellas? Yes.
+Most of the bagels are affordable. Are three of the bagels affordable? Maybe.
+Adam spotted at least thirteen of the mice. Did Adam spot sixteen of the mice?", No.,0
+3,sixteen-sixteen,"Most of the snacks are affordable. Are none of the snacks affordable? No.
+The man had three of the umbrellas. Did the man have more than two of the umbrellas? Yes.
+Most of the bagels are affordable. Are three of the bagels affordable? Maybe.
+The actress saw sixteen of the hats. Did the actress see sixteen of the hats?", Yes.,1
+3,at least thirteen-at least thirteen,"Most of the snacks are affordable. Are none of the snacks affordable? No.
+The man had three of the umbrellas. Did the man have more than two of the umbrellas? Yes.
+Most of the bagels are affordable. Are three of the bagels affordable? Maybe.
+Adam got at least thirteen of the keyrings. Did Adam get at least thirteen of the keyrings?", Yes.,1
+3,thirteen-sixteen,"Ann bought both of the sweaters. Did Ann buy two of the sweaters? Yes.
+Exactly two of the umbrellas are colourful. Are three of the umbrellas colourful? No.
+Adam had most of the sweaters. Did Adam have three of the sweaters? Maybe.
+Jim owned thirteen of the toys. Did Jim own sixteen of the toys?", No.,1
+3,sixteen-thirteen,"Ann bought both of the sweaters. Did Ann buy two of the sweaters? Yes.
+Exactly two of the umbrellas are colourful. Are three of the umbrellas colourful? No.
+Adam had most of the sweaters. Did Adam have three of the sweaters? Maybe.
+Jim had sixteen of the churros. Did Jim have thirteen of the churros?", No.,0
+3,sixteen-at least thirteen,"Ann bought both of the sweaters. Did Ann buy two of the sweaters? Yes.
+Exactly two of the umbrellas are colourful. Are three of the umbrellas colourful? No.
+Adam had most of the sweaters. Did Adam have three of the sweaters? Maybe.
+The actor ordered sixteen of the sandwiches. Did the actor order at least thirteen of the sandwiches?", Yes.,1
+3,at least thirteen-sixteen,"Ann bought both of the sweaters. Did Ann buy two of the sweaters? Yes.
+Exactly two of the umbrellas are colourful. Are three of the umbrellas colourful? No.
+Adam had most of the sweaters. Did Adam have three of the sweaters? Maybe.
+Jo liked at least thirteen of the burgers. Did Jo like sixteen of the burgers?", No.,0
+3,sixteen-sixteen,"Ann bought both of the sweaters. Did Ann buy two of the sweaters? Yes.
+Exactly two of the umbrellas are colourful. Are three of the umbrellas colourful? No.
+Adam had most of the sweaters. Did Adam have three of the sweaters? Maybe.
+John ate sixteen of the apples. Did John eat sixteen of the apples?", No.,0
+3,at least thirteen-at least thirteen,"Ann bought both of the sweaters. Did Ann buy two of the sweaters? Yes.
+Exactly two of the umbrellas are colourful. Are three of the umbrellas colourful? No.
+Adam had most of the sweaters. Did Adam have three of the sweaters? Maybe.
+Mary got at least thirteen of the rings. Did Mary get at least thirteen of the rings?", Yes.,1
+3,thirteen-sixteen,"None of the hats are red. Are all of the hats red? No.
+The woman got both of the shoes. Did the woman get two of the shoes? Yes.
+Sally bought half of the peanuts. Did Sally buy three of the peanuts? Maybe.
+Thirteen of the toys are on sale. Are sixteen of the toys on sale?", No.,1
+3,sixteen-thirteen,"None of the hats are red. Are all of the hats red? No.
+The woman got both of the shoes. Did the woman get two of the shoes? Yes.
+Sally bought half of the peanuts. Did Sally buy three of the peanuts? Maybe.
+Mark purchased sixteen of the pastries. Did Mark purchase thirteen of the pastries?", No.,0
+3,sixteen-at least thirteen,"None of the hats are red. Are all of the hats red? No.
+The woman got both of the shoes. Did the woman get two of the shoes? Yes.
+Sally bought half of the peanuts. Did Sally buy three of the peanuts? Maybe.
+Sidney spotted sixteen of the stores. Did Sidney spot at least thirteen of the stores?", Yes.,1
+3,at least thirteen-sixteen,"None of the hats are red. Are all of the hats red? No.
+The woman got both of the shoes. Did the woman get two of the shoes? Yes.
+Sally bought half of the peanuts. Did Sally buy three of the peanuts? Maybe.
+The actor saw at least thirteen of the cats. Did the actor see sixteen of the cats?", No.,0
+3,sixteen-sixteen,"None of the hats are red. Are all of the hats red? No.
+The woman got both of the shoes. Did the woman get two of the shoes? Yes.
+Sally bought half of the peanuts. Did Sally buy three of the peanuts? Maybe.
+John saw sixteen of the rings. Did John see sixteen of the rings?", No.,0
+3,at least thirteen-at least thirteen,"None of the hats are red. Are all of the hats red? No.
+The woman got both of the shoes. Did the woman get two of the shoes? Yes.
+Sally bought half of the peanuts. Did Sally buy three of the peanuts? Maybe.
+Ann ordered at least thirteen of the pretzels. Did Ann order at least thirteen of the pretzels?", Yes.,1
+3,thirteen-sixteen,"Ann ate some of the cakes. Did Ann eat two of the cakes? Yes.
+Bill bought most of the toys. Did Bill buy three of the toys? Maybe.
+The man spotted exactly two of the pastries. Did the man spot one of the pastries? No.
+Sally noticed thirteen of the keyrings. Did Sally notice sixteen of the keyrings?", No.,1
+3,sixteen-thirteen,"Ann ate some of the cakes. Did Ann eat two of the cakes? Yes.
+Bill bought most of the toys. Did Bill buy three of the toys? Maybe.
+The man spotted exactly two of the pastries. Did the man spot one of the pastries? No.
+Sixteen of the strawberries are on sale. Are thirteen of the strawberries on sale?", Yes.,1
+3,sixteen-at least thirteen,"Ann ate some of the cakes. Did Ann eat two of the cakes? Yes.
+Bill bought most of the toys. Did Bill buy three of the toys? Maybe.
+The man spotted exactly two of the pastries. Did the man spot one of the pastries? No.
+Sixteen of the cars are blue. Are at least thirteen of the cars blue?", Yes.,1
+3,at least thirteen-sixteen,"Ann ate some of the cakes. Did Ann eat two of the cakes? Yes.
+Bill bought most of the toys. Did Bill buy three of the toys? Maybe.
+The man spotted exactly two of the pastries. Did the man spot one of the pastries? No.
+Sophie wanted at least thirteen of the cupcakes. Did Sophie want sixteen of the cupcakes?", Yes.,0
+3,sixteen-sixteen,"Ann ate some of the cakes. Did Ann eat two of the cakes? Yes.
+Bill bought most of the toys. Did Bill buy three of the toys? Maybe.
+The man spotted exactly two of the pastries. Did the man spot one of the pastries? No.
+Mary liked sixteen of the rings. Did Mary like sixteen of the rings?", Yes.,1
+3,at least thirteen-at least thirteen,"Ann ate some of the cakes. Did Ann eat two of the cakes? Yes.
+Bill bought most of the toys. Did Bill buy three of the toys? Maybe.
+The man spotted exactly two of the pastries. Did the man spot one of the pastries? No.
+At least thirteen of the shirts are green. Are at least thirteen of the shirts green?", Yes.,1
+3,thirteen-sixteen,"John had some of the keyrings. Did John have more than one of the keyrings? Yes.
+Mary saw most of the umbrellas. Did Mary see three of the umbrellas? Maybe.
+Exactly two of the bagels are sold out. Are one of the bagels sold out? No.
+The actor got thirteen of the scarves. Did the actor get sixteen of the scarves?", No.,1
+3,sixteen-thirteen,"John had some of the keyrings. Did John have more than one of the keyrings? Yes.
+Mary saw most of the umbrellas. Did Mary see three of the umbrellas? Maybe.
+Exactly two of the bagels are sold out. Are one of the bagels sold out? No.
+Ann ordered sixteen of the sweaters. Did Ann order thirteen of the sweaters?", Yes.,1
+3,sixteen-at least thirteen,"John had some of the keyrings. Did John have more than one of the keyrings? Yes.
+Mary saw most of the umbrellas. Did Mary see three of the umbrellas? Maybe.
+Exactly two of the bagels are sold out. Are one of the bagels sold out? No.
+Sixteen of the cars are red. Are at least thirteen of the cars red?", Yes.,1
+3,at least thirteen-sixteen,"John had some of the keyrings. Did John have more than one of the keyrings? Yes.
+Mary saw most of the umbrellas. Did Mary see three of the umbrellas? Maybe.
+Exactly two of the bagels are sold out. Are one of the bagels sold out? No.
+Jo bought at least thirteen of the cakes. Did Jo buy sixteen of the cakes?", Maybe.,1
+3,sixteen-sixteen,"John had some of the keyrings. Did John have more than one of the keyrings? Yes.
+Mary saw most of the umbrellas. Did Mary see three of the umbrellas? Maybe.
+Exactly two of the bagels are sold out. Are one of the bagels sold out? No.
+Sidney wanted sixteen of the backpacks. Did Sidney want sixteen of the backpacks?", Yes.,1
+3,at least thirteen-at least thirteen,"John had some of the keyrings. Did John have more than one of the keyrings? Yes.
+Mary saw most of the umbrellas. Did Mary see three of the umbrellas? Maybe.
+Exactly two of the bagels are sold out. Are one of the bagels sold out? No.
+The actress saw at least thirteen of the cakes. Did the actress see at least thirteen of the cakes?", Yes.,1
+3,thirteen-sixteen,"Jim bought half of the scarves. Did Jim buy three of the scarves? Maybe.
+Three of the warnings are impressive. Are three of the warnings impressive? Yes.
+Laura bought several of the candles. Did Laura buy none of the candles? No.
+The actress owned thirteen of the shirts. Did the actress own sixteen of the shirts?", No.,1
+3,sixteen-thirteen,"Jim bought half of the scarves. Did Jim buy three of the scarves? Maybe.
+Three of the warnings are impressive. Are three of the warnings impressive? Yes.
+Laura bought several of the candles. Did Laura buy none of the candles? No.
+Jim owned sixteen of the backpacks. Did Jim own thirteen of the backpacks?", Maybe.,0
+3,sixteen-at least thirteen,"Jim bought half of the scarves. Did Jim buy three of the scarves? Maybe.
+Three of the warnings are impressive. Are three of the warnings impressive? Yes.
+Laura bought several of the candles. Did Laura buy none of the candles? No.
+Bill liked sixteen of the bottles. Did Bill like at least thirteen of the bottles?", Yes.,1
+3,at least thirteen-sixteen,"Jim bought half of the scarves. Did Jim buy three of the scarves? Maybe.
+Three of the warnings are impressive. Are three of the warnings impressive? Yes.
+Laura bought several of the candles. Did Laura buy none of the candles? No.
+The woman owned at least thirteen of the bagels. Did the woman own sixteen of the bagels?", No.,0
+3,sixteen-sixteen,"Jim bought half of the scarves. Did Jim buy three of the scarves? Maybe.
+Three of the warnings are impressive. Are three of the warnings impressive? Yes.
+Laura bought several of the candles. Did Laura buy none of the candles? No.
+Robin had sixteen of the keyrings. Did Robin have sixteen of the keyrings?", Yes.,1
+3,at least thirteen-at least thirteen,"Jim bought half of the scarves. Did Jim buy three of the scarves? Maybe.
+Three of the warnings are impressive. Are three of the warnings impressive? Yes.
+Laura bought several of the candles. Did Laura buy none of the candles? No.
+John wanted at least thirteen of the candles. Did John want at least thirteen of the candles?", Yes.,1
+3,thirteen-sixteen,"Ann purchased half of the chocolates. Did Ann purchase half of the chocolates? Yes.
+Most of the scarves are orange. Are none of the scarves orange? No.
+Adam ate half of the peanuts. Did Adam eat three of the peanuts? Maybe.
+Lucy spotted thirteen of the giraffes. Did Lucy spot sixteen of the giraffes?", No.,1
+3,sixteen-thirteen,"Ann purchased half of the chocolates. Did Ann purchase half of the chocolates? Yes.
+Most of the scarves are orange. Are none of the scarves orange? No.
+Adam ate half of the peanuts. Did Adam eat three of the peanuts? Maybe.
+Ann owned sixteen of the oranges. Did Ann own thirteen of the oranges?", No.,0
+3,sixteen-at least thirteen,"Ann purchased half of the chocolates. Did Ann purchase half of the chocolates? Yes.
+Most of the scarves are orange. Are none of the scarves orange? No.
+Adam ate half of the peanuts. Did Adam eat three of the peanuts? Maybe.
+The singer spotted sixteen of the pancakes. Did the singer spot at least thirteen of the pancakes?", Yes.,1
+3,at least thirteen-sixteen,"Ann purchased half of the chocolates. Did Ann purchase half of the chocolates? Yes.
+Most of the scarves are orange. Are none of the scarves orange? No.
+Adam ate half of the peanuts. Did Adam eat three of the peanuts? Maybe.
+Lucy ate at least thirteen of the pretzels. Did Lucy eat sixteen of the pretzels?", Maybe.,1
+3,sixteen-sixteen,"Ann purchased half of the chocolates. Did Ann purchase half of the chocolates? Yes.
+Most of the scarves are orange. Are none of the scarves orange? No.
+Adam ate half of the peanuts. Did Adam eat three of the peanuts? Maybe.
+Sidney ordered sixteen of the cherries. Did Sidney order sixteen of the cherries?", Yes.,1
+3,at least thirteen-at least thirteen,"Ann purchased half of the chocolates. Did Ann purchase half of the chocolates? Yes.
+Most of the scarves are orange. Are none of the scarves orange? No.
+Adam ate half of the peanuts. Did Adam eat three of the peanuts? Maybe.
+At least thirteen of the apples are cold. Are at least thirteen of the apples cold?", Yes.,1
+3,thirteen-sixteen,"None of the sandwiches are cold. Are several of the sandwiches cold? No.
+Some of the shoes are impressive. Are two of the shoes impressive? Yes.
+Jo bought two of the shirts. Did Jo buy half of the shirts? Maybe.
+Mary ate thirteen of the bagels. Did Mary eat sixteen of the bagels?", No.,1
+3,sixteen-thirteen,"None of the sandwiches are cold. Are several of the sandwiches cold? No.
+Some of the shoes are impressive. Are two of the shoes impressive? Yes.
+Jo bought two of the shirts. Did Jo buy half of the shirts? Maybe.
+Bill spotted sixteen of the mugs. Did Bill spot thirteen of the mugs?", No.,0
+3,sixteen-at least thirteen,"None of the sandwiches are cold. Are several of the sandwiches cold? No.
+Some of the shoes are impressive. Are two of the shoes impressive? Yes.
+Jo bought two of the shirts. Did Jo buy half of the shirts? Maybe.
+Sidney purchased sixteen of the candles. Did Sidney purchase at least thirteen of the candles?", Yes.,1
+3,at least thirteen-sixteen,"None of the sandwiches are cold. Are several of the sandwiches cold? No.
+Some of the shoes are impressive. Are two of the shoes impressive? Yes.
+Jo bought two of the shirts. Did Jo buy half of the shirts? Maybe.
+Sidney liked at least thirteen of the sweaters. Did Sidney like sixteen of the sweaters?", No.,0
+3,sixteen-sixteen,"None of the sandwiches are cold. Are several of the sandwiches cold? No.
+Some of the shoes are impressive. Are two of the shoes impressive? Yes.
+Jo bought two of the shirts. Did Jo buy half of the shirts? Maybe.
+The man sold sixteen of the sandwiches. Did the man sell sixteen of the sandwiches?", Yes.,1
+3,at least thirteen-at least thirteen,"None of the sandwiches are cold. Are several of the sandwiches cold? No.
+Some of the shoes are impressive. Are two of the shoes impressive? Yes.
+Jo bought two of the shirts. Did Jo buy half of the shirts? Maybe.
+The teacher ordered at least thirteen of the toys. Did the teacher order at least thirteen of the toys?", Yes.,1
+3,thirteen-sixteen,"Some of the toys are blue. Are two of the toys blue? Yes.
+Most of the pastries are warm. Are three of the pastries warm? Maybe.
+Ann bought several of the scarves. Did Ann buy none of the scarves? No.
+The teacher had thirteen of the keyrings. Did the teacher have sixteen of the keyrings?", No.,1
+3,sixteen-thirteen,"Some of the toys are blue. Are two of the toys blue? Yes.
+Most of the pastries are warm. Are three of the pastries warm? Maybe.
+Ann bought several of the scarves. Did Ann buy none of the scarves? No.
+Sidney got sixteen of the hats. Did Sidney get thirteen of the hats?", No.,0
+3,sixteen-at least thirteen,"Some of the toys are blue. Are two of the toys blue? Yes.
+Most of the pastries are warm. Are three of the pastries warm? Maybe.
+Ann bought several of the scarves. Did Ann buy none of the scarves? No.
+Sixteen of the sandwiches are delicious. Are at least thirteen of the sandwiches delicious?", Yes.,1
+3,at least thirteen-sixteen,"Some of the toys are blue. Are two of the toys blue? Yes.
+Most of the pastries are warm. Are three of the pastries warm? Maybe.
+Ann bought several of the scarves. Did Ann buy none of the scarves? No.
+Lucy bought at least thirteen of the peanuts. Did Lucy buy sixteen of the peanuts?", Maybe.,1
+3,sixteen-sixteen,"Some of the toys are blue. Are two of the toys blue? Yes.
+Most of the pastries are warm. Are three of the pastries warm? Maybe.
+Ann bought several of the scarves. Did Ann buy none of the scarves? No.
+Sally saw sixteen of the mugs. Did Sally see sixteen of the mugs?", Yes.,1
+3,at least thirteen-at least thirteen,"Some of the toys are blue. Are two of the toys blue? Yes.
+Most of the pastries are warm. Are three of the pastries warm? Maybe.
+Ann bought several of the scarves. Did Ann buy none of the scarves? No.
+Laura purchased at least thirteen of the sandwiches. Did Laura purchase at least thirteen of the sandwiches?", Yes.,1
+4,thirteen-sixteen,"All of the toys are expensive. Are none of the toys expensive? No.
+Both of the pastries are cheap. Are two of the pastries cheap? Yes.
+John wanted two of the snacks. Did John want all of the snacks? Maybe.
+The actor sold half of the tickets. Did the actor sell three of the tickets? Maybe.
+Mary got thirteen of the hats. Did Mary get sixteen of the hats?", No.,1
+4,sixteen-thirteen,"All of the toys are expensive. Are none of the toys expensive? No.
+Both of the pastries are cheap. Are two of the pastries cheap? Yes.
+John wanted two of the snacks. Did John want all of the snacks? Maybe.
+The actor sold half of the tickets. Did the actor sell three of the tickets? Maybe.
+Sixteen of the apples are delicious. Are thirteen of the apples delicious?", No.,0
+4,sixteen-at least thirteen,"All of the toys are expensive. Are none of the toys expensive? No.
+Both of the pastries are cheap. Are two of the pastries cheap? Yes.
+John wanted two of the snacks. Did John want all of the snacks? Maybe.
+The actor sold half of the tickets. Did the actor sell three of the tickets? Maybe.
+Sally got sixteen of the pancakes. Did Sally get at least thirteen of the pancakes?", Yes.,1
+4,at least thirteen-sixteen,"All of the toys are expensive. Are none of the toys expensive? No.
+Both of the pastries are cheap. Are two of the pastries cheap? Yes.
+John wanted two of the snacks. Did John want all of the snacks? Maybe.
+The actor sold half of the tickets. Did the actor sell three of the tickets? Maybe.
+At least thirteen of the pastries are delicious. Are sixteen of the pastries delicious?", Yes.,0
+4,sixteen-sixteen,"All of the toys are expensive. Are none of the toys expensive? No.
+Both of the pastries are cheap. Are two of the pastries cheap? Yes.
+John wanted two of the snacks. Did John want all of the snacks? Maybe.
+The actor sold half of the tickets. Did the actor sell three of the tickets? Maybe.
+Bill bought sixteen of the mugs. Did Bill buy sixteen of the mugs?", Yes.,1
+4,at least thirteen-at least thirteen,"All of the toys are expensive. Are none of the toys expensive? No.
+Both of the pastries are cheap. Are two of the pastries cheap? Yes.
+John wanted two of the snacks. Did John want all of the snacks? Maybe.
+The actor sold half of the tickets. Did the actor sell three of the tickets? Maybe.
+Sophie ate at least thirteen of the peanuts. Did Sophie eat at least thirteen of the peanuts?", Yes.,1
+4,thirteen-sixteen,"Sam purchased exactly two of the umbrellas. Did Sam purchase three of the umbrellas? No.
+The man saw half of the mice. Did the man see three of the mice? Maybe.
+Laura liked half of the shoes. Did Laura like three of the shoes? Maybe.
+Two of the scarves are blue. Are two of the scarves blue? Yes.
+The actress noticed thirteen of the bottles. Did the actress notice sixteen of the bottles?", No.,1
+4,sixteen-thirteen,"Sam purchased exactly two of the umbrellas. Did Sam purchase three of the umbrellas? No.
+The man saw half of the mice. Did the man see three of the mice? Maybe.
+Laura liked half of the shoes. Did Laura like three of the shoes? Maybe.
+Two of the scarves are blue. Are two of the scarves blue? Yes.
+Jim wanted sixteen of the pretzels. Did Jim want thirteen of the pretzels?", No.,0
+4,sixteen-at least thirteen,"Sam purchased exactly two of the umbrellas. Did Sam purchase three of the umbrellas? No.
+The man saw half of the mice. Did the man see three of the mice? Maybe.
+Laura liked half of the shoes. Did Laura like three of the shoes? Maybe.
+Two of the scarves are blue. Are two of the scarves blue? Yes.
+Bill wanted sixteen of the cupcakes. Did Bill want at least thirteen of the cupcakes?", Yes.,1
+4,at least thirteen-sixteen,"Sam purchased exactly two of the umbrellas. Did Sam purchase three of the umbrellas? No.
+The man saw half of the mice. Did the man see three of the mice? Maybe.
+Laura liked half of the shoes. Did Laura like three of the shoes? Maybe.
+Two of the scarves are blue. Are two of the scarves blue? Yes.
+Mark bought at least thirteen of the cherries. Did Mark buy sixteen of the cherries?", No.,0
+4,sixteen-sixteen,"Sam purchased exactly two of the umbrellas. Did Sam purchase three of the umbrellas? No.
+The man saw half of the mice. Did the man see three of the mice? Maybe.
+Laura liked half of the shoes. Did Laura like three of the shoes? Maybe.
+Two of the scarves are blue. Are two of the scarves blue? Yes.
+Mark bought sixteen of the pancakes. Did Mark buy sixteen of the pancakes?", Yes.,1
+4,at least thirteen-at least thirteen,"Sam purchased exactly two of the umbrellas. Did Sam purchase three of the umbrellas? No.
+The man saw half of the mice. Did the man see three of the mice? Maybe.
+Laura liked half of the shoes. Did Laura like three of the shoes? Maybe.
+Two of the scarves are blue. Are two of the scarves blue? Yes.
+John bought at least thirteen of the bottles. Did John buy at least thirteen of the bottles?", Yes.,1
+4,thirteen-sixteen,"Several of the churros are expensive. Are none of the churros expensive? No.
+Laura sold half of the burgers. Did Laura sell three of the burgers? Maybe.
+Lucy got two of the sweaters. Did Lucy get half of the sweaters? Maybe.
+Adam got some of the toys. Did Adam get more than one of the toys? Yes.
+Adam owned thirteen of the peanuts. Did Adam own sixteen of the peanuts?", No.,1
+4,sixteen-thirteen,"Several of the churros are expensive. Are none of the churros expensive? No.
+Laura sold half of the burgers. Did Laura sell three of the burgers? Maybe.
+Lucy got two of the sweaters. Did Lucy get half of the sweaters? Maybe.
+Adam got some of the toys. Did Adam get more than one of the toys? Yes.
+Sixteen of the warnings are colourful. Are thirteen of the warnings colourful?", No.,0
+4,sixteen-at least thirteen,"Several of the churros are expensive. Are none of the churros expensive? No.
+Laura sold half of the burgers. Did Laura sell three of the burgers? Maybe.
+Lucy got two of the sweaters. Did Lucy get half of the sweaters? Maybe.
+Adam got some of the toys. Did Adam get more than one of the toys? Yes.
+Michael ate sixteen of the oranges. Did Michael eat at least thirteen of the oranges?", Yes.,1
+4,at least thirteen-sixteen,"Several of the churros are expensive. Are none of the churros expensive? No.
+Laura sold half of the burgers. Did Laura sell three of the burgers? Maybe.
+Lucy got two of the sweaters. Did Lucy get half of the sweaters? Maybe.
+Adam got some of the toys. Did Adam get more than one of the toys? Yes.
+Laura purchased at least thirteen of the peanuts. Did Laura purchase sixteen of the peanuts?", Maybe.,1
+4,sixteen-sixteen,"Several of the churros are expensive. Are none of the churros expensive? No.
+Laura sold half of the burgers. Did Laura sell three of the burgers? Maybe.
+Lucy got two of the sweaters. Did Lucy get half of the sweaters? Maybe.
+Adam got some of the toys. Did Adam get more than one of the toys? Yes.
+Jo ordered sixteen of the shirts. Did Jo order sixteen of the shirts?", Yes.,1
+4,at least thirteen-at least thirteen,"Several of the churros are expensive. Are none of the churros expensive? No.
+Laura sold half of the burgers. Did Laura sell three of the burgers? Maybe.
+Lucy got two of the sweaters. Did Lucy get half of the sweaters? Maybe.
+Adam got some of the toys. Did Adam get more than one of the toys? Yes.
+Mary purchased at least thirteen of the chocolates. Did Mary purchase at least thirteen of the chocolates?", Yes.,1
+4,thirteen-sixteen,"Michael owned half of the cars. Did Michael own some of the cars? Yes.
+Michael owned half of the keyrings. Did Michael own three of the keyrings? Maybe.
+Most of the backpacks are red. Are three of the backpacks red? Maybe.
+Lucy had exactly two of the pastries. Did Lucy have three of the pastries? No.
+Jo liked thirteen of the hats. Did Jo like sixteen of the hats?", No.,1
+4,sixteen-thirteen,"Michael owned half of the cars. Did Michael own some of the cars? Yes.
+Michael owned half of the keyrings. Did Michael own three of the keyrings? Maybe.
+Most of the backpacks are red. Are three of the backpacks red? Maybe.
+Lucy had exactly two of the pastries. Did Lucy have three of the pastries? No.
+Sixteen of the peanuts are impressive. Are thirteen of the peanuts impressive?", No.,0
+4,sixteen-at least thirteen,"Michael owned half of the cars. Did Michael own some of the cars? Yes.
+Michael owned half of the keyrings. Did Michael own three of the keyrings? Maybe.
+Most of the backpacks are red. Are three of the backpacks red? Maybe.
+Lucy had exactly two of the pastries. Did Lucy have three of the pastries? No.
+Sam ordered sixteen of the peanuts. Did Sam order at least thirteen of the peanuts?", Yes.,1
+4,at least thirteen-sixteen,"Michael owned half of the cars. Did Michael own some of the cars? Yes.
+Michael owned half of the keyrings. Did Michael own three of the keyrings? Maybe.
+Most of the backpacks are red. Are three of the backpacks red? Maybe.
+Lucy had exactly two of the pastries. Did Lucy have three of the pastries? No.
+At least thirteen of the sweaters are orange. Are sixteen of the sweaters orange?", Yes.,0
+4,sixteen-sixteen,"Michael owned half of the cars. Did Michael own some of the cars? Yes.
+Michael owned half of the keyrings. Did Michael own three of the keyrings? Maybe.
+Most of the backpacks are red. Are three of the backpacks red? Maybe.
+Lucy had exactly two of the pastries. Did Lucy have three of the pastries? No.
+The actress owned sixteen of the chocolates. Did the actress own sixteen of the chocolates?", Yes.,1
+4,at least thirteen-at least thirteen,"Michael owned half of the cars. Did Michael own some of the cars? Yes.
+Michael owned half of the keyrings. Did Michael own three of the keyrings? Maybe.
+Most of the backpacks are red. Are three of the backpacks red? Maybe.
+Lucy had exactly two of the pastries. Did Lucy have three of the pastries? No.
+The man ate at least thirteen of the peanuts. Did the man eat at least thirteen of the peanuts?", Yes.,1
+4,thirteen-sixteen,"Adam had three of the pastries. Did Adam have more than two of the pastries? Yes.
+The actor sold two of the keyrings. Did the actor sell half of the keyrings? Maybe.
+Adam noticed most of the hats. Did Adam notice three of the hats? Maybe.
+Adam spotted exactly two of the stores. Did Adam spot none of the stores? No.
+Jo saw thirteen of the snacks. Did Jo see sixteen of the snacks?", No.,1
+4,sixteen-thirteen,"Adam had three of the pastries. Did Adam have more than two of the pastries? Yes.
+The actor sold two of the keyrings. Did the actor sell half of the keyrings? Maybe.
+Adam noticed most of the hats. Did Adam notice three of the hats? Maybe.
+Adam spotted exactly two of the stores. Did Adam spot none of the stores? No.
+John had sixteen of the apples. Did John have thirteen of the apples?", No.,0
+4,sixteen-at least thirteen,"Adam had three of the pastries. Did Adam have more than two of the pastries? Yes.
+The actor sold two of the keyrings. Did the actor sell half of the keyrings? Maybe.
+Adam noticed most of the hats. Did Adam notice three of the hats? Maybe.
+Adam spotted exactly two of the stores. Did Adam spot none of the stores? No.
+Robin purchased sixteen of the rings. Did Robin purchase at least thirteen of the rings?", Yes.,1
+4,at least thirteen-sixteen,"Adam had three of the pastries. Did Adam have more than two of the pastries? Yes.
+The actor sold two of the keyrings. Did the actor sell half of the keyrings? Maybe.
+Adam noticed most of the hats. Did Adam notice three of the hats? Maybe.
+Adam spotted exactly two of the stores. Did Adam spot none of the stores? No.
+The man saw at least thirteen of the cats. Did the man see sixteen of the cats?", No.,0
+4,sixteen-sixteen,"Adam had three of the pastries. Did Adam have more than two of the pastries? Yes.
+The actor sold two of the keyrings. Did the actor sell half of the keyrings? Maybe.
+Adam noticed most of the hats. Did Adam notice three of the hats? Maybe.
+Adam spotted exactly two of the stores. Did Adam spot none of the stores? No.
+John saw sixteen of the tickets. Did John see sixteen of the tickets?", Yes.,1
+4,at least thirteen-at least thirteen,"Adam had three of the pastries. Did Adam have more than two of the pastries? Yes.
+The actor sold two of the keyrings. Did the actor sell half of the keyrings? Maybe.
+Adam noticed most of the hats. Did Adam notice three of the hats? Maybe.
+Adam spotted exactly two of the stores. Did Adam spot none of the stores? No.
+Sophie liked at least thirteen of the chocolates. Did Sophie like at least thirteen of the chocolates?", Yes.,1
+4,thirteen-sixteen,"The woman ordered half of the snacks. Did the woman order three of the snacks? Maybe.
+Half of the cupcakes are cold. Are some of the cupcakes cold? Yes.
+Mark owned none of the shoes. Did Mark own all of the shoes? No.
+Lucy had two of the apples. Did Lucy have half of the apples? Maybe.
+Thirteen of the cherries are warm. Are sixteen of the cherries warm?", No.,1
+4,sixteen-thirteen,"The woman ordered half of the snacks. Did the woman order three of the snacks? Maybe.
+Half of the cupcakes are cold. Are some of the cupcakes cold? Yes.
+Mark owned none of the shoes. Did Mark own all of the shoes? No.
+Lucy had two of the apples. Did Lucy have half of the apples? Maybe.
+Sophie owned sixteen of the candles. Did Sophie own thirteen of the candles?", No.,0
+4,sixteen-at least thirteen,"The woman ordered half of the snacks. Did the woman order three of the snacks? Maybe.
+Half of the cupcakes are cold. Are some of the cupcakes cold? Yes.
+Mark owned none of the shoes. Did Mark own all of the shoes? No.
+Lucy had two of the apples. Did Lucy have half of the apples? Maybe.
+Robin owned sixteen of the burgers. Did Robin own at least thirteen of the burgers?", Yes.,1
+4,at least thirteen-sixteen,"The woman ordered half of the snacks. Did the woman order three of the snacks? Maybe.
+Half of the cupcakes are cold. Are some of the cupcakes cold? Yes.
+Mark owned none of the shoes. Did Mark own all of the shoes? No.
+Lucy had two of the apples. Did Lucy have half of the apples? Maybe.
+At least thirteen of the umbrellas are green. Are sixteen of the umbrellas green?", No.,0
+4,sixteen-sixteen,"The woman ordered half of the snacks. Did the woman order three of the snacks? Maybe.
+Half of the cupcakes are cold. Are some of the cupcakes cold? Yes.
+Mark owned none of the shoes. Did Mark own all of the shoes? No.
+Lucy had two of the apples. Did Lucy have half of the apples? Maybe.
+The teacher noticed sixteen of the shoes. Did the teacher notice sixteen of the shoes?", Yes.,1
+4,at least thirteen-at least thirteen,"The woman ordered half of the snacks. Did the woman order three of the snacks? Maybe.
+Half of the cupcakes are cold. Are some of the cupcakes cold? Yes.
+Mark owned none of the shoes. Did Mark own all of the shoes? No.
+Lucy had two of the apples. Did Lucy have half of the apples? Maybe.
+The singer wanted at least thirteen of the backpacks. Did the singer want at least thirteen of the backpacks?", Yes.,1
+4,thirteen-sixteen,"Ann purchased some of the candles. Did Ann purchase more than one of the candles? Yes.
+Jo noticed two of the pastries. Did Jo notice half of the pastries? Maybe.
+Robin saw none of the bagels. Did Robin see two of the bagels? No.
+The actor spotted two of the mice. Did the actor spot half of the mice? Maybe.
+Sam spotted thirteen of the scarves. Did Sam spot sixteen of the scarves?", No.,1
+4,sixteen-thirteen,"Ann purchased some of the candles. Did Ann purchase more than one of the candles? Yes.
+Jo noticed two of the pastries. Did Jo notice half of the pastries? Maybe.
+Robin saw none of the bagels. Did Robin see two of the bagels? No.
+The actor spotted two of the mice. Did the actor spot half of the mice? Maybe.
+The singer got sixteen of the hats. Did the singer get thirteen of the hats?", No.,0
+4,sixteen-at least thirteen,"Ann purchased some of the candles. Did Ann purchase more than one of the candles? Yes.
+Jo noticed two of the pastries. Did Jo notice half of the pastries? Maybe.
+Robin saw none of the bagels. Did Robin see two of the bagels? No.
+The actor spotted two of the mice. Did the actor spot half of the mice? Maybe.
+Sally liked sixteen of the churros. Did Sally like at least thirteen of the churros?", Yes.,1
+4,at least thirteen-sixteen,"Ann purchased some of the candles. Did Ann purchase more than one of the candles? Yes.
+Jo noticed two of the pastries. Did Jo notice half of the pastries? Maybe.
+Robin saw none of the bagels. Did Robin see two of the bagels? No.
+The actor spotted two of the mice. Did the actor spot half of the mice? Maybe.
+Jim spotted at least thirteen of the scarves. Did Jim spot sixteen of the scarves?", No.,0
+4,sixteen-sixteen,"Ann purchased some of the candles. Did Ann purchase more than one of the candles? Yes.
+Jo noticed two of the pastries. Did Jo notice half of the pastries? Maybe.
+Robin saw none of the bagels. Did Robin see two of the bagels? No.
+The actor spotted two of the mice. Did the actor spot half of the mice? Maybe.
+Bill spotted sixteen of the pastries. Did Bill spot sixteen of the pastries?", Yes.,1
+4,at least thirteen-at least thirteen,"Ann purchased some of the candles. Did Ann purchase more than one of the candles? Yes.
+Jo noticed two of the pastries. Did Jo notice half of the pastries? Maybe.
+Robin saw none of the bagels. Did Robin see two of the bagels? No.
+The actor spotted two of the mice. Did the actor spot half of the mice? Maybe.
+Ann owned at least thirteen of the toys. Did Ann own at least thirteen of the toys?", Yes.,1
+4,thirteen-sixteen,"Sam noticed most of the apples. Did Sam notice none of the apples? No.
+Sidney had most of the shoes. Did Sidney have three of the shoes? Maybe.
+Laura had both of the sandwiches. Did Laura have two of the sandwiches? Yes.
+Most of the pretzels are pretty. Are three of the pretzels pretty? Maybe.
+John wanted thirteen of the peanuts. Did John want sixteen of the peanuts?", No.,1
+4,sixteen-thirteen,"Sam noticed most of the apples. Did Sam notice none of the apples? No.
+Sidney had most of the shoes. Did Sidney have three of the shoes? Maybe.
+Laura had both of the sandwiches. Did Laura have two of the sandwiches? Yes.
+Most of the pretzels are pretty. Are three of the pretzels pretty? Maybe.
+The actor owned sixteen of the pretzels. Did the actor own thirteen of the pretzels?", No.,0
+4,sixteen-at least thirteen,"Sam noticed most of the apples. Did Sam notice none of the apples? No.
+Sidney had most of the shoes. Did Sidney have three of the shoes? Maybe.
+Laura had both of the sandwiches. Did Laura have two of the sandwiches? Yes.
+Most of the pretzels are pretty. Are three of the pretzels pretty? Maybe.
+Sixteen of the pretzels are impressive. Are at least thirteen of the pretzels impressive?", Yes.,1
+4,at least thirteen-sixteen,"Sam noticed most of the apples. Did Sam notice none of the apples? No.
+Sidney had most of the shoes. Did Sidney have three of the shoes? Maybe.
+Laura had both of the sandwiches. Did Laura have two of the sandwiches? Yes.
+Most of the pretzels are pretty. Are three of the pretzels pretty? Maybe.
+Mark ate at least thirteen of the pastries. Did Mark eat sixteen of the pastries?", No.,0
+4,sixteen-sixteen,"Sam noticed most of the apples. Did Sam notice none of the apples? No.
+Sidney had most of the shoes. Did Sidney have three of the shoes? Maybe.
+Laura had both of the sandwiches. Did Laura have two of the sandwiches? Yes.
+Most of the pretzels are pretty. Are three of the pretzels pretty? Maybe.
+Ann ordered sixteen of the burgers. Did Ann order sixteen of the burgers?", Yes.,1
+4,at least thirteen-at least thirteen,"Sam noticed most of the apples. Did Sam notice none of the apples? No.
+Sidney had most of the shoes. Did Sidney have three of the shoes? Maybe.
+Laura had both of the sandwiches. Did Laura have two of the sandwiches? Yes.
+Most of the pretzels are pretty. Are three of the pretzels pretty? Maybe.
+The man ate at least thirteen of the strawberries. Did the man eat at least thirteen of the strawberries?", Yes.,1
+4,thirteen-sixteen,"Mark ate all of the apples. Did Mark eat none of the apples? No.
+Robin saw two of the shirts. Did Robin see half of the shirts? Maybe.
+Sam spotted half of the candles. Did Sam spot three of the candles? Maybe.
+Adam saw two of the attractions. Did Adam see some of the attractions? Yes.
+Mark had thirteen of the bagels. Did Mark have sixteen of the bagels?", No.,1
+4,sixteen-thirteen,"Mark ate all of the apples. Did Mark eat none of the apples? No.
+Robin saw two of the shirts. Did Robin see half of the shirts? Maybe.
+Sam spotted half of the candles. Did Sam spot three of the candles? Maybe.
+Adam saw two of the attractions. Did Adam see some of the attractions? Yes.
+Bill noticed sixteen of the keyrings. Did Bill notice thirteen of the keyrings?", No.,0
+4,sixteen-at least thirteen,"Mark ate all of the apples. Did Mark eat none of the apples? No.
+Robin saw two of the shirts. Did Robin see half of the shirts? Maybe.
+Sam spotted half of the candles. Did Sam spot three of the candles? Maybe.
+Adam saw two of the attractions. Did Adam see some of the attractions? Yes.
+John wanted sixteen of the hats. Did John want at least thirteen of the hats?", Yes.,1
+4,at least thirteen-sixteen,"Mark ate all of the apples. Did Mark eat none of the apples? No.
+Robin saw two of the shirts. Did Robin see half of the shirts? Maybe.
+Sam spotted half of the candles. Did Sam spot three of the candles? Maybe.
+Adam saw two of the attractions. Did Adam see some of the attractions? Yes.
+Ann noticed at least thirteen of the churros. Did Ann notice sixteen of the churros?", Maybe.,1
+4,sixteen-sixteen,"Mark ate all of the apples. Did Mark eat none of the apples? No.
+Robin saw two of the shirts. Did Robin see half of the shirts? Maybe.
+Sam spotted half of the candles. Did Sam spot three of the candles? Maybe.
+Adam saw two of the attractions. Did Adam see some of the attractions? Yes.
+The singer ate sixteen of the cupcakes. Did the singer eat sixteen of the cupcakes?", Yes.,1
+4,at least thirteen-at least thirteen,"Mark ate all of the apples. Did Mark eat none of the apples? No.
+Robin saw two of the shirts. Did Robin see half of the shirts? Maybe.
+Sam spotted half of the candles. Did Sam spot three of the candles? Maybe.
+Adam saw two of the attractions. Did Adam see some of the attractions? Yes.
+The actress saw at least thirteen of the bagels. Did the actress see at least thirteen of the bagels?", Yes.,1
+4,thirteen-sixteen,"The teacher got two of the toys. Did the teacher get all of the toys? Maybe.
+The actor liked most of the scarves. Did the actor like none of the scarves? No.
+The actress spotted two of the chocolates. Did the actress spot all of the chocolates? Maybe.
+Mark liked half of the hats. Did Mark like some of the hats? Yes.
+John got thirteen of the backpacks. Did John get sixteen of the backpacks?", No.,1
+4,sixteen-thirteen,"The teacher got two of the toys. Did the teacher get all of the toys? Maybe.
+The actor liked most of the scarves. Did the actor like none of the scarves? No.
+The actress spotted two of the chocolates. Did the actress spot all of the chocolates? Maybe.
+Mark liked half of the hats. Did Mark like some of the hats? Yes.
+Michael purchased sixteen of the hats. Did Michael purchase thirteen of the hats?", No.,0
+4,sixteen-at least thirteen,"The teacher got two of the toys. Did the teacher get all of the toys? Maybe.
+The actor liked most of the scarves. Did the actor like none of the scarves? No.
+The actress spotted two of the chocolates. Did the actress spot all of the chocolates? Maybe.
+Mark liked half of the hats. Did Mark like some of the hats? Yes.
+Sidney bought sixteen of the toys. Did Sidney buy at least thirteen of the toys?", Yes.,1
+4,at least thirteen-sixteen,"The teacher got two of the toys. Did the teacher get all of the toys? Maybe.
+The actor liked most of the scarves. Did the actor like none of the scarves? No.
+The actress spotted two of the chocolates. Did the actress spot all of the chocolates? Maybe.
+Mark liked half of the hats. Did Mark like some of the hats? Yes.
+Sally bought at least thirteen of the sweaters. Did Sally buy sixteen of the sweaters?", No.,0
+4,sixteen-sixteen,"The teacher got two of the toys. Did the teacher get all of the toys? Maybe.
+The actor liked most of the scarves. Did the actor like none of the scarves? No.
+The actress spotted two of the chocolates. Did the actress spot all of the chocolates? Maybe.
+Mark liked half of the hats. Did Mark like some of the hats? Yes.
+The teacher noticed sixteen of the cherries. Did the teacher notice sixteen of the cherries?", Yes.,1
+4,at least thirteen-at least thirteen,"The teacher got two of the toys. Did the teacher get all of the toys? Maybe.
+The actor liked most of the scarves. Did the actor like none of the scarves? No.
+The actress spotted two of the chocolates. Did the actress spot all of the chocolates? Maybe.
+Mark liked half of the hats. Did Mark like some of the hats? Yes.
+At least thirteen of the shirts are orange. Are at least thirteen of the shirts orange?", Yes.,1
+4,thirteen-sixteen,"The singer wanted two of the chocolates. Did the singer want all of the chocolates? Maybe.
+Sam bought none of the candles. Did Sam buy several of the candles? No.
+Laura bought some of the sweaters. Did Laura buy more than one of the sweaters? Yes.
+Most of the rings are expensive. Are three of the rings expensive? Maybe.
+Laura purchased thirteen of the cupcakes. Did Laura purchase sixteen of the cupcakes?", No.,1
+4,sixteen-thirteen,"The singer wanted two of the chocolates. Did the singer want all of the chocolates? Maybe.
+Sam bought none of the candles. Did Sam buy several of the candles? No.
+Laura bought some of the sweaters. Did Laura buy more than one of the sweaters? Yes.
+Most of the rings are expensive. Are three of the rings expensive? Maybe.
+Robin sold sixteen of the hats. Did Robin sell thirteen of the hats?", No.,0
+4,sixteen-at least thirteen,"The singer wanted two of the chocolates. Did the singer want all of the chocolates? Maybe.
+Sam bought none of the candles. Did Sam buy several of the candles? No.
+Laura bought some of the sweaters. Did Laura buy more than one of the sweaters? Yes.
+Most of the rings are expensive. Are three of the rings expensive? Maybe.
+The actress saw sixteen of the rings. Did the actress see at least thirteen of the rings?", Yes.,1
+4,at least thirteen-sixteen,"The singer wanted two of the chocolates. Did the singer want all of the chocolates? Maybe.
+Sam bought none of the candles. Did Sam buy several of the candles? No.
+Laura bought some of the sweaters. Did Laura buy more than one of the sweaters? Yes.
+Most of the rings are expensive. Are three of the rings expensive? Maybe.
+Sally spotted at least thirteen of the rings. Did Sally spot sixteen of the rings?", No.,0
+4,sixteen-sixteen,"The singer wanted two of the chocolates. Did the singer want all of the chocolates? Maybe.
+Sam bought none of the candles. Did Sam buy several of the candles? No.
+Laura bought some of the sweaters. Did Laura buy more than one of the sweaters? Yes.
+Most of the rings are expensive. Are three of the rings expensive? Maybe.
+Sixteen of the sandwiches are cold. Are sixteen of the sandwiches cold?", Yes.,1
+4,at least thirteen-at least thirteen,"The singer wanted two of the chocolates. Did the singer want all of the chocolates? Maybe.
+Sam bought none of the candles. Did Sam buy several of the candles? No.
+Laura bought some of the sweaters. Did Laura buy more than one of the sweaters? Yes.
+Most of the rings are expensive. Are three of the rings expensive? Maybe.
+At least thirteen of the pastries are expensive. Are at least thirteen of the pastries expensive?", Yes.,1
+4,thirteen-sixteen,"Ann spotted two of the attractions. Did Ann spot half of the attractions? Maybe.
+Adam had two of the cars. Did Adam have two of the cars? Yes.
+Two of the shirts are yellow. Are half of the shirts yellow? Maybe.
+Jim sold several of the pancakes. Did Jim sell none of the pancakes? No.
+Thirteen of the attractions are colourful. Are sixteen of the attractions colourful?", Yes.,0
+4,sixteen-thirteen,"Ann spotted two of the attractions. Did Ann spot half of the attractions? Maybe.
+Adam had two of the cars. Did Adam have two of the cars? Yes.
+Two of the shirts are yellow. Are half of the shirts yellow? Maybe.
+Jim sold several of the pancakes. Did Jim sell none of the pancakes? No.
+The actor ordered sixteen of the pastries. Did the actor order thirteen of the pastries?", No.,0
+4,sixteen-at least thirteen,"Ann spotted two of the attractions. Did Ann spot half of the attractions? Maybe.
+Adam had two of the cars. Did Adam have two of the cars? Yes.
+Two of the shirts are yellow. Are half of the shirts yellow? Maybe.
+Jim sold several of the pancakes. Did Jim sell none of the pancakes? No.
+John ate sixteen of the sandwiches. Did John eat at least thirteen of the sandwiches?", Yes.,1
+4,at least thirteen-sixteen,"Ann spotted two of the attractions. Did Ann spot half of the attractions? Maybe.
+Adam had two of the cars. Did Adam have two of the cars? Yes.
+Two of the shirts are yellow. Are half of the shirts yellow? Maybe.
+Jim sold several of the pancakes. Did Jim sell none of the pancakes? No.
+At least thirteen of the peanuts are delicious. Are sixteen of the peanuts delicious?", Yes.,0
+4,sixteen-sixteen,"Ann spotted two of the attractions. Did Ann spot half of the attractions? Maybe.
+Adam had two of the cars. Did Adam have two of the cars? Yes.
+Two of the shirts are yellow. Are half of the shirts yellow? Maybe.
+Jim sold several of the pancakes. Did Jim sell none of the pancakes? No.
+The singer sold sixteen of the sandwiches. Did the singer sell sixteen of the sandwiches?", Yes.,1
+4,at least thirteen-at least thirteen,"Ann spotted two of the attractions. Did Ann spot half of the attractions? Maybe.
+Adam had two of the cars. Did Adam have two of the cars? Yes.
+Two of the shirts are yellow. Are half of the shirts yellow? Maybe.
+Jim sold several of the pancakes. Did Jim sell none of the pancakes? No.
+At least thirteen of the cars are orange. Are at least thirteen of the cars orange?", Yes.,1
+4,thirteen-sixteen,"Jim saw half of the shoes. Did Jim see three of the shoes? Maybe.
+Bill purchased half of the umbrellas. Did Bill purchase three of the umbrellas? Maybe.
+The teacher liked none of the rings. Did the teacher like some of the rings? No.
+Ann sold half of the cupcakes. Did Ann sell some of the cupcakes? Yes.
+Thirteen of the oranges are mouldy. Are sixteen of the oranges mouldy?", No.,1
+4,sixteen-thirteen,"Jim saw half of the shoes. Did Jim see three of the shoes? Maybe.
+Bill purchased half of the umbrellas. Did Bill purchase three of the umbrellas? Maybe.
+The teacher liked none of the rings. Did the teacher like some of the rings? No.
+Ann sold half of the cupcakes. Did Ann sell some of the cupcakes? Yes.
+Sixteen of the toys are sold out. Are thirteen of the toys sold out?", No.,0
+4,sixteen-at least thirteen,"Jim saw half of the shoes. Did Jim see three of the shoes? Maybe.
+Bill purchased half of the umbrellas. Did Bill purchase three of the umbrellas? Maybe.
+The teacher liked none of the rings. Did the teacher like some of the rings? No.
+Ann sold half of the cupcakes. Did Ann sell some of the cupcakes? Yes.
+The man liked sixteen of the shirts. Did the man like at least thirteen of the shirts?", Yes.,1
+4,at least thirteen-sixteen,"Jim saw half of the shoes. Did Jim see three of the shoes? Maybe.
+Bill purchased half of the umbrellas. Did Bill purchase three of the umbrellas? Maybe.
+The teacher liked none of the rings. Did the teacher like some of the rings? No.
+Ann sold half of the cupcakes. Did Ann sell some of the cupcakes? Yes.
+Adam liked at least thirteen of the shoes. Did Adam like sixteen of the shoes?", No.,0
+4,sixteen-sixteen,"Jim saw half of the shoes. Did Jim see three of the shoes? Maybe.
+Bill purchased half of the umbrellas. Did Bill purchase three of the umbrellas? Maybe.
+The teacher liked none of the rings. Did the teacher like some of the rings? No.
+Ann sold half of the cupcakes. Did Ann sell some of the cupcakes? Yes.
+Sixteen of the cakes are delicious. Are sixteen of the cakes delicious?", Yes.,1
+4,at least thirteen-at least thirteen,"Jim saw half of the shoes. Did Jim see three of the shoes? Maybe.
+Bill purchased half of the umbrellas. Did Bill purchase three of the umbrellas? Maybe.
+The teacher liked none of the rings. Did the teacher like some of the rings? No.
+Ann sold half of the cupcakes. Did Ann sell some of the cupcakes? Yes.
+Jo noticed at least thirteen of the toys. Did Jo notice at least thirteen of the toys?", Yes.,1
+4,thirteen-sixteen,"The actress saw half of the signs. Did the actress see three of the signs? Maybe.
+Adam ate three of the apples. Did Adam eat more than two of the apples? Yes.
+Laura ordered none of the snacks. Did Laura order some of the snacks? No.
+Jim spotted most of the keyrings. Did Jim spot three of the keyrings? Maybe.
+Bill got thirteen of the backpacks. Did Bill get sixteen of the backpacks?", No.,1
+4,sixteen-thirteen,"The actress saw half of the signs. Did the actress see three of the signs? Maybe.
+Adam ate three of the apples. Did Adam eat more than two of the apples? Yes.
+Laura ordered none of the snacks. Did Laura order some of the snacks? No.
+Jim spotted most of the keyrings. Did Jim spot three of the keyrings? Maybe.
+The woman spotted sixteen of the keyrings. Did the woman spot thirteen of the keyrings?", No.,0
+4,sixteen-at least thirteen,"The actress saw half of the signs. Did the actress see three of the signs? Maybe.
+Adam ate three of the apples. Did Adam eat more than two of the apples? Yes.
+Laura ordered none of the snacks. Did Laura order some of the snacks? No.
+Jim spotted most of the keyrings. Did Jim spot three of the keyrings? Maybe.
+Sam spotted sixteen of the apples. Did Sam spot at least thirteen of the apples?", Yes.,1
+4,at least thirteen-sixteen,"The actress saw half of the signs. Did the actress see three of the signs? Maybe.
+Adam ate three of the apples. Did Adam eat more than two of the apples? Yes.
+Laura ordered none of the snacks. Did Laura order some of the snacks? No.
+Jim spotted most of the keyrings. Did Jim spot three of the keyrings? Maybe.
+Sophie owned at least thirteen of the shirts. Did Sophie own sixteen of the shirts?", No.,0
+4,sixteen-sixteen,"The actress saw half of the signs. Did the actress see three of the signs? Maybe.
+Adam ate three of the apples. Did Adam eat more than two of the apples? Yes.
+Laura ordered none of the snacks. Did Laura order some of the snacks? No.
+Jim spotted most of the keyrings. Did Jim spot three of the keyrings? Maybe.
+The teacher sold sixteen of the churros. Did the teacher sell sixteen of the churros?", Yes.,1
+4,at least thirteen-at least thirteen,"The actress saw half of the signs. Did the actress see three of the signs? Maybe.
+Adam ate three of the apples. Did Adam eat more than two of the apples? Yes.
+Laura ordered none of the snacks. Did Laura order some of the snacks? No.
+Jim spotted most of the keyrings. Did Jim spot three of the keyrings? Maybe.
+At least thirteen of the snacks are cheap. Are at least thirteen of the snacks cheap?", Yes.,1
+4,thirteen-sixteen,"The actress wanted two of the keyrings. Did the actress want two of the keyrings? Yes.
+The singer spotted half of the cupcakes. Did the singer spot three of the cupcakes? Maybe.
+Mark ordered all of the backpacks. Did Mark order none of the backpacks? No.
+Laura got two of the toys. Did Laura get all of the toys? Maybe.
+Sophie wanted thirteen of the chocolates. Did Sophie want sixteen of the chocolates?", No.,1
+4,sixteen-thirteen,"The actress wanted two of the keyrings. Did the actress want two of the keyrings? Yes.
+The singer spotted half of the cupcakes. Did the singer spot three of the cupcakes? Maybe.
+Mark ordered all of the backpacks. Did Mark order none of the backpacks? No.
+Laura got two of the toys. Did Laura get all of the toys? Maybe.
+The woman noticed sixteen of the temples. Did the woman notice thirteen of the temples?", No.,0
+4,sixteen-at least thirteen,"The actress wanted two of the keyrings. Did the actress want two of the keyrings? Yes.
+The singer spotted half of the cupcakes. Did the singer spot three of the cupcakes? Maybe.
+Mark ordered all of the backpacks. Did Mark order none of the backpacks? No.
+Laura got two of the toys. Did Laura get all of the toys? Maybe.
+Mary liked sixteen of the peanuts. Did Mary like at least thirteen of the peanuts?", Yes.,1
+4,at least thirteen-sixteen,"The actress wanted two of the keyrings. Did the actress want two of the keyrings? Yes.
+The singer spotted half of the cupcakes. Did the singer spot three of the cupcakes? Maybe.
+Mark ordered all of the backpacks. Did Mark order none of the backpacks? No.
+Laura got two of the toys. Did Laura get all of the toys? Maybe.
+Ann noticed at least thirteen of the snacks. Did Ann notice sixteen of the snacks?", Maybe.,1
+4,sixteen-sixteen,"The actress wanted two of the keyrings. Did the actress want two of the keyrings? Yes.
+The singer spotted half of the cupcakes. Did the singer spot three of the cupcakes? Maybe.
+Mark ordered all of the backpacks. Did Mark order none of the backpacks? No.
+Laura got two of the toys. Did Laura get all of the toys? Maybe.
+The man purchased sixteen of the bottles. Did the man purchase sixteen of the bottles?", Yes.,1
+4,at least thirteen-at least thirteen,"The actress wanted two of the keyrings. Did the actress want two of the keyrings? Yes.
+The singer spotted half of the cupcakes. Did the singer spot three of the cupcakes? Maybe.
+Mark ordered all of the backpacks. Did Mark order none of the backpacks? No.
+Laura got two of the toys. Did Laura get all of the toys? Maybe.
+Sam bought at least thirteen of the keyrings. Did Sam buy at least thirteen of the keyrings?", Yes.,1
+4,thirteen-sixteen,"The man got two of the pretzels. Did the man get half of the pretzels? Maybe.
+Mary saw both of the peanuts. Did Mary see both of the peanuts? Yes.
+The teacher purchased several of the burgers. Did the teacher purchase none of the burgers? No.
+Most of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+Robin saw thirteen of the warnings. Did Robin see sixteen of the warnings?", No.,1
+4,sixteen-thirteen,"The man got two of the pretzels. Did the man get half of the pretzels? Maybe.
+Mary saw both of the peanuts. Did Mary see both of the peanuts? Yes.
+The teacher purchased several of the burgers. Did the teacher purchase none of the burgers? No.
+Most of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+Laura ate sixteen of the apples. Did Laura eat thirteen of the apples?", No.,0
+4,sixteen-at least thirteen,"The man got two of the pretzels. Did the man get half of the pretzels? Maybe.
+Mary saw both of the peanuts. Did Mary see both of the peanuts? Yes.
+The teacher purchased several of the burgers. Did the teacher purchase none of the burgers? No.
+Most of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+Jim noticed sixteen of the chocolates. Did Jim notice at least thirteen of the chocolates?", Yes.,1
+4,at least thirteen-sixteen,"The man got two of the pretzels. Did the man get half of the pretzels? Maybe.
+Mary saw both of the peanuts. Did Mary see both of the peanuts? Yes.
+The teacher purchased several of the burgers. Did the teacher purchase none of the burgers? No.
+Most of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+At least thirteen of the strawberries are pretty. Are sixteen of the strawberries pretty?", Yes.,0
+4,sixteen-sixteen,"The man got two of the pretzels. Did the man get half of the pretzels? Maybe.
+Mary saw both of the peanuts. Did Mary see both of the peanuts? Yes.
+The teacher purchased several of the burgers. Did the teacher purchase none of the burgers? No.
+Most of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+Sixteen of the sights are pretty. Are sixteen of the sights pretty?", Yes.,1
+4,at least thirteen-at least thirteen,"The man got two of the pretzels. Did the man get half of the pretzels? Maybe.
+Mary saw both of the peanuts. Did Mary see both of the peanuts? Yes.
+The teacher purchased several of the burgers. Did the teacher purchase none of the burgers? No.
+Most of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+The man sold at least thirteen of the snacks. Did the man sell at least thirteen of the snacks?", Yes.,1
+4,thirteen-sixteen,"Two of the snacks are on sale. Are more than one of the snacks on sale? Yes.
+Sidney sold half of the hats. Did Sidney sell three of the hats? Maybe.
+Lucy ordered none of the churros. Did Lucy order some of the churros? No.
+Michael wanted half of the bagels. Did Michael want three of the bagels? Maybe.
+Sophie liked thirteen of the pretzels. Did Sophie like sixteen of the pretzels?", No.,1
+4,sixteen-thirteen,"Two of the snacks are on sale. Are more than one of the snacks on sale? Yes.
+Sidney sold half of the hats. Did Sidney sell three of the hats? Maybe.
+Lucy ordered none of the churros. Did Lucy order some of the churros? No.
+Michael wanted half of the bagels. Did Michael want three of the bagels? Maybe.
+The woman bought sixteen of the churros. Did the woman buy thirteen of the churros?", No.,0
+4,sixteen-at least thirteen,"Two of the snacks are on sale. Are more than one of the snacks on sale? Yes.
+Sidney sold half of the hats. Did Sidney sell three of the hats? Maybe.
+Lucy ordered none of the churros. Did Lucy order some of the churros? No.
+Michael wanted half of the bagels. Did Michael want three of the bagels? Maybe.
+Sidney ordered sixteen of the bottles. Did Sidney order at least thirteen of the bottles?", Yes.,1
+4,at least thirteen-sixteen,"Two of the snacks are on sale. Are more than one of the snacks on sale? Yes.
+Sidney sold half of the hats. Did Sidney sell three of the hats? Maybe.
+Lucy ordered none of the churros. Did Lucy order some of the churros? No.
+Michael wanted half of the bagels. Did Michael want three of the bagels? Maybe.
+Sophie liked at least thirteen of the mugs. Did Sophie like sixteen of the mugs?", Yes.,0
+4,sixteen-sixteen,"Two of the snacks are on sale. Are more than one of the snacks on sale? Yes.
+Sidney sold half of the hats. Did Sidney sell three of the hats? Maybe.
+Lucy ordered none of the churros. Did Lucy order some of the churros? No.
+Michael wanted half of the bagels. Did Michael want three of the bagels? Maybe.
+The woman liked sixteen of the burgers. Did the woman like sixteen of the burgers?", Yes.,1
+4,at least thirteen-at least thirteen,"Two of the snacks are on sale. Are more than one of the snacks on sale? Yes.
+Sidney sold half of the hats. Did Sidney sell three of the hats? Maybe.
+Lucy ordered none of the churros. Did Lucy order some of the churros? No.
+Michael wanted half of the bagels. Did Michael want three of the bagels? Maybe.
+Jim spotted at least thirteen of the umbrellas. Did Jim spot at least thirteen of the umbrellas?", Yes.,1
+4,thirteen-sixteen,"Adam saw most of the tickets. Did Adam see three of the tickets? Maybe.
+Jo noticed half of the performers. Did Jo notice half of the performers? Yes.
+Robin purchased most of the keyrings. Did Robin purchase three of the keyrings? Maybe.
+Lucy purchased all of the oranges. Did Lucy purchase none of the oranges? No.
+Laura bought thirteen of the bagels. Did Laura buy sixteen of the bagels?", No.,1
+4,sixteen-thirteen,"Adam saw most of the tickets. Did Adam see three of the tickets? Maybe.
+Jo noticed half of the performers. Did Jo notice half of the performers? Yes.
+Robin purchased most of the keyrings. Did Robin purchase three of the keyrings? Maybe.
+Lucy purchased all of the oranges. Did Lucy purchase none of the oranges? No.
+Sixteen of the bagels are delicious. Are thirteen of the bagels delicious?", Yes.,1
+4,sixteen-at least thirteen,"Adam saw most of the tickets. Did Adam see three of the tickets? Maybe.
+Jo noticed half of the performers. Did Jo notice half of the performers? Yes.
+Robin purchased most of the keyrings. Did Robin purchase three of the keyrings? Maybe.
+Lucy purchased all of the oranges. Did Lucy purchase none of the oranges? No.
+Mary purchased sixteen of the shoes. Did Mary purchase at least thirteen of the shoes?", Yes.,1
+4,at least thirteen-sixteen,"Adam saw most of the tickets. Did Adam see three of the tickets? Maybe.
+Jo noticed half of the performers. Did Jo notice half of the performers? Yes.
+Robin purchased most of the keyrings. Did Robin purchase three of the keyrings? Maybe.
+Lucy purchased all of the oranges. Did Lucy purchase none of the oranges? No.
+Sally liked at least thirteen of the umbrellas. Did Sally like sixteen of the umbrellas?", Maybe.,1
+4,sixteen-sixteen,"Adam saw most of the tickets. Did Adam see three of the tickets? Maybe.
+Jo noticed half of the performers. Did Jo notice half of the performers? Yes.
+Robin purchased most of the keyrings. Did Robin purchase three of the keyrings? Maybe.
+Lucy purchased all of the oranges. Did Lucy purchase none of the oranges? No.
+Sophie had sixteen of the hats. Did Sophie have sixteen of the hats?", Yes.,1
+4,at least thirteen-at least thirteen,"Adam saw most of the tickets. Did Adam see three of the tickets? Maybe.
+Jo noticed half of the performers. Did Jo notice half of the performers? Yes.
+Robin purchased most of the keyrings. Did Robin purchase three of the keyrings? Maybe.
+Lucy purchased all of the oranges. Did Lucy purchase none of the oranges? No.
+The singer bought at least thirteen of the scarves. Did the singer buy at least thirteen of the scarves?", Yes.,1
+4,thirteen-sixteen,"The singer ordered most of the peanuts. Did the singer order three of the peanuts? Maybe.
+The teacher ate most of the snacks. Did the teacher eat none of the snacks? No.
+Jo sold both of the keyrings. Did Jo sell all of the keyrings? Yes.
+Adam sold half of the snacks. Did Adam sell three of the snacks? Maybe.
+Mark purchased thirteen of the shirts. Did Mark purchase sixteen of the shirts?", No.,1
+4,sixteen-thirteen,"The singer ordered most of the peanuts. Did the singer order three of the peanuts? Maybe.
+The teacher ate most of the snacks. Did the teacher eat none of the snacks? No.
+Jo sold both of the keyrings. Did Jo sell all of the keyrings? Yes.
+Adam sold half of the snacks. Did Adam sell three of the snacks? Maybe.
+Sally had sixteen of the oranges. Did Sally have thirteen of the oranges?", No.,0
+4,sixteen-at least thirteen,"The singer ordered most of the peanuts. Did the singer order three of the peanuts? Maybe.
+The teacher ate most of the snacks. Did the teacher eat none of the snacks? No.
+Jo sold both of the keyrings. Did Jo sell all of the keyrings? Yes.
+Adam sold half of the snacks. Did Adam sell three of the snacks? Maybe.
+The woman ate sixteen of the oranges. Did the woman eat at least thirteen of the oranges?", Yes.,1
+4,at least thirteen-sixteen,"The singer ordered most of the peanuts. Did the singer order three of the peanuts? Maybe.
+The teacher ate most of the snacks. Did the teacher eat none of the snacks? No.
+Jo sold both of the keyrings. Did Jo sell all of the keyrings? Yes.
+Adam sold half of the snacks. Did Adam sell three of the snacks? Maybe.
+The actress spotted at least thirteen of the peanuts. Did the actress spot sixteen of the peanuts?", No.,0
+4,sixteen-sixteen,"The singer ordered most of the peanuts. Did the singer order three of the peanuts? Maybe.
+The teacher ate most of the snacks. Did the teacher eat none of the snacks? No.
+Jo sold both of the keyrings. Did Jo sell all of the keyrings? Yes.
+Adam sold half of the snacks. Did Adam sell three of the snacks? Maybe.
+Sally sold sixteen of the cupcakes. Did Sally sell sixteen of the cupcakes?", Yes.,1
+4,at least thirteen-at least thirteen,"The singer ordered most of the peanuts. Did the singer order three of the peanuts? Maybe.
+The teacher ate most of the snacks. Did the teacher eat none of the snacks? No.
+Jo sold both of the keyrings. Did Jo sell all of the keyrings? Yes.
+Adam sold half of the snacks. Did Adam sell three of the snacks? Maybe.
+Bill ate at least thirteen of the apples. Did Bill eat at least thirteen of the apples?", Yes.,1
+4,thirteen-sixteen,"Bill wanted none of the bottles. Did Bill want all of the bottles? No.
+Mary saw half of the hats. Did Mary see three of the hats? Maybe.
+Sam saw two of the bagels. Did Sam see half of the bagels? Maybe.
+Jo wanted two of the candles. Did Jo want some of the candles? Yes.
+The woman saw thirteen of the bottles. Did the woman see sixteen of the bottles?", No.,1
+4,sixteen-thirteen,"Bill wanted none of the bottles. Did Bill want all of the bottles? No.
+Mary saw half of the hats. Did Mary see three of the hats? Maybe.
+Sam saw two of the bagels. Did Sam see half of the bagels? Maybe.
+Jo wanted two of the candles. Did Jo want some of the candles? Yes.
+Jim had sixteen of the churros. Did Jim have thirteen of the churros?", No.,0
+4,sixteen-at least thirteen,"Bill wanted none of the bottles. Did Bill want all of the bottles? No.
+Mary saw half of the hats. Did Mary see three of the hats? Maybe.
+Sam saw two of the bagels. Did Sam see half of the bagels? Maybe.
+Jo wanted two of the candles. Did Jo want some of the candles? Yes.
+Laura ordered sixteen of the bottles. Did Laura order at least thirteen of the bottles?", Yes.,1
+4,at least thirteen-sixteen,"Bill wanted none of the bottles. Did Bill want all of the bottles? No.
+Mary saw half of the hats. Did Mary see three of the hats? Maybe.
+Sam saw two of the bagels. Did Sam see half of the bagels? Maybe.
+Jo wanted two of the candles. Did Jo want some of the candles? Yes.
+Jo noticed at least thirteen of the tickets. Did Jo notice sixteen of the tickets?", Maybe.,1
+4,sixteen-sixteen,"Bill wanted none of the bottles. Did Bill want all of the bottles? No.
+Mary saw half of the hats. Did Mary see three of the hats? Maybe.
+Sam saw two of the bagels. Did Sam see half of the bagels? Maybe.
+Jo wanted two of the candles. Did Jo want some of the candles? Yes.
+Ann liked sixteen of the umbrellas. Did Ann like sixteen of the umbrellas?", Yes.,1
+4,at least thirteen-at least thirteen,"Bill wanted none of the bottles. Did Bill want all of the bottles? No.
+Mary saw half of the hats. Did Mary see three of the hats? Maybe.
+Sam saw two of the bagels. Did Sam see half of the bagels? Maybe.
+Jo wanted two of the candles. Did Jo want some of the candles? Yes.
+Jim spotted at least thirteen of the parades. Did Jim spot at least thirteen of the parades?", Yes.,1
+4,thirteen-sixteen,"Half of the candles are affordable. Are three of the candles affordable? Maybe.
+Half of the cars are red. Are some of the cars red? Yes.
+Laura ate none of the pretzels. Did Laura eat some of the pretzels? No.
+Ann owned half of the burgers. Did Ann own three of the burgers? Maybe.
+Jo bought thirteen of the bagels. Did Jo buy sixteen of the bagels?", No.,1
+4,sixteen-thirteen,"Half of the candles are affordable. Are three of the candles affordable? Maybe.
+Half of the cars are red. Are some of the cars red? Yes.
+Laura ate none of the pretzels. Did Laura eat some of the pretzels? No.
+Ann owned half of the burgers. Did Ann own three of the burgers? Maybe.
+John owned sixteen of the pretzels. Did John own thirteen of the pretzels?", No.,0
+4,sixteen-at least thirteen,"Half of the candles are affordable. Are three of the candles affordable? Maybe.
+Half of the cars are red. Are some of the cars red? Yes.
+Laura ate none of the pretzels. Did Laura eat some of the pretzels? No.
+Ann owned half of the burgers. Did Ann own three of the burgers? Maybe.
+Sixteen of the hats are impressive. Are at least thirteen of the hats impressive?", Yes.,1
+4,at least thirteen-sixteen,"Half of the candles are affordable. Are three of the candles affordable? Maybe.
+Half of the cars are red. Are some of the cars red? Yes.
+Laura ate none of the pretzels. Did Laura eat some of the pretzels? No.
+Ann owned half of the burgers. Did Ann own three of the burgers? Maybe.
+Ann ate at least thirteen of the chocolates. Did Ann eat sixteen of the chocolates?", No.,0
+4,sixteen-sixteen,"Half of the candles are affordable. Are three of the candles affordable? Maybe.
+Half of the cars are red. Are some of the cars red? Yes.
+Laura ate none of the pretzels. Did Laura eat some of the pretzels? No.
+Ann owned half of the burgers. Did Ann own three of the burgers? Maybe.
+John bought sixteen of the bottles. Did John buy sixteen of the bottles?", Yes.,1
+4,at least thirteen-at least thirteen,"Half of the candles are affordable. Are three of the candles affordable? Maybe.
+Half of the cars are red. Are some of the cars red? Yes.
+Laura ate none of the pretzels. Did Laura eat some of the pretzels? No.
+Ann owned half of the burgers. Did Ann own three of the burgers? Maybe.
+At least thirteen of the pancakes are delicious. Are at least thirteen of the pancakes delicious?", Yes.,1
+4,thirteen-sixteen,"Two of the toys are yellow. Are half of the toys yellow? Maybe.
+Sophie bought half of the toys. Did Sophie buy three of the toys? Maybe.
+Mary ate some of the bagels. Did Mary eat two of the bagels? Yes.
+Ann had all of the pretzels. Did Ann have none of the pretzels? No.
+The singer purchased thirteen of the cakes. Did the singer purchase sixteen of the cakes?", No.,1
+4,sixteen-thirteen,"Two of the toys are yellow. Are half of the toys yellow? Maybe.
+Sophie bought half of the toys. Did Sophie buy three of the toys? Maybe.
+Mary ate some of the bagels. Did Mary eat two of the bagels? Yes.
+Ann had all of the pretzels. Did Ann have none of the pretzels? No.
+The singer liked sixteen of the toys. Did the singer like thirteen of the toys?", No.,0
+4,sixteen-at least thirteen,"Two of the toys are yellow. Are half of the toys yellow? Maybe.
+Sophie bought half of the toys. Did Sophie buy three of the toys? Maybe.
+Mary ate some of the bagels. Did Mary eat two of the bagels? Yes.
+Ann had all of the pretzels. Did Ann have none of the pretzels? No.
+Sixteen of the chocolates are delicious. Are at least thirteen of the chocolates delicious?", Yes.,1
+4,at least thirteen-sixteen,"Two of the toys are yellow. Are half of the toys yellow? Maybe.
+Sophie bought half of the toys. Did Sophie buy three of the toys? Maybe.
+Mary ate some of the bagels. Did Mary eat two of the bagels? Yes.
+Ann had all of the pretzels. Did Ann have none of the pretzels? No.
+The actor got at least thirteen of the strawberries. Did the actor get sixteen of the strawberries?", No.,0
+4,sixteen-sixteen,"Two of the toys are yellow. Are half of the toys yellow? Maybe.
+Sophie bought half of the toys. Did Sophie buy three of the toys? Maybe.
+Mary ate some of the bagels. Did Mary eat two of the bagels? Yes.
+Ann had all of the pretzels. Did Ann have none of the pretzels? No.
+John had sixteen of the oranges. Did John have sixteen of the oranges?", Yes.,1
+4,at least thirteen-at least thirteen,"Two of the toys are yellow. Are half of the toys yellow? Maybe.
+Sophie bought half of the toys. Did Sophie buy three of the toys? Maybe.
+Mary ate some of the bagels. Did Mary eat two of the bagels? Yes.
+Ann had all of the pretzels. Did Ann have none of the pretzels? No.
+The man sold at least thirteen of the pretzels. Did the man sell at least thirteen of the pretzels?", Yes.,1
+4,thirteen-sixteen,"Sam spotted half of the chocolates. Did Sam spot three of the chocolates? Maybe.
+Adam saw three of the tickets. Did Adam see more than two of the tickets? Yes.
+Most of the pancakes are warm. Are three of the pancakes warm? Maybe.
+Sophie wanted exactly two of the pastries. Did Sophie want none of the pastries? No.
+Jo had thirteen of the peanuts. Did Jo have sixteen of the peanuts?", No.,1
+4,sixteen-thirteen,"Sam spotted half of the chocolates. Did Sam spot three of the chocolates? Maybe.
+Adam saw three of the tickets. Did Adam see more than two of the tickets? Yes.
+Most of the pancakes are warm. Are three of the pancakes warm? Maybe.
+Sophie wanted exactly two of the pastries. Did Sophie want none of the pastries? No.
+The woman got sixteen of the umbrellas. Did the woman get thirteen of the umbrellas?", Yes.,1
+4,sixteen-at least thirteen,"Sam spotted half of the chocolates. Did Sam spot three of the chocolates? Maybe.
+Adam saw three of the tickets. Did Adam see more than two of the tickets? Yes.
+Most of the pancakes are warm. Are three of the pancakes warm? Maybe.
+Sophie wanted exactly two of the pastries. Did Sophie want none of the pastries? No.
+Michael spotted sixteen of the shirts. Did Michael spot at least thirteen of the shirts?", Yes.,1
+4,at least thirteen-sixteen,"Sam spotted half of the chocolates. Did Sam spot three of the chocolates? Maybe.
+Adam saw three of the tickets. Did Adam see more than two of the tickets? Yes.
+Most of the pancakes are warm. Are three of the pancakes warm? Maybe.
+Sophie wanted exactly two of the pastries. Did Sophie want none of the pastries? No.
+Lucy had at least thirteen of the burgers. Did Lucy have sixteen of the burgers?", No.,0
+4,sixteen-sixteen,"Sam spotted half of the chocolates. Did Sam spot three of the chocolates? Maybe.
+Adam saw three of the tickets. Did Adam see more than two of the tickets? Yes.
+Most of the pancakes are warm. Are three of the pancakes warm? Maybe.
+Sophie wanted exactly two of the pastries. Did Sophie want none of the pastries? No.
+The teacher purchased sixteen of the backpacks. Did the teacher purchase sixteen of the backpacks?", Yes.,1
+4,at least thirteen-at least thirteen,"Sam spotted half of the chocolates. Did Sam spot three of the chocolates? Maybe.
+Adam saw three of the tickets. Did Adam see more than two of the tickets? Yes.
+Most of the pancakes are warm. Are three of the pancakes warm? Maybe.
+Sophie wanted exactly two of the pastries. Did Sophie want none of the pastries? No.
+Jim ordered at least thirteen of the toys. Did Jim order at least thirteen of the toys?", Yes.,1
+4,thirteen-sixteen,"Michael bought half of the rings. Did Michael buy three of the rings? Maybe.
+Lucy bought both of the oranges. Did Lucy buy all of the oranges? Yes.
+All of the strawberries are impressive. Are none of the strawberries impressive? No.
+Half of the mice are impressive. Are three of the mice impressive? Maybe.
+Mary wanted thirteen of the keyrings. Did Mary want sixteen of the keyrings?", No.,1
+4,sixteen-thirteen,"Michael bought half of the rings. Did Michael buy three of the rings? Maybe.
+Lucy bought both of the oranges. Did Lucy buy all of the oranges? Yes.
+All of the strawberries are impressive. Are none of the strawberries impressive? No.
+Half of the mice are impressive. Are three of the mice impressive? Maybe.
+Ann saw sixteen of the sandwiches. Did Ann see thirteen of the sandwiches?", No.,0
+4,sixteen-at least thirteen,"Michael bought half of the rings. Did Michael buy three of the rings? Maybe.
+Lucy bought both of the oranges. Did Lucy buy all of the oranges? Yes.
+All of the strawberries are impressive. Are none of the strawberries impressive? No.
+Half of the mice are impressive. Are three of the mice impressive? Maybe.
+Adam owned sixteen of the cherries. Did Adam own at least thirteen of the cherries?", Yes.,1
+4,at least thirteen-sixteen,"Michael bought half of the rings. Did Michael buy three of the rings? Maybe.
+Lucy bought both of the oranges. Did Lucy buy all of the oranges? Yes.
+All of the strawberries are impressive. Are none of the strawberries impressive? No.
+Half of the mice are impressive. Are three of the mice impressive? Maybe.
+Michael ate at least thirteen of the apples. Did Michael eat sixteen of the apples?", Maybe.,1
+4,sixteen-sixteen,"Michael bought half of the rings. Did Michael buy three of the rings? Maybe.
+Lucy bought both of the oranges. Did Lucy buy all of the oranges? Yes.
+All of the strawberries are impressive. Are none of the strawberries impressive? No.
+Half of the mice are impressive. Are three of the mice impressive? Maybe.
+The singer noticed sixteen of the temples. Did the singer notice sixteen of the temples?", Yes.,1
+4,at least thirteen-at least thirteen,"Michael bought half of the rings. Did Michael buy three of the rings? Maybe.
+Lucy bought both of the oranges. Did Lucy buy all of the oranges? Yes.
+All of the strawberries are impressive. Are none of the strawberries impressive? No.
+Half of the mice are impressive. Are three of the mice impressive? Maybe.
+Jo ordered at least thirteen of the cupcakes. Did Jo order at least thirteen of the cupcakes?", Yes.,1
+4,thirteen-sixteen,"Half of the mugs are colourful. Are three of the mugs colourful? Maybe.
+The actor got exactly two of the strawberries. Did the actor get one of the strawberries? No.
+Bill spotted two of the churros. Did Bill spot two of the churros? Yes.
+The woman saw most of the cats. Did the woman see three of the cats? Maybe.
+Jo saw thirteen of the pastries. Did Jo see sixteen of the pastries?", No.,1
+4,sixteen-thirteen,"Half of the mugs are colourful. Are three of the mugs colourful? Maybe.
+The actor got exactly two of the strawberries. Did the actor get one of the strawberries? No.
+Bill spotted two of the churros. Did Bill spot two of the churros? Yes.
+The woman saw most of the cats. Did the woman see three of the cats? Maybe.
+The man bought sixteen of the keyrings. Did the man buy thirteen of the keyrings?", No.,0
+4,sixteen-at least thirteen,"Half of the mugs are colourful. Are three of the mugs colourful? Maybe.
+The actor got exactly two of the strawberries. Did the actor get one of the strawberries? No.
+Bill spotted two of the churros. Did Bill spot two of the churros? Yes.
+The woman saw most of the cats. Did the woman see three of the cats? Maybe.
+John saw sixteen of the performers. Did John see at least thirteen of the performers?", Yes.,1
+4,at least thirteen-sixteen,"Half of the mugs are colourful. Are three of the mugs colourful? Maybe.
+The actor got exactly two of the strawberries. Did the actor get one of the strawberries? No.
+Bill spotted two of the churros. Did Bill spot two of the churros? Yes.
+The woman saw most of the cats. Did the woman see three of the cats? Maybe.
+Jim sold at least thirteen of the keyrings. Did Jim sell sixteen of the keyrings?", No.,0
+4,sixteen-sixteen,"Half of the mugs are colourful. Are three of the mugs colourful? Maybe.
+The actor got exactly two of the strawberries. Did the actor get one of the strawberries? No.
+Bill spotted two of the churros. Did Bill spot two of the churros? Yes.
+The woman saw most of the cats. Did the woman see three of the cats? Maybe.
+The man ate sixteen of the pretzels. Did the man eat sixteen of the pretzels?", Yes.,1
+4,at least thirteen-at least thirteen,"Half of the mugs are colourful. Are three of the mugs colourful? Maybe.
+The actor got exactly two of the strawberries. Did the actor get one of the strawberries? No.
+Bill spotted two of the churros. Did Bill spot two of the churros? Yes.
+The woman saw most of the cats. Did the woman see three of the cats? Maybe.
+At least thirteen of the tickets are expensive. Are at least thirteen of the tickets expensive?", Yes.,1

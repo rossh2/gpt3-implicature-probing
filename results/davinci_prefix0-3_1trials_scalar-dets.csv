@@ -1,0 +1,53 @@
+Prefix Length,Determiners,Prompt,Answer,Correct
+0,some-all,"
+Mark spotted some of the cars. Did Mark spot all of the cars?","
+
+",0
+0,all-some,"
+The singer wanted all of the scarves. Did the singer want some of the scarves?","
+
+",0
+0,all-all,"
+All of the oranges are impressive. Are all of the oranges impressive?","
+
+",0
+0,some-some,"
+Lucy purchased some of the pancakes. Did Lucy purchase some of the pancakes?","
+
+",0
+1,some-all,"Jo bought some of the mugs. Did Jo buy more than one of the mugs? Yes.
+Mary purchased some of the pancakes. Did Mary purchase all of the pancakes?", No.,1
+1,all-some,"Jo bought some of the mugs. Did Jo buy more than one of the mugs? Yes.
+Jo wanted all of the oranges. Did Jo want some of the oranges?", Yes.,1
+1,all-all,"Jo bought some of the mugs. Did Jo buy more than one of the mugs? Yes.
+The teacher bought all of the pancakes. Did the teacher buy all of the pancakes?", Yes.,1
+1,some-some,"Jo bought some of the mugs. Did Jo buy more than one of the mugs? Yes.
+The teacher ate some of the pancakes. Did the teacher eat some of the pancakes?", Yes.,1
+2,some-all,"Ann ordered all of the sandwiches. Did Ann order none of the sandwiches? No.
+Laura wanted two of the umbrellas. Did Laura want two of the umbrellas? Yes.
+Some of the peanuts are tasty. Are all of the peanuts tasty?", No.,1
+2,all-some,"Ann ordered all of the sandwiches. Did Ann order none of the sandwiches? No.
+Laura wanted two of the umbrellas. Did Laura want two of the umbrellas? Yes.
+All of the backpacks are impressive. Are some of the backpacks impressive?", Yes.,1
+2,all-all,"Ann ordered all of the sandwiches. Did Ann order none of the sandwiches? No.
+Laura wanted two of the umbrellas. Did Laura want two of the umbrellas? Yes.
+Jim wanted all of the sandwiches. Did Jim want all of the sandwiches?", No.,0
+2,some-some,"Ann ordered all of the sandwiches. Did Ann order none of the sandwiches? No.
+Laura wanted two of the umbrellas. Did Laura want two of the umbrellas? Yes.
+Mark owned some of the apples. Did Mark own some of the apples?", Yes.,1
+3,some-all,"Laura spotted most of the scarves. Did Laura spot three of the scarves? Maybe.
+Bill liked most of the bottles. Did Bill like none of the bottles? No.
+Three of the sights are colourful. Are more than two of the sights colourful? Yes.
+The teacher had some of the pretzels. Did the teacher have all of the pretzels?", No.,1
+3,all-some,"Laura spotted most of the scarves. Did Laura spot three of the scarves? Maybe.
+Bill liked most of the bottles. Did Bill like none of the bottles? No.
+Three of the sights are colourful. Are more than two of the sights colourful? Yes.
+The woman liked all of the umbrellas. Did the woman like some of the umbrellas?", Yes.,1
+3,all-all,"Laura spotted most of the scarves. Did Laura spot three of the scarves? Maybe.
+Bill liked most of the bottles. Did Bill like none of the bottles? No.
+Three of the sights are colourful. Are more than two of the sights colourful? Yes.
+The actress had all of the oranges. Did the actress have all of the oranges?", Yes.,1
+3,some-some,"Laura spotted most of the scarves. Did Laura spot three of the scarves? Maybe.
+Bill liked most of the bottles. Did Bill like none of the bottles? No.
+Three of the sights are colourful. Are more than two of the sights colourful? Yes.
+Some of the candles are orange. Are some of the candles orange?", Yes.,1

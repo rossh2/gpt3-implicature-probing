@@ -1,0 +1,21 @@
+Prefix Length,Determiners,Accuracy
+0,all-all,0.0
+0,all-some,0.0
+0,some-all,0.0
+0,some-some,0.0
+1,all-all,0.74
+1,all-some,0.68
+1,some-all,1.0
+1,some-some,0.98
+2,all-all,0.82
+2,all-some,0.64
+2,some-all,1.0
+2,some-some,0.92
+3,all-all,0.64
+3,all-some,0.24
+3,some-all,1.0
+3,some-some,0.92
+4,all-all,0.88
+4,all-some,0.28
+4,some-all,0.98
+4,some-some,0.94

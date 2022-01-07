@@ -1,0 +1,25 @@
+Prefix Length,Determiners,Accuracy
+1,at least thirteen-at least thirteen,1.0
+1,at least thirteen-sixteen,0.0
+1,sixteen-at least thirteen,1.0
+1,sixteen-sixteen,0.96
+1,sixteen-thirteen,0.36
+1,thirteen-sixteen,0.72
+2,at least thirteen-at least thirteen,1.0
+2,at least thirteen-sixteen,0.0
+2,sixteen-at least thirteen,1.0
+2,sixteen-sixteen,0.8
+2,sixteen-thirteen,0.2
+2,thirteen-sixteen,1.0
+3,at least thirteen-at least thirteen,1.0
+3,at least thirteen-sixteen,0.2
+3,sixteen-at least thirteen,1.0
+3,sixteen-sixteen,0.68
+3,sixteen-thirteen,0.08
+3,thirteen-sixteen,1.0
+4,at least thirteen-at least thirteen,1.0
+4,at least thirteen-sixteen,0.24
+4,sixteen-at least thirteen,1.0
+4,sixteen-sixteen,1.0
+4,sixteen-thirteen,0.08
+4,thirteen-sixteen,0.96

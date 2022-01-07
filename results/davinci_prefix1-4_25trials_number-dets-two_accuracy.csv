@@ -1,0 +1,25 @@
+Prefix Length,Determiners,Accuracy
+1,at least two-at least two,1.0
+1,at least two-three,0.0
+1,three-at least two,1.0
+1,three-three,0.96
+1,three-two,0.4
+1,two-three,0.96
+2,at least two-at least two,1.0
+2,at least two-three,0.0
+2,three-at least two,1.0
+2,three-three,0.84
+2,three-two,0.24
+2,two-three,0.96
+3,at least two-at least two,0.92
+3,at least two-three,0.44
+3,three-at least two,1.0
+3,three-three,0.8
+3,three-two,0.12
+3,two-three,1.0
+4,at least two-at least two,0.96
+4,at least two-three,0.44
+4,three-at least two,0.96
+4,three-three,0.92
+4,three-two,0.12
+4,two-three,0.96

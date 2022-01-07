@@ -1,0 +1,2101 @@
+Prefix Length,Determiners,Prompt,Answer,Correct
+1,two-three,"Ann wanted some of the strawberries. Did Ann want two of the strawberries? Yes.
+Sophie got two of the rings. Did Sophie get three of the rings?", No.,1
+1,three-two,"Ann wanted some of the strawberries. Did Ann want two of the strawberries? Yes.
+Jim ordered three of the cupcakes. Did Jim order two of the cupcakes?", No.,0
+1,three-at least two,"Ann wanted some of the strawberries. Did Ann want two of the strawberries? Yes.
+The actor purchased three of the shoes. Did the actor purchase at least two of the shoes?", Yes.,1
+1,at least two-three,"Ann wanted some of the strawberries. Did Ann want two of the strawberries? Yes.
+At least two of the scarves are colourful. Are three of the scarves colourful?", Yes.,0
+1,three-three,"Ann wanted some of the strawberries. Did Ann want two of the strawberries? Yes.
+Laura had three of the candles. Did Laura have three of the candles?", Yes.,1
+1,at least two-at least two,"Ann wanted some of the strawberries. Did Ann want two of the strawberries? Yes.
+Mary saw at least two of the temples. Did Mary see at least two of the temples?", Yes.,1
+1,two-three,"Jim got both of the apples. Did Jim get two of the apples? Yes.
+Lucy spotted two of the cherries. Did Lucy spot three of the cherries?", No.,1
+1,three-two,"Jim got both of the apples. Did Jim get two of the apples? Yes.
+Mark had three of the peanuts. Did Mark have two of the peanuts?", No.,0
+1,three-at least two,"Jim got both of the apples. Did Jim get two of the apples? Yes.
+The teacher ate three of the peanuts. Did the teacher eat at least two of the peanuts?", Yes.,1
+1,at least two-three,"Jim got both of the apples. Did Jim get two of the apples? Yes.
+At least two of the pastries are warm. Are three of the pastries warm?", Yes.,0
+1,three-three,"Jim got both of the apples. Did Jim get two of the apples? Yes.
+Mark got three of the sweaters. Did Mark get three of the sweaters?", Yes.,1
+1,at least two-at least two,"Jim got both of the apples. Did Jim get two of the apples? Yes.
+Lucy purchased at least two of the sandwiches. Did Lucy purchase at least two of the sandwiches?", Yes.,1
+1,two-three,"The actress ate some of the pretzels. Did the actress eat more than one of the pretzels? Yes.
+Sidney saw two of the hats. Did Sidney see three of the hats?", No.,1
+1,three-two,"The actress ate some of the pretzels. Did the actress eat more than one of the pretzels? Yes.
+Mary owned three of the pastries. Did Mary own two of the pastries?", Yes.,1
+1,three-at least two,"The actress ate some of the pretzels. Did the actress eat more than one of the pretzels? Yes.
+Sam saw three of the umbrellas. Did Sam see at least two of the umbrellas?", Yes.,1
+1,at least two-three,"The actress ate some of the pretzels. Did the actress eat more than one of the pretzels? Yes.
+The teacher sold at least two of the cars. Did the teacher sell three of the cars?", No.,0
+1,three-three,"The actress ate some of the pretzels. Did the actress eat more than one of the pretzels? Yes.
+Three of the sweaters are red. Are three of the sweaters red?", Yes.,1
+1,at least two-at least two,"The actress ate some of the pretzels. Did the actress eat more than one of the pretzels? Yes.
+The singer purchased at least two of the strawberries. Did the singer purchase at least two of the strawberries?", Yes.,1
+1,two-three,"Robin noticed two of the oranges. Did Robin notice some of the oranges? Yes.
+Two of the peanuts are warm. Are three of the peanuts warm?", No.,1
+1,three-two,"Robin noticed two of the oranges. Did Robin notice some of the oranges? Yes.
+The woman saw three of the toys. Did the woman see two of the toys?", No.,0
+1,three-at least two,"Robin noticed two of the oranges. Did Robin notice some of the oranges? Yes.
+The woman ordered three of the candles. Did the woman order at least two of the candles?", Yes.,1
+1,at least two-three,"Robin noticed two of the oranges. Did Robin notice some of the oranges? Yes.
+At least two of the tickets are red. Are three of the tickets red?", Yes.,0
+1,three-three,"Robin noticed two of the oranges. Did Robin notice some of the oranges? Yes.
+Bill had three of the oranges. Did Bill have three of the oranges?", Yes.,1
+1,at least two-at least two,"Robin noticed two of the oranges. Did Robin notice some of the oranges? Yes.
+Jim sold at least two of the cars. Did Jim sell at least two of the cars?", Yes.,1
+1,two-three,"Lucy liked half of the apples. Did Lucy like some of the apples? Yes.
+The actor owned two of the oranges. Did the actor own three of the oranges?", No.,1
+1,three-two,"Lucy liked half of the apples. Did Lucy like some of the apples? Yes.
+Michael bought three of the scarves. Did Michael buy two of the scarves?", No.,0
+1,three-at least two,"Lucy liked half of the apples. Did Lucy like some of the apples? Yes.
+Sally had three of the chocolates. Did Sally have at least two of the chocolates?", Yes.,1
+1,at least two-three,"Lucy liked half of the apples. Did Lucy like some of the apples? Yes.
+Sally noticed at least two of the snacks. Did Sally notice three of the snacks?", No.,0
+1,three-three,"Lucy liked half of the apples. Did Lucy like some of the apples? Yes.
+Adam owned three of the strawberries. Did Adam own three of the strawberries?", Yes.,1
+1,at least two-at least two,"Lucy liked half of the apples. Did Lucy like some of the apples? Yes.
+Adam liked at least two of the tickets. Did Adam like at least two of the tickets?", Yes.,1
+1,two-three,"The singer owned two of the scarves. Did the singer own two of the scarves? Yes.
+Adam ate two of the cupcakes. Did Adam eat three of the cupcakes?", No.,1
+1,three-two,"The singer owned two of the scarves. Did the singer own two of the scarves? Yes.
+The actress ordered three of the shirts. Did the actress order two of the shirts?", No.,0
+1,three-at least two,"The singer owned two of the scarves. Did the singer own two of the scarves? Yes.
+Mary bought three of the sweaters. Did Mary buy at least two of the sweaters?", Yes.,1
+1,at least two-three,"The singer owned two of the scarves. Did the singer own two of the scarves? Yes.
+Sam had at least two of the hats. Did Sam have three of the hats?", No.,0
+1,three-three,"The singer owned two of the scarves. Did the singer own two of the scarves? Yes.
+The man noticed three of the backpacks. Did the man notice three of the backpacks?", Yes.,1
+1,at least two-at least two,"The singer owned two of the scarves. Did the singer own two of the scarves? Yes.
+Bill ate at least two of the strawberries. Did Bill eat at least two of the strawberries?", Yes.,1
+1,two-three,"Sam noticed three of the strawberries. Did Sam notice three of the strawberries? Yes.
+Laura sold two of the toys. Did Laura sell three of the toys?", No.,1
+1,three-two,"Sam noticed three of the strawberries. Did Sam notice three of the strawberries? Yes.
+Sidney liked three of the shirts. Did Sidney like two of the shirts?", No.,0
+1,three-at least two,"Sam noticed three of the strawberries. Did Sam notice three of the strawberries? Yes.
+Mark got three of the shoes. Did Mark get at least two of the shoes?", Yes.,1
+1,at least two-three,"Sam noticed three of the strawberries. Did Sam notice three of the strawberries? Yes.
+Mary bought at least two of the cherries. Did Mary buy three of the cherries?", No.,0
+1,three-three,"Sam noticed three of the strawberries. Did Sam notice three of the strawberries? Yes.
+The actor spotted three of the sandwiches. Did the actor spot three of the sandwiches?", Yes.,1
+1,at least two-at least two,"Sam noticed three of the strawberries. Did Sam notice three of the strawberries? Yes.
+Laura owned at least two of the sandwiches. Did Laura own at least two of the sandwiches?", Yes.,1
+1,two-three,"Adam noticed some of the cherries. Did Adam notice two of the cherries? Yes.
+John bought two of the strawberries. Did John buy three of the strawberries?", No.,1
+1,three-two,"Adam noticed some of the cherries. Did Adam notice two of the cherries? Yes.
+Jo sold three of the scarves. Did Jo sell two of the scarves?", Yes.,1
+1,three-at least two,"Adam noticed some of the cherries. Did Adam notice two of the cherries? Yes.
+Three of the temples are pretty. Are at least two of the temples pretty?", Yes.,1
+1,at least two-three,"Adam noticed some of the cherries. Did Adam notice two of the cherries? Yes.
+Adam bought at least two of the cupcakes. Did Adam buy three of the cupcakes?", No.,0
+1,three-three,"Adam noticed some of the cherries. Did Adam notice two of the cherries? Yes.
+Three of the stores are colourful. Are three of the stores colourful?", Yes.,1
+1,at least two-at least two,"Adam noticed some of the cherries. Did Adam notice two of the cherries? Yes.
+Adam spotted at least two of the pastries. Did Adam spot at least two of the pastries?", Yes.,1
+1,two-three,"Sam wanted three of the tickets. Did Sam want more than two of the tickets? Yes.
+Michael got two of the shoes. Did Michael get three of the shoes?", No.,1
+1,three-two,"Sam wanted three of the tickets. Did Sam want more than two of the tickets? Yes.
+Three of the mugs are red. Are two of the mugs red?", Yes.,1
+1,three-at least two,"Sam wanted three of the tickets. Did Sam want more than two of the tickets? Yes.
+The woman noticed three of the cars. Did the woman notice at least two of the cars?", Yes.,1
+1,at least two-three,"Sam wanted three of the tickets. Did Sam want more than two of the tickets? Yes.
+Laura purchased at least two of the burgers. Did Laura purchase three of the burgers?", No.,0
+1,three-three,"Sam wanted three of the tickets. Did Sam want more than two of the tickets? Yes.
+Sophie noticed three of the rings. Did Sophie notice three of the rings?", Yes.,1
+1,at least two-at least two,"Sam wanted three of the tickets. Did Sam want more than two of the tickets? Yes.
+Mark wanted at least two of the backpacks. Did Mark want at least two of the backpacks?", Yes.,1
+1,two-three,"The singer saw both of the mice. Did the singer see two of the mice? Yes.
+Sally saw two of the keyrings. Did Sally see three of the keyrings?", No.,1
+1,three-two,"The singer saw both of the mice. Did the singer see two of the mice? Yes.
+The teacher had three of the bagels. Did the teacher have two of the bagels?", No.,0
+1,three-at least two,"The singer saw both of the mice. Did the singer see two of the mice? Yes.
+Robin purchased three of the cupcakes. Did Robin purchase at least two of the cupcakes?", Yes.,1
+1,at least two-three,"The singer saw both of the mice. Did the singer see two of the mice? Yes.
+Sidney owned at least two of the toys. Did Sidney own three of the toys?", No.,0
+1,three-three,"The singer saw both of the mice. Did the singer see two of the mice? Yes.
+Sophie wanted three of the cherries. Did Sophie want three of the cherries?", Yes.,1
+1,at least two-at least two,"The singer saw both of the mice. Did the singer see two of the mice? Yes.
+The man spotted at least two of the pretzels. Did the man spot at least two of the pretzels?", Yes.,1
+1,two-three,"Sidney bought two of the mugs. Did Sidney buy more than one of the mugs? Yes.
+Two of the toys are green. Are three of the toys green?", No.,1
+1,three-two,"Sidney bought two of the mugs. Did Sidney buy more than one of the mugs? Yes.
+Adam ordered three of the cakes. Did Adam order two of the cakes?", No.,0
+1,three-at least two,"Sidney bought two of the mugs. Did Sidney buy more than one of the mugs? Yes.
+Sidney bought three of the apples. Did Sidney buy at least two of the apples?", Yes.,1
+1,at least two-three,"Sidney bought two of the mugs. Did Sidney buy more than one of the mugs? Yes.
+Mary wanted at least two of the sandwiches. Did Mary want three of the sandwiches?", No.,0
+1,three-three,"Sidney bought two of the mugs. Did Sidney buy more than one of the mugs? Yes.
+The singer sold three of the pastries. Did the singer sell three of the pastries?", Yes.,1
+1,at least two-at least two,"Sidney bought two of the mugs. Did Sidney buy more than one of the mugs? Yes.
+The actor spotted at least two of the performers. Did the actor spot at least two of the performers?", Yes.,1
+1,two-three,"John saw some of the parades. Did John see more than one of the parades? Yes.
+John noticed two of the shoes. Did John notice three of the shoes?", No.,1
+1,three-two,"John saw some of the parades. Did John see more than one of the parades? Yes.
+Jo had three of the cupcakes. Did Jo have two of the cupcakes?", No.,0
+1,three-at least two,"John saw some of the parades. Did John see more than one of the parades? Yes.
+Three of the tickets are sold out. Are at least two of the tickets sold out?", Yes.,1
+1,at least two-three,"John saw some of the parades. Did John see more than one of the parades? Yes.
+Ann bought at least two of the mugs. Did Ann buy three of the mugs?", No.,0
+1,three-three,"John saw some of the parades. Did John see more than one of the parades? Yes.
+Ann ordered three of the tickets. Did Ann order three of the tickets?", Yes.,1
+1,at least two-at least two,"John saw some of the parades. Did John see more than one of the parades? Yes.
+Michael bought at least two of the pretzels. Did Michael buy at least two of the pretzels?", Yes.,1
+1,two-three,"Sam had some of the pancakes. Did Sam have more than one of the pancakes? Yes.
+Sally liked two of the apples. Did Sally like three of the apples?", No.,1
+1,three-two,"Sam had some of the pancakes. Did Sam have more than one of the pancakes? Yes.
+John ate three of the apples. Did John eat two of the apples?", No.,0
+1,three-at least two,"Sam had some of the pancakes. Did Sam have more than one of the pancakes? Yes.
+The actor noticed three of the pancakes. Did the actor notice at least two of the pancakes?", Yes.,1
+1,at least two-three,"Sam had some of the pancakes. Did Sam have more than one of the pancakes? Yes.
+John saw at least two of the pancakes. Did John see three of the pancakes?", No.,0
+1,three-three,"Sam had some of the pancakes. Did Sam have more than one of the pancakes? Yes.
+The woman wanted three of the scarves. Did the woman want three of the scarves?", Yes.,1
+1,at least two-at least two,"Sam had some of the pancakes. Did Sam have more than one of the pancakes? Yes.
+The woman purchased at least two of the cars. Did the woman purchase at least two of the cars?", Yes.,1
+1,two-three,"Lucy noticed three of the performers. Did Lucy notice more than two of the performers? Yes.
+Two of the sandwiches are delicious. Are three of the sandwiches delicious?", No.,1
+1,three-two,"Lucy noticed three of the performers. Did Lucy notice more than two of the performers? Yes.
+Laura wanted three of the mugs. Did Laura want two of the mugs?", Yes.,1
+1,three-at least two,"Lucy noticed three of the performers. Did Lucy notice more than two of the performers? Yes.
+The woman ordered three of the bottles. Did the woman order at least two of the bottles?", Yes.,1
+1,at least two-three,"Lucy noticed three of the performers. Did Lucy notice more than two of the performers? Yes.
+Mark had at least two of the churros. Did Mark have three of the churros?", No.,0
+1,three-three,"Lucy noticed three of the performers. Did Lucy notice more than two of the performers? Yes.
+Three of the shoes are yellow. Are three of the shoes yellow?", Yes.,1
+1,at least two-at least two,"Lucy noticed three of the performers. Did Lucy notice more than two of the performers? Yes.
+Mark had at least two of the mugs. Did Mark have at least two of the mugs?", Yes.,1
+1,two-three,"The actor ordered three of the strawberries. Did the actor order three of the strawberries? Yes.
+Robin wanted two of the backpacks. Did Robin want three of the backpacks?", No.,1
+1,three-two,"The actor ordered three of the strawberries. Did the actor order three of the strawberries? Yes.
+Ann wanted three of the hats. Did Ann want two of the hats?", No.,0
+1,three-at least two,"The actor ordered three of the strawberries. Did the actor order three of the strawberries? Yes.
+The teacher wanted three of the chocolates. Did the teacher want at least two of the chocolates?", Yes.,1
+1,at least two-three,"The actor ordered three of the strawberries. Did the actor order three of the strawberries? Yes.
+The actor liked at least two of the umbrellas. Did the actor like three of the umbrellas?", No.,0
+1,three-three,"The actor ordered three of the strawberries. Did the actor order three of the strawberries? Yes.
+The actor owned three of the bottles. Did the actor own three of the bottles?", No.,0
+1,at least two-at least two,"The actor ordered three of the strawberries. Did the actor order three of the strawberries? Yes.
+Sidney noticed at least two of the signs. Did Sidney notice at least two of the signs?", Yes.,1
+1,two-three,"Michael had three of the cakes. Did Michael have more than two of the cakes? Yes.
+Two of the pancakes are delicious. Are three of the pancakes delicious?", Yes.,0
+1,three-two,"Michael had three of the cakes. Did Michael have more than two of the cakes? Yes.
+Three of the scarves are expensive. Are two of the scarves expensive?", Yes.,1
+1,three-at least two,"Michael had three of the cakes. Did Michael have more than two of the cakes? Yes.
+Three of the bottles are red. Are at least two of the bottles red?", Yes.,1
+1,at least two-three,"Michael had three of the cakes. Did Michael have more than two of the cakes? Yes.
+Mary ordered at least two of the shoes. Did Mary order three of the shoes?", No.,0
+1,three-three,"Michael had three of the cakes. Did Michael have more than two of the cakes? Yes.
+Lucy saw three of the dogs. Did Lucy see three of the dogs?", Yes.,1
+1,at least two-at least two,"Michael had three of the cakes. Did Michael have more than two of the cakes? Yes.
+At least two of the tickets are orange. Are at least two of the tickets orange?", Yes.,1
+1,two-three,"Three of the peanuts are tasty. Are more than two of the peanuts tasty? Yes.
+Sam spotted two of the scarves. Did Sam spot three of the scarves?", No.,1
+1,three-two,"Three of the peanuts are tasty. Are more than two of the peanuts tasty? Yes.
+Jim had three of the cakes. Did Jim have two of the cakes?", Yes.,1
+1,three-at least two,"Three of the peanuts are tasty. Are more than two of the peanuts tasty? Yes.
+Sam saw three of the sandwiches. Did Sam see at least two of the sandwiches?", Yes.,1
+1,at least two-three,"Three of the peanuts are tasty. Are more than two of the peanuts tasty? Yes.
+Adam bought at least two of the burgers. Did Adam buy three of the burgers?", No.,0
+1,three-three,"Three of the peanuts are tasty. Are more than two of the peanuts tasty? Yes.
+The woman bought three of the rings. Did the woman buy three of the rings?", Yes.,1
+1,at least two-at least two,"Three of the peanuts are tasty. Are more than two of the peanuts tasty? Yes.
+Ann had at least two of the pastries. Did Ann have at least two of the pastries?", Yes.,1
+1,two-three,"Jim owned three of the strawberries. Did Jim own more than two of the strawberries? Yes.
+Sophie liked two of the apples. Did Sophie like three of the apples?", No.,1
+1,three-two,"Jim owned three of the strawberries. Did Jim own more than two of the strawberries? Yes.
+Three of the apples are warm. Are two of the apples warm?", Yes.,1
+1,three-at least two,"Jim owned three of the strawberries. Did Jim own more than two of the strawberries? Yes.
+Sidney spotted three of the temples. Did Sidney spot at least two of the temples?", Yes.,1
+1,at least two-three,"Jim owned three of the strawberries. Did Jim own more than two of the strawberries? Yes.
+Ann saw at least two of the scarves. Did Ann see three of the scarves?", No.,0
+1,three-three,"Jim owned three of the strawberries. Did Jim own more than two of the strawberries? Yes.
+Bill wanted three of the candles. Did Bill want three of the candles?", Yes.,1
+1,at least two-at least two,"Jim owned three of the strawberries. Did Jim own more than two of the strawberries? Yes.
+Sam ate at least two of the peanuts. Did Sam eat at least two of the peanuts?", Yes.,1
+1,two-three,"Two of the shirts are expensive. Are some of the shirts expensive? Yes.
+Two of the umbrellas are affordable. Are three of the umbrellas affordable?", No.,1
+1,three-two,"Two of the shirts are expensive. Are some of the shirts expensive? Yes.
+John spotted three of the bottles. Did John spot two of the bottles?", Yes.,1
+1,three-at least two,"Two of the shirts are expensive. Are some of the shirts expensive? Yes.
+Three of the scarves are orange. Are at least two of the scarves orange?", Yes.,1
+1,at least two-three,"Two of the shirts are expensive. Are some of the shirts expensive? Yes.
+The woman spotted at least two of the hats. Did the woman spot three of the hats?", No.,0
+1,three-three,"Two of the shirts are expensive. Are some of the shirts expensive? Yes.
+Laura sold three of the peanuts. Did Laura sell three of the peanuts?", Yes.,1
+1,at least two-at least two,"Two of the shirts are expensive. Are some of the shirts expensive? Yes.
+At least two of the backpacks are yellow. Are at least two of the backpacks yellow?", Yes.,1
+1,two-three,"Mary had both of the burgers. Did Mary have both of the burgers? Yes.
+The actress saw two of the sights. Did the actress see three of the sights?", No.,1
+1,three-two,"Mary had both of the burgers. Did Mary have both of the burgers? Yes.
+The actress spotted three of the signs. Did the actress spot two of the signs?", Yes.,1
+1,three-at least two,"Mary had both of the burgers. Did Mary have both of the burgers? Yes.
+The woman had three of the cupcakes. Did the woman have at least two of the cupcakes?", Yes.,1
+1,at least two-three,"Mary had both of the burgers. Did Mary have both of the burgers? Yes.
+At least two of the umbrellas are orange. Are three of the umbrellas orange?", Yes.,0
+1,three-three,"Mary had both of the burgers. Did Mary have both of the burgers? Yes.
+Michael ate three of the oranges. Did Michael eat three of the oranges?", Yes.,1
+1,at least two-at least two,"Mary had both of the burgers. Did Mary have both of the burgers? Yes.
+At least two of the cupcakes are sold out. Are at least two of the cupcakes sold out?", Yes.,1
+1,two-three,"Laura saw some of the cars. Did Laura see more than one of the cars? Yes.
+Ann wanted two of the toys. Did Ann want three of the toys?", No.,1
+1,three-two,"Laura saw some of the cars. Did Laura see more than one of the cars? Yes.
+The singer purchased three of the mugs. Did the singer purchase two of the mugs?", No.,0
+1,three-at least two,"Laura saw some of the cars. Did Laura see more than one of the cars? Yes.
+Sophie spotted three of the tickets. Did Sophie spot at least two of the tickets?", Yes.,1
+1,at least two-three,"Laura saw some of the cars. Did Laura see more than one of the cars? Yes.
+Sam sold at least two of the cupcakes. Did Sam sell three of the cupcakes?", No.,0
+1,three-three,"Laura saw some of the cars. Did Laura see more than one of the cars? Yes.
+Three of the mugs are blue. Are three of the mugs blue?", Yes.,1
+1,at least two-at least two,"Laura saw some of the cars. Did Laura see more than one of the cars? Yes.
+Jim wanted at least two of the cars. Did Jim want at least two of the cars?", Yes.,1
+1,two-three,"The teacher ordered both of the strawberries. Did the teacher order both of the strawberries? Yes.
+The man purchased two of the sandwiches. Did the man purchase three of the sandwiches?", No.,1
+1,three-two,"The teacher ordered both of the strawberries. Did the teacher order both of the strawberries? Yes.
+Sophie sold three of the oranges. Did Sophie sell two of the oranges?", No.,0
+1,three-at least two,"The teacher ordered both of the strawberries. Did the teacher order both of the strawberries? Yes.
+Sally noticed three of the apples. Did Sally notice at least two of the apples?", Yes.,1
+1,at least two-three,"The teacher ordered both of the strawberries. Did the teacher order both of the strawberries? Yes.
+At least two of the umbrellas are yellow. Are three of the umbrellas yellow?", Yes.,0
+1,three-three,"The teacher ordered both of the strawberries. Did the teacher order both of the strawberries? Yes.
+Sophie noticed three of the mice. Did Sophie notice three of the mice?", Yes.,1
+1,at least two-at least two,"The teacher ordered both of the strawberries. Did the teacher order both of the strawberries? Yes.
+Laura saw at least two of the cupcakes. Did Laura see at least two of the cupcakes?", Yes.,1
+1,two-three,"Mark bought both of the oranges. Did Mark buy two of the oranges? Yes.
+Sally spotted two of the stores. Did Sally spot three of the stores?", No.,1
+1,three-two,"Mark bought both of the oranges. Did Mark buy two of the oranges? Yes.
+Three of the burgers are tasty. Are two of the burgers tasty?", No.,0
+1,three-at least two,"Mark bought both of the oranges. Did Mark buy two of the oranges? Yes.
+Sophie saw three of the pastries. Did Sophie see at least two of the pastries?", Yes.,1
+1,at least two-three,"Mark bought both of the oranges. Did Mark buy two of the oranges? Yes.
+John wanted at least two of the pancakes. Did John want three of the pancakes?", No.,0
+1,three-three,"Mark bought both of the oranges. Did Mark buy two of the oranges? Yes.
+John sold three of the pretzels. Did John sell three of the pretzels?", Yes.,1
+1,at least two-at least two,"Mark bought both of the oranges. Did Mark buy two of the oranges? Yes.
+The actress noticed at least two of the oranges. Did the actress notice at least two of the oranges?", Yes.,1
+1,two-three,"The actor spotted half of the keyrings. Did the actor spot half of the keyrings? Yes.
+Ann bought two of the shoes. Did Ann buy three of the shoes?", No.,1
+1,three-two,"The actor spotted half of the keyrings. Did the actor spot half of the keyrings? Yes.
+Sam noticed three of the apples. Did Sam notice two of the apples?", Yes.,1
+1,three-at least two,"The actor spotted half of the keyrings. Did the actor spot half of the keyrings? Yes.
+Sally noticed three of the pastries. Did Sally notice at least two of the pastries?", Yes.,1
+1,at least two-three,"The actor spotted half of the keyrings. Did the actor spot half of the keyrings? Yes.
+Sidney sold at least two of the pastries. Did Sidney sell three of the pastries?", No.,0
+1,three-three,"The actor spotted half of the keyrings. Did the actor spot half of the keyrings? Yes.
+Sophie had three of the strawberries. Did Sophie have three of the strawberries?", Yes.,1
+1,at least two-at least two,"The actor spotted half of the keyrings. Did the actor spot half of the keyrings? Yes.
+The teacher purchased at least two of the bagels. Did the teacher purchase at least two of the bagels?", Yes.,1
+1,two-three,"Laura bought half of the cars. Did Laura buy some of the cars? Yes.
+Two of the sweaters are colourful. Are three of the sweaters colourful?", No.,1
+1,three-two,"Laura bought half of the cars. Did Laura buy some of the cars? Yes.
+Ann got three of the oranges. Did Ann get two of the oranges?", No.,0
+1,three-at least two,"Laura bought half of the cars. Did Laura buy some of the cars? Yes.
+Three of the keyrings are expensive. Are at least two of the keyrings expensive?", Yes.,1
+1,at least two-three,"Laura bought half of the cars. Did Laura buy some of the cars? Yes.
+Laura owned at least two of the tickets. Did Laura own three of the tickets?", No.,0
+1,three-three,"Laura bought half of the cars. Did Laura buy some of the cars? Yes.
+Ann saw three of the tickets. Did Ann see three of the tickets?", Yes.,1
+1,at least two-at least two,"Laura bought half of the cars. Did Laura buy some of the cars? Yes.
+At least two of the signs are colourful. Are at least two of the signs colourful?", Yes.,1
+2,two-three,"The man got several of the backpacks. Did the man get none of the backpacks? No.
+Ann ordered half of the burgers. Did Ann order some of the burgers? Yes.
+Sam noticed two of the bagels. Did Sam notice three of the bagels?", No.,1
+2,three-two,"The man got several of the backpacks. Did the man get none of the backpacks? No.
+Ann ordered half of the burgers. Did Ann order some of the burgers? Yes.
+Bill had three of the shirts. Did Bill have two of the shirts?", No.,0
+2,three-at least two,"The man got several of the backpacks. Did the man get none of the backpacks? No.
+Ann ordered half of the burgers. Did Ann order some of the burgers? Yes.
+Three of the cherries are on sale. Are at least two of the cherries on sale?", Yes.,1
+2,at least two-three,"The man got several of the backpacks. Did the man get none of the backpacks? No.
+Ann ordered half of the burgers. Did Ann order some of the burgers? Yes.
+Mark saw at least two of the umbrellas. Did Mark see three of the umbrellas?", No.,0
+2,three-three,"The man got several of the backpacks. Did the man get none of the backpacks? No.
+Ann ordered half of the burgers. Did Ann order some of the burgers? Yes.
+Three of the apples are cold. Are three of the apples cold?", Yes.,1
+2,at least two-at least two,"The man got several of the backpacks. Did the man get none of the backpacks? No.
+Ann ordered half of the burgers. Did Ann order some of the burgers? Yes.
+At least two of the stores are impressive. Are at least two of the stores impressive?", Yes.,1
+2,two-three,"Laura bought three of the keyrings. Did Laura buy more than two of the keyrings? Yes.
+Bill wanted all of the pancakes. Did Bill want none of the pancakes? No.
+Jo sold two of the cars. Did Jo sell three of the cars?", No.,1
+2,three-two,"Laura bought three of the keyrings. Did Laura buy more than two of the keyrings? Yes.
+Bill wanted all of the pancakes. Did Bill want none of the pancakes? No.
+Jo sold three of the cupcakes. Did Jo sell two of the cupcakes?", Yes.,1
+2,three-at least two,"Laura bought three of the keyrings. Did Laura buy more than two of the keyrings? Yes.
+Bill wanted all of the pancakes. Did Bill want none of the pancakes? No.
+Sophie saw three of the hats. Did Sophie see at least two of the hats?", Yes.,1
+2,at least two-three,"Laura bought three of the keyrings. Did Laura buy more than two of the keyrings? Yes.
+Bill wanted all of the pancakes. Did Bill want none of the pancakes? No.
+The singer saw at least two of the stores. Did the singer see three of the stores?", Yes.,0
+2,three-three,"Laura bought three of the keyrings. Did Laura buy more than two of the keyrings? Yes.
+Bill wanted all of the pancakes. Did Bill want none of the pancakes? No.
+Sophie noticed three of the pretzels. Did Sophie notice three of the pretzels?", Yes.,1
+2,at least two-at least two,"Laura bought three of the keyrings. Did Laura buy more than two of the keyrings? Yes.
+Bill wanted all of the pancakes. Did Bill want none of the pancakes? No.
+Jo purchased at least two of the cherries. Did Jo purchase at least two of the cherries?", Yes.,1
+2,two-three,"The actor liked both of the tickets. Did the actor like two of the tickets? Yes.
+The woman wanted all of the cupcakes. Did the woman want none of the cupcakes? No.
+The actor owned two of the pastries. Did the actor own three of the pastries?", No.,1
+2,three-two,"The actor liked both of the tickets. Did the actor like two of the tickets? Yes.
+The woman wanted all of the cupcakes. Did the woman want none of the cupcakes? No.
+Sophie got three of the keyrings. Did Sophie get two of the keyrings?", No.,0
+2,three-at least two,"The actor liked both of the tickets. Did the actor like two of the tickets? Yes.
+The woman wanted all of the cupcakes. Did the woman want none of the cupcakes? No.
+Bill noticed three of the mice. Did Bill notice at least two of the mice?", Yes.,1
+2,at least two-three,"The actor liked both of the tickets. Did the actor like two of the tickets? Yes.
+The woman wanted all of the cupcakes. Did the woman want none of the cupcakes? No.
+Adam spotted at least two of the shoes. Did Adam spot three of the shoes?", No.,0
+2,three-three,"The actor liked both of the tickets. Did the actor like two of the tickets? Yes.
+The woman wanted all of the cupcakes. Did the woman want none of the cupcakes? No.
+Ann bought three of the hats. Did Ann buy three of the hats?", Yes.,1
+2,at least two-at least two,"The actor liked both of the tickets. Did the actor like two of the tickets? Yes.
+The woman wanted all of the cupcakes. Did the woman want none of the cupcakes? No.
+Mark liked at least two of the pastries. Did Mark like at least two of the pastries?", Yes.,1
+2,two-three,"Both of the sweaters are yellow. Are all of the sweaters yellow? Yes.
+Sidney owned none of the snacks. Did Sidney own two of the snacks? No.
+Lucy noticed two of the sweaters. Did Lucy notice three of the sweaters?", No.,1
+2,three-two,"Both of the sweaters are yellow. Are all of the sweaters yellow? Yes.
+Sidney owned none of the snacks. Did Sidney own two of the snacks? No.
+Three of the peanuts are cheap. Are two of the peanuts cheap?", No.,0
+2,three-at least two,"Both of the sweaters are yellow. Are all of the sweaters yellow? Yes.
+Sidney owned none of the snacks. Did Sidney own two of the snacks? No.
+Ann purchased three of the pretzels. Did Ann purchase at least two of the pretzels?", Yes.,1
+2,at least two-three,"Both of the sweaters are yellow. Are all of the sweaters yellow? Yes.
+Sidney owned none of the snacks. Did Sidney own two of the snacks? No.
+Adam liked at least two of the rings. Did Adam like three of the rings?", Yes.,0
+2,three-three,"Both of the sweaters are yellow. Are all of the sweaters yellow? Yes.
+Sidney owned none of the snacks. Did Sidney own two of the snacks? No.
+Lucy bought three of the chocolates. Did Lucy buy three of the chocolates?", Yes.,1
+2,at least two-at least two,"Both of the sweaters are yellow. Are all of the sweaters yellow? Yes.
+Sidney owned none of the snacks. Did Sidney own two of the snacks? No.
+Bill sold at least two of the rings. Did Bill sell at least two of the rings?", Yes.,1
+2,two-three,"Sophie had three of the shirts. Did Sophie have more than two of the shirts? Yes.
+The actor saw none of the hats. Did the actor see several of the hats? No.
+Jim ate two of the pastries. Did Jim eat three of the pastries?", No.,1
+2,three-two,"Sophie had three of the shirts. Did Sophie have more than two of the shirts? Yes.
+The actor saw none of the hats. Did the actor see several of the hats? No.
+The actress saw three of the cupcakes. Did the actress see two of the cupcakes?", Yes.,1
+2,three-at least two,"Sophie had three of the shirts. Did Sophie have more than two of the shirts? Yes.
+The actor saw none of the hats. Did the actor see several of the hats? No.
+Bill wanted three of the apples. Did Bill want at least two of the apples?", Yes.,1
+2,at least two-three,"Sophie had three of the shirts. Did Sophie have more than two of the shirts? Yes.
+The actor saw none of the hats. Did the actor see several of the hats? No.
+Mark purchased at least two of the cupcakes. Did Mark purchase three of the cupcakes?", No.,0
+2,three-three,"Sophie had three of the shirts. Did Sophie have more than two of the shirts? Yes.
+The actor saw none of the hats. Did the actor see several of the hats? No.
+Sidney bought three of the toys. Did Sidney buy three of the toys?", Yes.,1
+2,at least two-at least two,"Sophie had three of the shirts. Did Sophie have more than two of the shirts? Yes.
+The actor saw none of the hats. Did the actor see several of the hats? No.
+At least two of the cars are affordable. Are at least two of the cars affordable?", Yes.,1
+2,two-three,"Michael wanted several of the snacks. Did Michael want none of the snacks? No.
+Two of the shirts are affordable. Are some of the shirts affordable? Yes.
+The woman got two of the peanuts. Did the woman get three of the peanuts?", No.,1
+2,three-two,"Michael wanted several of the snacks. Did Michael want none of the snacks? No.
+Two of the shirts are affordable. Are some of the shirts affordable? Yes.
+The singer bought three of the cakes. Did the singer buy two of the cakes?", No.,0
+2,three-at least two,"Michael wanted several of the snacks. Did Michael want none of the snacks? No.
+Two of the shirts are affordable. Are some of the shirts affordable? Yes.
+Adam owned three of the hats. Did Adam own at least two of the hats?", Yes.,1
+2,at least two-three,"Michael wanted several of the snacks. Did Michael want none of the snacks? No.
+Two of the shirts are affordable. Are some of the shirts affordable? Yes.
+Bill liked at least two of the candles. Did Bill like three of the candles?", No.,0
+2,three-three,"Michael wanted several of the snacks. Did Michael want none of the snacks? No.
+Two of the shirts are affordable. Are some of the shirts affordable? Yes.
+Three of the churros are cold. Are three of the churros cold?", Yes.,1
+2,at least two-at least two,"Michael wanted several of the snacks. Did Michael want none of the snacks? No.
+Two of the shirts are affordable. Are some of the shirts affordable? Yes.
+At least two of the cherries are tasty. Are at least two of the cherries tasty?", Yes.,1
+2,two-three,"The singer had both of the cakes. Did the singer have two of the cakes? Yes.
+None of the shoes are yellow. Are several of the shoes yellow? No.
+Robin spotted two of the scarves. Did Robin spot three of the scarves?", No.,1
+2,three-two,"The singer had both of the cakes. Did the singer have two of the cakes? Yes.
+None of the shoes are yellow. Are several of the shoes yellow? No.
+Ann saw three of the dogs. Did Ann see two of the dogs?", No.,0
+2,three-at least two,"The singer had both of the cakes. Did the singer have two of the cakes? Yes.
+None of the shoes are yellow. Are several of the shoes yellow? No.
+Sally noticed three of the bagels. Did Sally notice at least two of the bagels?", Yes.,1
+2,at least two-three,"The singer had both of the cakes. Did the singer have two of the cakes? Yes.
+None of the shoes are yellow. Are several of the shoes yellow? No.
+Mary wanted at least two of the cherries. Did Mary want three of the cherries?", No.,0
+2,three-three,"The singer had both of the cakes. Did the singer have two of the cakes? Yes.
+None of the shoes are yellow. Are several of the shoes yellow? No.
+Bill saw three of the bagels. Did Bill see three of the bagels?", Yes.,1
+2,at least two-at least two,"The singer had both of the cakes. Did the singer have two of the cakes? Yes.
+None of the shoes are yellow. Are several of the shoes yellow? No.
+The teacher bought at least two of the cakes. Did the teacher buy at least two of the cakes?", Yes.,1
+2,two-three,"John ate exactly two of the pretzels. Did John eat three of the pretzels? No.
+Lucy ordered both of the candles. Did Lucy order two of the candles? Yes.
+Sam sold two of the cherries. Did Sam sell three of the cherries?", No.,1
+2,three-two,"John ate exactly two of the pretzels. Did John eat three of the pretzels? No.
+Lucy ordered both of the candles. Did Lucy order two of the candles? Yes.
+Three of the shirts are cheap. Are two of the shirts cheap?", No.,0
+2,three-at least two,"John ate exactly two of the pretzels. Did John eat three of the pretzels? No.
+Lucy ordered both of the candles. Did Lucy order two of the candles? Yes.
+The woman had three of the chocolates. Did the woman have at least two of the chocolates?", Yes.,1
+2,at least two-three,"John ate exactly two of the pretzels. Did John eat three of the pretzels? No.
+Lucy ordered both of the candles. Did Lucy order two of the candles? Yes.
+At least two of the backpacks are on sale. Are three of the backpacks on sale?", No.,0
+2,three-three,"John ate exactly two of the pretzels. Did John eat three of the pretzels? No.
+Lucy ordered both of the candles. Did Lucy order two of the candles? Yes.
+Sidney got three of the pancakes. Did Sidney get three of the pancakes?", No.,0
+2,at least two-at least two,"John ate exactly two of the pretzels. Did John eat three of the pretzels? No.
+Lucy ordered both of the candles. Did Lucy order two of the candles? Yes.
+Sally had at least two of the hats. Did Sally have at least two of the hats?", Yes.,1
+2,two-three,"Michael ate half of the apples. Did Michael eat some of the apples? Yes.
+Mark sold all of the rings. Did Mark sell none of the rings? No.
+Two of the oranges are sold out. Are three of the oranges sold out?", Yes.,0
+2,three-two,"Michael ate half of the apples. Did Michael eat some of the apples? Yes.
+Mark sold all of the rings. Did Mark sell none of the rings? No.
+Three of the scarves are sold out. Are two of the scarves sold out?", Yes.,1
+2,three-at least two,"Michael ate half of the apples. Did Michael eat some of the apples? Yes.
+Mark sold all of the rings. Did Mark sell none of the rings? No.
+The woman spotted three of the candles. Did the woman spot at least two of the candles?", Yes.,1
+2,at least two-three,"Michael ate half of the apples. Did Michael eat some of the apples? Yes.
+Mark sold all of the rings. Did Mark sell none of the rings? No.
+Sophie had at least two of the bottles. Did Sophie have three of the bottles?", Yes.,0
+2,three-three,"Michael ate half of the apples. Did Michael eat some of the apples? Yes.
+Mark sold all of the rings. Did Mark sell none of the rings? No.
+Ann sold three of the shoes. Did Ann sell three of the shoes?", Yes.,1
+2,at least two-at least two,"Michael ate half of the apples. Did Michael eat some of the apples? Yes.
+Mark sold all of the rings. Did Mark sell none of the rings? No.
+Michael spotted at least two of the sandwiches. Did Michael spot at least two of the sandwiches?", Yes.,1
+2,two-three,"Half of the sandwiches are on sale. Are half of the sandwiches on sale? Yes.
+Jim got none of the keyrings. Did Jim get two of the keyrings? No.
+Two of the snacks are pretty. Are three of the snacks pretty?", No.,1
+2,three-two,"Half of the sandwiches are on sale. Are half of the sandwiches on sale? Yes.
+Jim got none of the keyrings. Did Jim get two of the keyrings? No.
+Laura sold three of the oranges. Did Laura sell two of the oranges?", No.,0
+2,three-at least two,"Half of the sandwiches are on sale. Are half of the sandwiches on sale? Yes.
+Jim got none of the keyrings. Did Jim get two of the keyrings? No.
+Three of the shirts are blue. Are at least two of the shirts blue?", Yes.,1
+2,at least two-three,"Half of the sandwiches are on sale. Are half of the sandwiches on sale? Yes.
+Jim got none of the keyrings. Did Jim get two of the keyrings? No.
+The singer sold at least two of the candles. Did the singer sell three of the candles?", No.,0
+2,three-three,"Half of the sandwiches are on sale. Are half of the sandwiches on sale? Yes.
+Jim got none of the keyrings. Did Jim get two of the keyrings? No.
+Sidney ate three of the oranges. Did Sidney eat three of the oranges?", Yes.,1
+2,at least two-at least two,"Half of the sandwiches are on sale. Are half of the sandwiches on sale? Yes.
+Jim got none of the keyrings. Did Jim get two of the keyrings? No.
+At least two of the shirts are impressive. Are at least two of the shirts impressive?", Yes.,1
+2,two-three,"Ann liked none of the snacks. Did Ann like some of the snacks? No.
+The actress ordered three of the mugs. Did the actress order more than two of the mugs? Yes.
+Michael owned two of the scarves. Did Michael own three of the scarves?", No.,1
+2,three-two,"Ann liked none of the snacks. Did Ann like some of the snacks? No.
+The actress ordered three of the mugs. Did the actress order more than two of the mugs? Yes.
+The actress sold three of the toys. Did the actress sell two of the toys?", No.,0
+2,three-at least two,"Ann liked none of the snacks. Did Ann like some of the snacks? No.
+The actress ordered three of the mugs. Did the actress order more than two of the mugs? Yes.
+The singer sold three of the sandwiches. Did the singer sell at least two of the sandwiches?", Yes.,1
+2,at least two-three,"Ann liked none of the snacks. Did Ann like some of the snacks? No.
+The actress ordered three of the mugs. Did the actress order more than two of the mugs? Yes.
+Sophie ordered at least two of the sandwiches. Did Sophie order three of the sandwiches?", No.,0
+2,three-three,"Ann liked none of the snacks. Did Ann like some of the snacks? No.
+The actress ordered three of the mugs. Did the actress order more than two of the mugs? Yes.
+Robin purchased three of the bagels. Did Robin purchase three of the bagels?", Yes.,1
+2,at least two-at least two,"Ann liked none of the snacks. Did Ann like some of the snacks? No.
+The actress ordered three of the mugs. Did the actress order more than two of the mugs? Yes.
+Jo wanted at least two of the candles. Did Jo want at least two of the candles?", Yes.,1
+2,two-three,"Michael sold some of the umbrellas. Did Michael sell more than one of the umbrellas? Yes.
+Robin sold most of the snacks. Did Robin sell none of the snacks? No.
+The actress wanted two of the pastries. Did the actress want three of the pastries?", No.,1
+2,three-two,"Michael sold some of the umbrellas. Did Michael sell more than one of the umbrellas? Yes.
+Robin sold most of the snacks. Did Robin sell none of the snacks? No.
+Ann wanted three of the cakes. Did Ann want two of the cakes?", No.,0
+2,three-at least two,"Michael sold some of the umbrellas. Did Michael sell more than one of the umbrellas? Yes.
+Robin sold most of the snacks. Did Robin sell none of the snacks? No.
+John wanted three of the rings. Did John want at least two of the rings?", Yes.,1
+2,at least two-three,"Michael sold some of the umbrellas. Did Michael sell more than one of the umbrellas? Yes.
+Robin sold most of the snacks. Did Robin sell none of the snacks? No.
+Lucy wanted at least two of the pretzels. Did Lucy want three of the pretzels?", No.,0
+2,three-three,"Michael sold some of the umbrellas. Did Michael sell more than one of the umbrellas? Yes.
+Robin sold most of the snacks. Did Robin sell none of the snacks? No.
+Laura liked three of the bottles. Did Laura like three of the bottles?", Yes.,1
+2,at least two-at least two,"Michael sold some of the umbrellas. Did Michael sell more than one of the umbrellas? Yes.
+Robin sold most of the snacks. Did Robin sell none of the snacks? No.
+Laura saw at least two of the giraffes. Did Laura see at least two of the giraffes?", Yes.,1
+2,two-three,"Both of the hats are cheap. Are two of the hats cheap? Yes.
+All of the backpacks are pretty. Are none of the backpacks pretty? No.
+Lucy liked two of the mugs. Did Lucy like three of the mugs?", No.,1
+2,three-two,"Both of the hats are cheap. Are two of the hats cheap? Yes.
+All of the backpacks are pretty. Are none of the backpacks pretty? No.
+Three of the churros are on sale. Are two of the churros on sale?", No.,0
+2,three-at least two,"Both of the hats are cheap. Are two of the hats cheap? Yes.
+All of the backpacks are pretty. Are none of the backpacks pretty? No.
+Three of the cherries are impressive. Are at least two of the cherries impressive?", Yes.,1
+2,at least two-three,"Both of the hats are cheap. Are two of the hats cheap? Yes.
+All of the backpacks are pretty. Are none of the backpacks pretty? No.
+Sophie owned at least two of the cherries. Did Sophie own three of the cherries?", No.,0
+2,three-three,"Both of the hats are cheap. Are two of the hats cheap? Yes.
+All of the backpacks are pretty. Are none of the backpacks pretty? No.
+Mary noticed three of the umbrellas. Did Mary notice three of the umbrellas?", Yes.,1
+2,at least two-at least two,"Both of the hats are cheap. Are two of the hats cheap? Yes.
+All of the backpacks are pretty. Are none of the backpacks pretty? No.
+Jim owned at least two of the shoes. Did Jim own at least two of the shoes?", Yes.,1
+2,two-three,"Laura wanted both of the backpacks. Did Laura want all of the backpacks? Yes.
+All of the sweaters are colourful. Are none of the sweaters colourful? No.
+The actress spotted two of the hats. Did the actress spot three of the hats?", No.,1
+2,three-two,"Laura wanted both of the backpacks. Did Laura want all of the backpacks? Yes.
+All of the sweaters are colourful. Are none of the sweaters colourful? No.
+Jo bought three of the tickets. Did Jo buy two of the tickets?", Yes.,1
+2,three-at least two,"Laura wanted both of the backpacks. Did Laura want all of the backpacks? Yes.
+All of the sweaters are colourful. Are none of the sweaters colourful? No.
+Jo wanted three of the strawberries. Did Jo want at least two of the strawberries?", Yes.,1
+2,at least two-three,"Laura wanted both of the backpacks. Did Laura want all of the backpacks? Yes.
+All of the sweaters are colourful. Are none of the sweaters colourful? No.
+Sidney spotted at least two of the cakes. Did Sidney spot three of the cakes?", Yes.,0
+2,three-three,"Laura wanted both of the backpacks. Did Laura want all of the backpacks? Yes.
+All of the sweaters are colourful. Are none of the sweaters colourful? No.
+Jo ate three of the burgers. Did Jo eat three of the burgers?", Yes.,1
+2,at least two-at least two,"Laura wanted both of the backpacks. Did Laura want all of the backpacks? Yes.
+All of the sweaters are colourful. Are none of the sweaters colourful? No.
+At least two of the toys are sold out. Are at least two of the toys sold out?", Yes.,1
+2,two-three,"Sam liked exactly two of the tickets. Did Sam like one of the tickets? No.
+The actress bought some of the burgers. Did the actress buy two of the burgers? Yes.
+Jo liked two of the apples. Did Jo like three of the apples?", No.,1
+2,three-two,"Sam liked exactly two of the tickets. Did Sam like one of the tickets? No.
+The actress bought some of the burgers. Did the actress buy two of the burgers? Yes.
+Mary purchased three of the candles. Did Mary purchase two of the candles?", No.,0
+2,three-at least two,"Sam liked exactly two of the tickets. Did Sam like one of the tickets? No.
+The actress bought some of the burgers. Did the actress buy two of the burgers? Yes.
+Sally bought three of the candles. Did Sally buy at least two of the candles?", Yes.,1
+2,at least two-three,"Sam liked exactly two of the tickets. Did Sam like one of the tickets? No.
+The actress bought some of the burgers. Did the actress buy two of the burgers? Yes.
+Lucy noticed at least two of the shoes. Did Lucy notice three of the shoes?", No.,0
+2,three-three,"Sam liked exactly two of the tickets. Did Sam like one of the tickets? No.
+The actress bought some of the burgers. Did the actress buy two of the burgers? Yes.
+The woman had three of the rings. Did the woman have three of the rings?", No.,0
+2,at least two-at least two,"Sam liked exactly two of the tickets. Did Sam like one of the tickets? No.
+The actress bought some of the burgers. Did the actress buy two of the burgers? Yes.
+The woman owned at least two of the candles. Did the woman own at least two of the candles?", Yes.,1
+2,two-three,"Sally ordered none of the sweaters. Did Sally order some of the sweaters? No.
+The teacher owned some of the toys. Did the teacher own two of the toys? Yes.
+The actor ate two of the sandwiches. Did the actor eat three of the sandwiches?", No.,1
+2,three-two,"Sally ordered none of the sweaters. Did Sally order some of the sweaters? No.
+The teacher owned some of the toys. Did the teacher own two of the toys? Yes.
+Jim got three of the tickets. Did Jim get two of the tickets?", No.,0
+2,three-at least two,"Sally ordered none of the sweaters. Did Sally order some of the sweaters? No.
+The teacher owned some of the toys. Did the teacher own two of the toys? Yes.
+Sophie got three of the hats. Did Sophie get at least two of the hats?", Yes.,1
+2,at least two-three,"Sally ordered none of the sweaters. Did Sally order some of the sweaters? No.
+The teacher owned some of the toys. Did the teacher own two of the toys? Yes.
+At least two of the cherries are cold. Are three of the cherries cold?", Yes.,0
+2,three-three,"Sally ordered none of the sweaters. Did Sally order some of the sweaters? No.
+The teacher owned some of the toys. Did the teacher own two of the toys? Yes.
+Three of the scarves are blue. Are three of the scarves blue?", Yes.,1
+2,at least two-at least two,"Sally ordered none of the sweaters. Did Sally order some of the sweaters? No.
+The teacher owned some of the toys. Did the teacher own two of the toys? Yes.
+Laura had at least two of the snacks. Did Laura have at least two of the snacks?", Yes.,1
+2,two-three,"Ann noticed three of the sweaters. Did Ann notice three of the sweaters? Yes.
+Several of the pancakes are warm. Are none of the pancakes warm? No.
+Adam liked two of the keyrings. Did Adam like three of the keyrings?", No.,1
+2,three-two,"Ann noticed three of the sweaters. Did Ann notice three of the sweaters? Yes.
+Several of the pancakes are warm. Are none of the pancakes warm? No.
+Three of the cars are orange. Are two of the cars orange?", Yes.,1
+2,three-at least two,"Ann noticed three of the sweaters. Did Ann notice three of the sweaters? Yes.
+Several of the pancakes are warm. Are none of the pancakes warm? No.
+Sophie purchased three of the bagels. Did Sophie purchase at least two of the bagels?", Yes.,1
+2,at least two-three,"Ann noticed three of the sweaters. Did Ann notice three of the sweaters? Yes.
+Several of the pancakes are warm. Are none of the pancakes warm? No.
+Sidney ate at least two of the strawberries. Did Sidney eat three of the strawberries?", No.,0
+2,three-three,"Ann noticed three of the sweaters. Did Ann notice three of the sweaters? Yes.
+Several of the pancakes are warm. Are none of the pancakes warm? No.
+The man bought three of the backpacks. Did the man buy three of the backpacks?", Yes.,1
+2,at least two-at least two,"Ann noticed three of the sweaters. Did Ann notice three of the sweaters? Yes.
+Several of the pancakes are warm. Are none of the pancakes warm? No.
+Robin ordered at least two of the strawberries. Did Robin order at least two of the strawberries?", Yes.,1
+2,two-three,"The woman bought none of the rings. Did the woman buy several of the rings? No.
+Half of the backpacks are orange. Are half of the backpacks orange? Yes.
+Lucy owned two of the mugs. Did Lucy own three of the mugs?", No.,1
+2,three-two,"The woman bought none of the rings. Did the woman buy several of the rings? No.
+Half of the backpacks are orange. Are half of the backpacks orange? Yes.
+Jo got three of the bagels. Did Jo get two of the bagels?", No.,0
+2,three-at least two,"The woman bought none of the rings. Did the woman buy several of the rings? No.
+Half of the backpacks are orange. Are half of the backpacks orange? Yes.
+Three of the cherries are sold out. Are at least two of the cherries sold out?", Yes.,1
+2,at least two-three,"The woman bought none of the rings. Did the woman buy several of the rings? No.
+Half of the backpacks are orange. Are half of the backpacks orange? Yes.
+Laura had at least two of the burgers. Did Laura have three of the burgers?", No.,0
+2,three-three,"The woman bought none of the rings. Did the woman buy several of the rings? No.
+Half of the backpacks are orange. Are half of the backpacks orange? Yes.
+The woman wanted three of the snacks. Did the woman want three of the snacks?", Yes.,1
+2,at least two-at least two,"The woman bought none of the rings. Did the woman buy several of the rings? No.
+Half of the backpacks are orange. Are half of the backpacks orange? Yes.
+The actress sold at least two of the hats. Did the actress sell at least two of the hats?", Yes.,1
+2,two-three,"Mark had both of the candles. Did Mark have both of the candles? Yes.
+The actor bought exactly two of the keyrings. Did the actor buy none of the keyrings? No.
+The actress saw two of the dogs. Did the actress see three of the dogs?", No.,1
+2,three-two,"Mark had both of the candles. Did Mark have both of the candles? Yes.
+The actor bought exactly two of the keyrings. Did the actor buy none of the keyrings? No.
+The teacher bought three of the strawberries. Did the teacher buy two of the strawberries?", No.,0
+2,three-at least two,"Mark had both of the candles. Did Mark have both of the candles? Yes.
+The actor bought exactly two of the keyrings. Did the actor buy none of the keyrings? No.
+The singer saw three of the signs. Did the singer see at least two of the signs?", Yes.,1
+2,at least two-three,"Mark had both of the candles. Did Mark have both of the candles? Yes.
+The actor bought exactly two of the keyrings. Did the actor buy none of the keyrings? No.
+At least two of the shirts are colourful. Are three of the shirts colourful?", Yes.,0
+2,three-three,"Mark had both of the candles. Did Mark have both of the candles? Yes.
+The actor bought exactly two of the keyrings. Did the actor buy none of the keyrings? No.
+Three of the cars are blue. Are three of the cars blue?", Yes.,1
+2,at least two-at least two,"Mark had both of the candles. Did Mark have both of the candles? Yes.
+The actor bought exactly two of the keyrings. Did the actor buy none of the keyrings? No.
+Jo liked at least two of the apples. Did Jo like at least two of the apples?", Yes.,1
+2,two-three,"The actor saw some of the burgers. Did the actor see more than one of the burgers? Yes.
+Mary bought all of the toys. Did Mary buy none of the toys? No.
+Sidney ordered two of the pretzels. Did Sidney order three of the pretzels?", No.,1
+2,three-two,"The actor saw some of the burgers. Did the actor see more than one of the burgers? Yes.
+Mary bought all of the toys. Did Mary buy none of the toys? No.
+Three of the pastries are mouldy. Are two of the pastries mouldy?", No.,0
+2,three-at least two,"The actor saw some of the burgers. Did the actor see more than one of the burgers? Yes.
+Mary bought all of the toys. Did Mary buy none of the toys? No.
+John ordered three of the bottles. Did John order at least two of the bottles?", Yes.,1
+2,at least two-three,"The actor saw some of the burgers. Did the actor see more than one of the burgers? Yes.
+Mary bought all of the toys. Did Mary buy none of the toys? No.
+Robin noticed at least two of the snacks. Did Robin notice three of the snacks?", No.,0
+2,three-three,"The actor saw some of the burgers. Did the actor see more than one of the burgers? Yes.
+Mary bought all of the toys. Did Mary buy none of the toys? No.
+The woman had three of the rings. Did the woman have three of the rings?", Yes.,1
+2,at least two-at least two,"The actor saw some of the burgers. Did the actor see more than one of the burgers? Yes.
+Mary bought all of the toys. Did Mary buy none of the toys? No.
+John sold at least two of the pretzels. Did John sell at least two of the pretzels?", Yes.,1
+2,two-three,"Jo purchased both of the shirts. Did Jo purchase both of the shirts? Yes.
+Robin ate several of the chocolates. Did Robin eat none of the chocolates? No.
+The singer owned two of the pancakes. Did the singer own three of the pancakes?", No.,1
+2,three-two,"Jo purchased both of the shirts. Did Jo purchase both of the shirts? Yes.
+Robin ate several of the chocolates. Did Robin eat none of the chocolates? No.
+Sophie ordered three of the sandwiches. Did Sophie order two of the sandwiches?", No.,0
+2,three-at least two,"Jo purchased both of the shirts. Did Jo purchase both of the shirts? Yes.
+Robin ate several of the chocolates. Did Robin eat none of the chocolates? No.
+The woman owned three of the burgers. Did the woman own at least two of the burgers?", Yes.,1
+2,at least two-three,"Jo purchased both of the shirts. Did Jo purchase both of the shirts? Yes.
+Robin ate several of the chocolates. Did Robin eat none of the chocolates? No.
+Sally had at least two of the toys. Did Sally have three of the toys?", Yes.,0
+2,three-three,"Jo purchased both of the shirts. Did Jo purchase both of the shirts? Yes.
+Robin ate several of the chocolates. Did Robin eat none of the chocolates? No.
+Ann noticed three of the keyrings. Did Ann notice three of the keyrings?", Yes.,1
+2,at least two-at least two,"Jo purchased both of the shirts. Did Jo purchase both of the shirts? Yes.
+Robin ate several of the chocolates. Did Robin eat none of the chocolates? No.
+The actress purchased at least two of the sandwiches. Did the actress purchase at least two of the sandwiches?", Yes.,1
+2,two-three,"The actress spotted most of the rings. Did the actress spot none of the rings? No.
+Three of the sweaters are expensive. Are three of the sweaters expensive? Yes.
+Lucy spotted two of the attractions. Did Lucy spot three of the attractions?", No.,1
+2,three-two,"The actress spotted most of the rings. Did the actress spot none of the rings? No.
+Three of the sweaters are expensive. Are three of the sweaters expensive? Yes.
+Sally bought three of the sandwiches. Did Sally buy two of the sandwiches?", No.,0
+2,three-at least two,"The actress spotted most of the rings. Did the actress spot none of the rings? No.
+Three of the sweaters are expensive. Are three of the sweaters expensive? Yes.
+Laura sold three of the snacks. Did Laura sell at least two of the snacks?", Yes.,1
+2,at least two-three,"The actress spotted most of the rings. Did the actress spot none of the rings? No.
+Three of the sweaters are expensive. Are three of the sweaters expensive? Yes.
+At least two of the keyrings are green. Are three of the keyrings green?", No.,0
+2,three-three,"The actress spotted most of the rings. Did the actress spot none of the rings? No.
+Three of the sweaters are expensive. Are three of the sweaters expensive? Yes.
+Robin noticed three of the temples. Did Robin notice three of the temples?", No.,0
+2,at least two-at least two,"The actress spotted most of the rings. Did the actress spot none of the rings? No.
+Three of the sweaters are expensive. Are three of the sweaters expensive? Yes.
+Mary liked at least two of the tickets. Did Mary like at least two of the tickets?", Yes.,1
+2,two-three,"The man had two of the burgers. Did the man have two of the burgers? Yes.
+Most of the pastries are delicious. Are none of the pastries delicious? No.
+Michael spotted two of the umbrellas. Did Michael spot three of the umbrellas?", No.,1
+2,three-two,"The man had two of the burgers. Did the man have two of the burgers? Yes.
+Most of the pastries are delicious. Are none of the pastries delicious? No.
+Sally sold three of the keyrings. Did Sally sell two of the keyrings?", Yes.,1
+2,three-at least two,"The man had two of the burgers. Did the man have two of the burgers? Yes.
+Most of the pastries are delicious. Are none of the pastries delicious? No.
+The actor bought three of the apples. Did the actor buy at least two of the apples?", Yes.,1
+2,at least two-three,"The man had two of the burgers. Did the man have two of the burgers? Yes.
+Most of the pastries are delicious. Are none of the pastries delicious? No.
+At least two of the candles are yellow. Are three of the candles yellow?", Yes.,0
+2,three-three,"The man had two of the burgers. Did the man have two of the burgers? Yes.
+Most of the pastries are delicious. Are none of the pastries delicious? No.
+Three of the churros are affordable. Are three of the churros affordable?", Yes.,1
+2,at least two-at least two,"The man had two of the burgers. Did the man have two of the burgers? Yes.
+Most of the pastries are delicious. Are none of the pastries delicious? No.
+The man had at least two of the apples. Did the man have at least two of the apples?", Yes.,1
+2,two-three,"Ann bought none of the apples. Did Ann buy some of the apples? No.
+Robin ordered both of the churros. Did Robin order two of the churros? Yes.
+Mark liked two of the chocolates. Did Mark like three of the chocolates?", No.,1
+2,three-two,"Ann bought none of the apples. Did Ann buy some of the apples? No.
+Robin ordered both of the churros. Did Robin order two of the churros? Yes.
+Adam liked three of the peanuts. Did Adam like two of the peanuts?", No.,0
+2,three-at least two,"Ann bought none of the apples. Did Ann buy some of the apples? No.
+Robin ordered both of the churros. Did Robin order two of the churros? Yes.
+Three of the bottles are on sale. Are at least two of the bottles on sale?", Yes.,1
+2,at least two-three,"Ann bought none of the apples. Did Ann buy some of the apples? No.
+Robin ordered both of the churros. Did Robin order two of the churros? Yes.
+Ann bought at least two of the hats. Did Ann buy three of the hats?", No.,0
+2,three-three,"Ann bought none of the apples. Did Ann buy some of the apples? No.
+Robin ordered both of the churros. Did Robin order two of the churros? Yes.
+Sophie sold three of the sweaters. Did Sophie sell three of the sweaters?", Yes.,1
+2,at least two-at least two,"Ann bought none of the apples. Did Ann buy some of the apples? No.
+Robin ordered both of the churros. Did Robin order two of the churros? Yes.
+Adam spotted at least two of the candles. Did Adam spot at least two of the candles?", Yes.,1
+2,two-three,"Exactly two of the backpacks are orange. Are three of the backpacks orange? No.
+Michael ate half of the snacks. Did Michael eat some of the snacks? Yes.
+Jim owned two of the rings. Did Jim own three of the rings?", No.,1
+2,three-two,"Exactly two of the backpacks are orange. Are three of the backpacks orange? No.
+Michael ate half of the snacks. Did Michael eat some of the snacks? Yes.
+Laura liked three of the oranges. Did Laura like two of the oranges?", No.,0
+2,three-at least two,"Exactly two of the backpacks are orange. Are three of the backpacks orange? No.
+Michael ate half of the snacks. Did Michael eat some of the snacks? Yes.
+Mary owned three of the pancakes. Did Mary own at least two of the pancakes?", Yes.,1
+2,at least two-three,"Exactly two of the backpacks are orange. Are three of the backpacks orange? No.
+Michael ate half of the snacks. Did Michael eat some of the snacks? Yes.
+At least two of the scarves are yellow. Are three of the scarves yellow?", No.,0
+2,three-three,"Exactly two of the backpacks are orange. Are three of the backpacks orange? No.
+Michael ate half of the snacks. Did Michael eat some of the snacks? Yes.
+Ann got three of the cupcakes. Did Ann get three of the cupcakes?", No.,0
+2,at least two-at least two,"Exactly two of the backpacks are orange. Are three of the backpacks orange? No.
+Michael ate half of the snacks. Did Michael eat some of the snacks? Yes.
+Robin sold at least two of the keyrings. Did Robin sell at least two of the keyrings?", Yes.,1
+3,two-three,"The actress owned half of the hats. Did the actress own three of the hats? Maybe.
+All of the rings are yellow. Are none of the rings yellow? No.
+The teacher spotted half of the adverts. Did the teacher spot some of the adverts? Yes.
+Laura ordered two of the scarves. Did Laura order three of the scarves?", No.,1
+3,three-two,"The actress owned half of the hats. Did the actress own three of the hats? Maybe.
+All of the rings are yellow. Are none of the rings yellow? No.
+The teacher spotted half of the adverts. Did the teacher spot some of the adverts? Yes.
+Lucy ordered three of the pastries. Did Lucy order two of the pastries?", No.,0
+3,three-at least two,"The actress owned half of the hats. Did the actress own three of the hats? Maybe.
+All of the rings are yellow. Are none of the rings yellow? No.
+The teacher spotted half of the adverts. Did the teacher spot some of the adverts? Yes.
+Ann ate three of the chocolates. Did Ann eat at least two of the chocolates?", Yes.,1
+3,at least two-three,"The actress owned half of the hats. Did the actress own three of the hats? Maybe.
+All of the rings are yellow. Are none of the rings yellow? No.
+The teacher spotted half of the adverts. Did the teacher spot some of the adverts? Yes.
+At least two of the pretzels are cheap. Are three of the pretzels cheap?", No.,0
+3,three-three,"The actress owned half of the hats. Did the actress own three of the hats? Maybe.
+All of the rings are yellow. Are none of the rings yellow? No.
+The teacher spotted half of the adverts. Did the teacher spot some of the adverts? Yes.
+The woman wanted three of the cakes. Did the woman want three of the cakes?", Yes.,1
+3,at least two-at least two,"The actress owned half of the hats. Did the actress own three of the hats? Maybe.
+All of the rings are yellow. Are none of the rings yellow? No.
+The teacher spotted half of the adverts. Did the teacher spot some of the adverts? Yes.
+Laura got at least two of the strawberries. Did Laura get at least two of the strawberries?", Yes.,1
+3,two-three,"Half of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+The woman liked none of the sweaters. Did the woman like two of the sweaters? No.
+The man saw some of the mugs. Did the man see more than one of the mugs? Yes.
+Jim bought two of the umbrellas. Did Jim buy three of the umbrellas?", No.,1
+3,three-two,"Half of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+The woman liked none of the sweaters. Did the woman like two of the sweaters? No.
+The man saw some of the mugs. Did the man see more than one of the mugs? Yes.
+Sophie sold three of the mugs. Did Sophie sell two of the mugs?", No.,0
+3,three-at least two,"Half of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+The woman liked none of the sweaters. Did the woman like two of the sweaters? No.
+The man saw some of the mugs. Did the man see more than one of the mugs? Yes.
+Ann spotted three of the scarves. Did Ann spot at least two of the scarves?", Yes.,1
+3,at least two-three,"Half of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+The woman liked none of the sweaters. Did the woman like two of the sweaters? No.
+The man saw some of the mugs. Did the man see more than one of the mugs? Yes.
+Sidney wanted at least two of the apples. Did Sidney want three of the apples?", No.,0
+3,three-three,"Half of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+The woman liked none of the sweaters. Did the woman like two of the sweaters? No.
+The man saw some of the mugs. Did the man see more than one of the mugs? Yes.
+Three of the chocolates are sold out. Are three of the chocolates sold out?", Yes.,1
+3,at least two-at least two,"Half of the cupcakes are delicious. Are three of the cupcakes delicious? Maybe.
+The woman liked none of the sweaters. Did the woman like two of the sweaters? No.
+The man saw some of the mugs. Did the man see more than one of the mugs? Yes.
+Bill saw at least two of the churros. Did Bill see at least two of the churros?", Yes.,1
+3,two-three,"The woman sold two of the peanuts. Did the woman sell all of the peanuts? Maybe.
+Lucy liked two of the burgers. Did Lucy like more than one of the burgers? Yes.
+Robin got exactly two of the scarves. Did Robin get one of the scarves? No.
+Lucy ordered two of the cherries. Did Lucy order three of the cherries?", No.,1
+3,three-two,"The woman sold two of the peanuts. Did the woman sell all of the peanuts? Maybe.
+Lucy liked two of the burgers. Did Lucy like more than one of the burgers? Yes.
+Robin got exactly two of the scarves. Did Robin get one of the scarves? No.
+Lucy owned three of the rings. Did Lucy own two of the rings?", No.,0
+3,three-at least two,"The woman sold two of the peanuts. Did the woman sell all of the peanuts? Maybe.
+Lucy liked two of the burgers. Did Lucy like more than one of the burgers? Yes.
+Robin got exactly two of the scarves. Did Robin get one of the scarves? No.
+Three of the hats are orange. Are at least two of the hats orange?", Yes.,1
+3,at least two-three,"The woman sold two of the peanuts. Did the woman sell all of the peanuts? Maybe.
+Lucy liked two of the burgers. Did Lucy like more than one of the burgers? Yes.
+Robin got exactly two of the scarves. Did Robin get one of the scarves? No.
+The actor owned at least two of the shoes. Did the actor own three of the shoes?", Maybe.,1
+3,three-three,"The woman sold two of the peanuts. Did the woman sell all of the peanuts? Maybe.
+Lucy liked two of the burgers. Did Lucy like more than one of the burgers? Yes.
+Robin got exactly two of the scarves. Did Robin get one of the scarves? No.
+The teacher liked three of the burgers. Did the teacher like three of the burgers?", Yes.,1
+3,at least two-at least two,"The woman sold two of the peanuts. Did the woman sell all of the peanuts? Maybe.
+Lucy liked two of the burgers. Did Lucy like more than one of the burgers? Yes.
+Robin got exactly two of the scarves. Did Robin get one of the scarves? No.
+Sidney liked at least two of the shirts. Did Sidney like at least two of the shirts?", Yes.,1
+3,two-three,"Half of the pastries are warm. Are half of the pastries warm? Yes.
+Laura bought most of the chocolates. Did Laura buy three of the chocolates? Maybe.
+The singer wanted exactly two of the backpacks. Did the singer want one of the backpacks? No.
+The teacher got two of the toys. Did the teacher get three of the toys?", No.,1
+3,three-two,"Half of the pastries are warm. Are half of the pastries warm? Yes.
+Laura bought most of the chocolates. Did Laura buy three of the chocolates? Maybe.
+The singer wanted exactly two of the backpacks. Did the singer want one of the backpacks? No.
+Three of the sandwiches are delicious. Are two of the sandwiches delicious?", Yes.,1
+3,three-at least two,"Half of the pastries are warm. Are half of the pastries warm? Yes.
+Laura bought most of the chocolates. Did Laura buy three of the chocolates? Maybe.
+The singer wanted exactly two of the backpacks. Did the singer want one of the backpacks? No.
+Sam sold three of the bottles. Did Sam sell at least two of the bottles?", Yes.,1
+3,at least two-three,"Half of the pastries are warm. Are half of the pastries warm? Yes.
+Laura bought most of the chocolates. Did Laura buy three of the chocolates? Maybe.
+The singer wanted exactly two of the backpacks. Did the singer want one of the backpacks? No.
+Mary saw at least two of the performers. Did Mary see three of the performers?", Maybe.,1
+3,three-three,"Half of the pastries are warm. Are half of the pastries warm? Yes.
+Laura bought most of the chocolates. Did Laura buy three of the chocolates? Maybe.
+The singer wanted exactly two of the backpacks. Did the singer want one of the backpacks? No.
+Three of the pretzels are expensive. Are three of the pretzels expensive?", Yes.,1
+3,at least two-at least two,"Half of the pastries are warm. Are half of the pastries warm? Yes.
+Laura bought most of the chocolates. Did Laura buy three of the chocolates? Maybe.
+The singer wanted exactly two of the backpacks. Did the singer want one of the backpacks? No.
+The woman wanted at least two of the keyrings. Did the woman want at least two of the keyrings?", Yes.,1
+3,two-three,"The actor noticed half of the peanuts. Did the actor notice three of the peanuts? Maybe.
+Two of the sandwiches are cold. Are some of the sandwiches cold? Yes.
+Sam got all of the pretzels. Did Sam get none of the pretzels? No.
+Lucy liked two of the apples. Did Lucy like three of the apples?", No.,1
+3,three-two,"The actor noticed half of the peanuts. Did the actor notice three of the peanuts? Maybe.
+Two of the sandwiches are cold. Are some of the sandwiches cold? Yes.
+Sam got all of the pretzels. Did Sam get none of the pretzels? No.
+Lucy ate three of the chocolates. Did Lucy eat two of the chocolates?", Maybe.,0
+3,three-at least two,"The actor noticed half of the peanuts. Did the actor notice three of the peanuts? Maybe.
+Two of the sandwiches are cold. Are some of the sandwiches cold? Yes.
+Sam got all of the pretzels. Did Sam get none of the pretzels? No.
+Bill got three of the mugs. Did Bill get at least two of the mugs?", Yes.,1
+3,at least two-three,"The actor noticed half of the peanuts. Did the actor notice three of the peanuts? Maybe.
+Two of the sandwiches are cold. Are some of the sandwiches cold? Yes.
+Sam got all of the pretzels. Did Sam get none of the pretzels? No.
+Sophie sold at least two of the hats. Did Sophie sell three of the hats?", Maybe.,1
+3,three-three,"The actor noticed half of the peanuts. Did the actor notice three of the peanuts? Maybe.
+Two of the sandwiches are cold. Are some of the sandwiches cold? Yes.
+Sam got all of the pretzels. Did Sam get none of the pretzels? No.
+Bill bought three of the scarves. Did Bill buy three of the scarves?", Yes.,1
+3,at least two-at least two,"The actor noticed half of the peanuts. Did the actor notice three of the peanuts? Maybe.
+Two of the sandwiches are cold. Are some of the sandwiches cold? Yes.
+Sam got all of the pretzels. Did Sam get none of the pretzels? No.
+Jim got at least two of the apples. Did Jim get at least two of the apples?", Yes.,1
+3,two-three,"Sophie spotted three of the dogs. Did Sophie spot more than two of the dogs? Yes.
+Sidney spotted exactly two of the adverts. Did Sidney spot one of the adverts? No.
+John ordered two of the toys. Did John order all of the toys? Maybe.
+Laura saw two of the cats. Did Laura see three of the cats?", No.,1
+3,three-two,"Sophie spotted three of the dogs. Did Sophie spot more than two of the dogs? Yes.
+Sidney spotted exactly two of the adverts. Did Sidney spot one of the adverts? No.
+John ordered two of the toys. Did John order all of the toys? Maybe.
+Lucy ate three of the pretzels. Did Lucy eat two of the pretzels?", No.,0
+3,three-at least two,"Sophie spotted three of the dogs. Did Sophie spot more than two of the dogs? Yes.
+Sidney spotted exactly two of the adverts. Did Sidney spot one of the adverts? No.
+John ordered two of the toys. Did John order all of the toys? Maybe.
+Bill spotted three of the pastries. Did Bill spot at least two of the pastries?", Yes.,1
+3,at least two-three,"Sophie spotted three of the dogs. Did Sophie spot more than two of the dogs? Yes.
+Sidney spotted exactly two of the adverts. Did Sidney spot one of the adverts? No.
+John ordered two of the toys. Did John order all of the toys? Maybe.
+Robin bought at least two of the cherries. Did Robin buy three of the cherries?", No.,0
+3,three-three,"Sophie spotted three of the dogs. Did Sophie spot more than two of the dogs? Yes.
+Sidney spotted exactly two of the adverts. Did Sidney spot one of the adverts? No.
+John ordered two of the toys. Did John order all of the toys? Maybe.
+The actress saw three of the adverts. Did the actress see three of the adverts?", Yes.,1
+3,at least two-at least two,"Sophie spotted three of the dogs. Did Sophie spot more than two of the dogs? Yes.
+Sidney spotted exactly two of the adverts. Did Sidney spot one of the adverts? No.
+John ordered two of the toys. Did John order all of the toys? Maybe.
+The man saw at least two of the mugs. Did the man see at least two of the mugs?", Yes.,1
+3,two-three,"Jim ate both of the strawberries. Did Jim eat both of the strawberries? Yes.
+Michael got most of the bagels. Did Michael get none of the bagels? No.
+Laura sold two of the cupcakes. Did Laura sell all of the cupcakes? Maybe.
+Sidney had two of the pancakes. Did Sidney have three of the pancakes?", No.,1
+3,three-two,"Jim ate both of the strawberries. Did Jim eat both of the strawberries? Yes.
+Michael got most of the bagels. Did Michael get none of the bagels? No.
+Laura sold two of the cupcakes. Did Laura sell all of the cupcakes? Maybe.
+Sally purchased three of the toys. Did Sally purchase two of the toys?", No.,0
+3,three-at least two,"Jim ate both of the strawberries. Did Jim eat both of the strawberries? Yes.
+Michael got most of the bagels. Did Michael get none of the bagels? No.
+Laura sold two of the cupcakes. Did Laura sell all of the cupcakes? Maybe.
+Three of the bagels are cheap. Are at least two of the bagels cheap?", Yes.,1
+3,at least two-three,"Jim ate both of the strawberries. Did Jim eat both of the strawberries? Yes.
+Michael got most of the bagels. Did Michael get none of the bagels? No.
+Laura sold two of the cupcakes. Did Laura sell all of the cupcakes? Maybe.
+Sidney saw at least two of the strawberries. Did Sidney see three of the strawberries?", Maybe.,1
+3,three-three,"Jim ate both of the strawberries. Did Jim eat both of the strawberries? Yes.
+Michael got most of the bagels. Did Michael get none of the bagels? No.
+Laura sold two of the cupcakes. Did Laura sell all of the cupcakes? Maybe.
+Robin purchased three of the chocolates. Did Robin purchase three of the chocolates?", No.,0
+3,at least two-at least two,"Jim ate both of the strawberries. Did Jim eat both of the strawberries? Yes.
+Michael got most of the bagels. Did Michael get none of the bagels? No.
+Laura sold two of the cupcakes. Did Laura sell all of the cupcakes? Maybe.
+Mark ordered at least two of the toys. Did Mark order at least two of the toys?", Maybe.,0
+3,two-three,"Most of the pancakes are impressive. Are none of the pancakes impressive? No.
+Both of the bottles are red. Are both of the bottles red? Yes.
+Robin got most of the peanuts. Did Robin get three of the peanuts? Maybe.
+Michael spotted two of the shirts. Did Michael spot three of the shirts?", No.,1
+3,three-two,"Most of the pancakes are impressive. Are none of the pancakes impressive? No.
+Both of the bottles are red. Are both of the bottles red? Yes.
+Robin got most of the peanuts. Did Robin get three of the peanuts? Maybe.
+The actress bought three of the shoes. Did the actress buy two of the shoes?", No.,0
+3,three-at least two,"Most of the pancakes are impressive. Are none of the pancakes impressive? No.
+Both of the bottles are red. Are both of the bottles red? Yes.
+Robin got most of the peanuts. Did Robin get three of the peanuts? Maybe.
+Sam got three of the mugs. Did Sam get at least two of the mugs?", Yes.,1
+3,at least two-three,"Most of the pancakes are impressive. Are none of the pancakes impressive? No.
+Both of the bottles are red. Are both of the bottles red? Yes.
+Robin got most of the peanuts. Did Robin get three of the peanuts? Maybe.
+Sophie owned at least two of the toys. Did Sophie own three of the toys?", No.,0
+3,three-three,"Most of the pancakes are impressive. Are none of the pancakes impressive? No.
+Both of the bottles are red. Are both of the bottles red? Yes.
+Robin got most of the peanuts. Did Robin get three of the peanuts? Maybe.
+John owned three of the cakes. Did John own three of the cakes?", No.,0
+3,at least two-at least two,"Most of the pancakes are impressive. Are none of the pancakes impressive? No.
+Both of the bottles are red. Are both of the bottles red? Yes.
+Robin got most of the peanuts. Did Robin get three of the peanuts? Maybe.
+At least two of the umbrellas are green. Are at least two of the umbrellas green?", Yes.,1
+3,two-three,"The man bought most of the umbrellas. Did the man buy three of the umbrellas? Maybe.
+Exactly two of the cherries are on sale. Are three of the cherries on sale? No.
+The actress purchased some of the cherries. Did the actress purchase two of the cherries? Yes.
+Two of the tickets are blue. Are three of the tickets blue?", No.,1
+3,three-two,"The man bought most of the umbrellas. Did the man buy three of the umbrellas? Maybe.
+Exactly two of the cherries are on sale. Are three of the cherries on sale? No.
+The actress purchased some of the cherries. Did the actress purchase two of the cherries? Yes.
+The actress ate three of the bagels. Did the actress eat two of the bagels?", No.,0
+3,three-at least two,"The man bought most of the umbrellas. Did the man buy three of the umbrellas? Maybe.
+Exactly two of the cherries are on sale. Are three of the cherries on sale? No.
+The actress purchased some of the cherries. Did the actress purchase two of the cherries? Yes.
+The actress got three of the bottles. Did the actress get at least two of the bottles?", Yes.,1
+3,at least two-three,"The man bought most of the umbrellas. Did the man buy three of the umbrellas? Maybe.
+Exactly two of the cherries are on sale. Are three of the cherries on sale? No.
+The actress purchased some of the cherries. Did the actress purchase two of the cherries? Yes.
+The actress got at least two of the strawberries. Did the actress get three of the strawberries?", No.,0
+3,three-three,"The man bought most of the umbrellas. Did the man buy three of the umbrellas? Maybe.
+Exactly two of the cherries are on sale. Are three of the cherries on sale? No.
+The actress purchased some of the cherries. Did the actress purchase two of the cherries? Yes.
+Bill got three of the sandwiches. Did Bill get three of the sandwiches?", Yes.,1
+3,at least two-at least two,"The man bought most of the umbrellas. Did the man buy three of the umbrellas? Maybe.
+Exactly two of the cherries are on sale. Are three of the cherries on sale? No.
+The actress purchased some of the cherries. Did the actress purchase two of the cherries? Yes.
+Sophie bought at least two of the pancakes. Did Sophie buy at least two of the pancakes?", Yes.,1
+3,two-three,"Jo got some of the pretzels. Did Jo get two of the pretzels? Yes.
+The singer sold most of the pastries. Did the singer sell none of the pastries? No.
+Sophie purchased two of the scarves. Did Sophie purchase all of the scarves? Maybe.
+Two of the shirts are red. Are three of the shirts red?", No.,1
+3,three-two,"Jo got some of the pretzels. Did Jo get two of the pretzels? Yes.
+The singer sold most of the pastries. Did the singer sell none of the pastries? No.
+Sophie purchased two of the scarves. Did Sophie purchase all of the scarves? Maybe.
+Mark wanted three of the sweaters. Did Mark want two of the sweaters?", No.,0
+3,three-at least two,"Jo got some of the pretzels. Did Jo get two of the pretzels? Yes.
+The singer sold most of the pastries. Did the singer sell none of the pastries? No.
+Sophie purchased two of the scarves. Did Sophie purchase all of the scarves? Maybe.
+Three of the backpacks are orange. Are at least two of the backpacks orange?", Yes.,1
+3,at least two-three,"Jo got some of the pretzels. Did Jo get two of the pretzels? Yes.
+The singer sold most of the pastries. Did the singer sell none of the pastries? No.
+Sophie purchased two of the scarves. Did Sophie purchase all of the scarves? Maybe.
+Michael spotted at least two of the pastries. Did Michael spot three of the pastries?", Maybe.,1
+3,three-three,"Jo got some of the pretzels. Did Jo get two of the pretzels? Yes.
+The singer sold most of the pastries. Did the singer sell none of the pastries? No.
+Sophie purchased two of the scarves. Did Sophie purchase all of the scarves? Maybe.
+The man saw three of the giraffes. Did the man see three of the giraffes?", Yes.,1
+3,at least two-at least two,"Jo got some of the pretzels. Did Jo get two of the pretzels? Yes.
+The singer sold most of the pastries. Did the singer sell none of the pastries? No.
+Sophie purchased two of the scarves. Did Sophie purchase all of the scarves? Maybe.
+At least two of the keyrings are yellow. Are at least two of the keyrings yellow?", Yes.,1
+3,two-three,"Jim ordered two of the snacks. Did Jim order all of the snacks? Maybe.
+Some of the cherries are delicious. Are two of the cherries delicious? Yes.
+The actress ate several of the strawberries. Did the actress eat none of the strawberries? No.
+John noticed two of the oranges. Did John notice three of the oranges?", No.,1
+3,three-two,"Jim ordered two of the snacks. Did Jim order all of the snacks? Maybe.
+Some of the cherries are delicious. Are two of the cherries delicious? Yes.
+The actress ate several of the strawberries. Did the actress eat none of the strawberries? No.
+Mark had three of the cars. Did Mark have two of the cars?", No.,0
+3,three-at least two,"Jim ordered two of the snacks. Did Jim order all of the snacks? Maybe.
+Some of the cherries are delicious. Are two of the cherries delicious? Yes.
+The actress ate several of the strawberries. Did the actress eat none of the strawberries? No.
+Sidney spotted three of the scarves. Did Sidney spot at least two of the scarves?", Yes.,1
+3,at least two-three,"Jim ordered two of the snacks. Did Jim order all of the snacks? Maybe.
+Some of the cherries are delicious. Are two of the cherries delicious? Yes.
+The actress ate several of the strawberries. Did the actress eat none of the strawberries? No.
+The woman had at least two of the cherries. Did the woman have three of the cherries?", No.,0
+3,three-three,"Jim ordered two of the snacks. Did Jim order all of the snacks? Maybe.
+Some of the cherries are delicious. Are two of the cherries delicious? Yes.
+The actress ate several of the strawberries. Did the actress eat none of the strawberries? No.
+Michael noticed three of the strawberries. Did Michael notice three of the strawberries?", Yes.,1
+3,at least two-at least two,"Jim ordered two of the snacks. Did Jim order all of the snacks? Maybe.
+Some of the cherries are delicious. Are two of the cherries delicious? Yes.
+The actress ate several of the strawberries. Did the actress eat none of the strawberries? No.
+Adam saw at least two of the cakes. Did Adam see at least two of the cakes?", Yes.,1
+3,two-three,"Mary purchased two of the cars. Did Mary purchase more than one of the cars? Yes.
+Robin saw several of the stores. Did Robin see none of the stores? No.
+Half of the stores are impressive. Are three of the stores impressive? Maybe.
+Two of the backpacks are yellow. Are three of the backpacks yellow?", No.,1
+3,three-two,"Mary purchased two of the cars. Did Mary purchase more than one of the cars? Yes.
+Robin saw several of the stores. Did Robin see none of the stores? No.
+Half of the stores are impressive. Are three of the stores impressive? Maybe.
+Three of the sandwiches are on sale. Are two of the sandwiches on sale?", No.,0
+3,three-at least two,"Mary purchased two of the cars. Did Mary purchase more than one of the cars? Yes.
+Robin saw several of the stores. Did Robin see none of the stores? No.
+Half of the stores are impressive. Are three of the stores impressive? Maybe.
+Adam bought three of the keyrings. Did Adam buy at least two of the keyrings?", Yes.,1
+3,at least two-three,"Mary purchased two of the cars. Did Mary purchase more than one of the cars? Yes.
+Robin saw several of the stores. Did Robin see none of the stores? No.
+Half of the stores are impressive. Are three of the stores impressive? Maybe.
+Mark bought at least two of the hats. Did Mark buy three of the hats?", Maybe.,1
+3,three-three,"Mary purchased two of the cars. Did Mary purchase more than one of the cars? Yes.
+Robin saw several of the stores. Did Robin see none of the stores? No.
+Half of the stores are impressive. Are three of the stores impressive? Maybe.
+Sophie bought three of the churros. Did Sophie buy three of the churros?", Yes.,1
+3,at least two-at least two,"Mary purchased two of the cars. Did Mary purchase more than one of the cars? Yes.
+Robin saw several of the stores. Did Robin see none of the stores? No.
+Half of the stores are impressive. Are three of the stores impressive? Maybe.
+The actor ordered at least two of the burgers. Did the actor order at least two of the burgers?", Yes.,1
+3,two-three,"Laura noticed two of the cupcakes. Did Laura notice half of the cupcakes? Maybe.
+Three of the burgers are expensive. Are more than two of the burgers expensive? Yes.
+The singer ate most of the peanuts. Did the singer eat none of the peanuts? No.
+Two of the cats are colourful. Are three of the cats colourful?", No.,1
+3,three-two,"Laura noticed two of the cupcakes. Did Laura notice half of the cupcakes? Maybe.
+Three of the burgers are expensive. Are more than two of the burgers expensive? Yes.
+The singer ate most of the peanuts. Did the singer eat none of the peanuts? No.
+Sally got three of the cars. Did Sally get two of the cars?", Yes.,1
+3,three-at least two,"Laura noticed two of the cupcakes. Did Laura notice half of the cupcakes? Maybe.
+Three of the burgers are expensive. Are more than two of the burgers expensive? Yes.
+The singer ate most of the peanuts. Did the singer eat none of the peanuts? No.
+The actor got three of the bottles. Did the actor get at least two of the bottles?", Yes.,1
+3,at least two-three,"Laura noticed two of the cupcakes. Did Laura notice half of the cupcakes? Maybe.
+Three of the burgers are expensive. Are more than two of the burgers expensive? Yes.
+The singer ate most of the peanuts. Did the singer eat none of the peanuts? No.
+Robin ordered at least two of the hats. Did Robin order three of the hats?", Yes.,0
+3,three-three,"Laura noticed two of the cupcakes. Did Laura notice half of the cupcakes? Maybe.
+Three of the burgers are expensive. Are more than two of the burgers expensive? Yes.
+The singer ate most of the peanuts. Did the singer eat none of the peanuts? No.
+The actor ordered three of the scarves. Did the actor order three of the scarves?", Yes.,1
+3,at least two-at least two,"Laura noticed two of the cupcakes. Did Laura notice half of the cupcakes? Maybe.
+Three of the burgers are expensive. Are more than two of the burgers expensive? Yes.
+The singer ate most of the peanuts. Did the singer eat none of the peanuts? No.
+At least two of the burgers are cold. Are at least two of the burgers cold?", Yes.,1
+3,two-three,"The teacher purchased half of the shoes. Did the teacher purchase three of the shoes? Maybe.
+All of the keyrings are on sale. Are none of the keyrings on sale? No.
+Some of the hats are yellow. Are two of the hats yellow? Yes.
+Two of the toys are green. Are three of the toys green?", No.,1
+3,three-two,"The teacher purchased half of the shoes. Did the teacher purchase three of the shoes? Maybe.
+All of the keyrings are on sale. Are none of the keyrings on sale? No.
+Some of the hats are yellow. Are two of the hats yellow? Yes.
+The actor ate three of the snacks. Did the actor eat two of the snacks?", Maybe.,0
+3,three-at least two,"The teacher purchased half of the shoes. Did the teacher purchase three of the shoes? Maybe.
+All of the keyrings are on sale. Are none of the keyrings on sale? No.
+Some of the hats are yellow. Are two of the hats yellow? Yes.
+Ann sold three of the scarves. Did Ann sell at least two of the scarves?", Yes.,1
+3,at least two-three,"The teacher purchased half of the shoes. Did the teacher purchase three of the shoes? Maybe.
+All of the keyrings are on sale. Are none of the keyrings on sale? No.
+Some of the hats are yellow. Are two of the hats yellow? Yes.
+Sally spotted at least two of the scarves. Did Sally spot three of the scarves?", Maybe.,1
+3,three-three,"The teacher purchased half of the shoes. Did the teacher purchase three of the shoes? Maybe.
+All of the keyrings are on sale. Are none of the keyrings on sale? No.
+Some of the hats are yellow. Are two of the hats yellow? Yes.
+Three of the snacks are colourful. Are three of the snacks colourful?", Yes.,1
+3,at least two-at least two,"The teacher purchased half of the shoes. Did the teacher purchase three of the shoes? Maybe.
+All of the keyrings are on sale. Are none of the keyrings on sale? No.
+Some of the hats are yellow. Are two of the hats yellow? Yes.
+Michael liked at least two of the cherries. Did Michael like at least two of the cherries?", Yes.,1
+3,two-three,"Jo noticed all of the cats. Did Jo notice none of the cats? No.
+Sophie liked half of the scarves. Did Sophie like some of the scarves? Yes.
+Mary ate most of the cherries. Did Mary eat three of the cherries? Maybe.
+Laura liked two of the candles. Did Laura like three of the candles?", No.,1
+3,three-two,"Jo noticed all of the cats. Did Jo notice none of the cats? No.
+Sophie liked half of the scarves. Did Sophie like some of the scarves? Yes.
+Mary ate most of the cherries. Did Mary eat three of the cherries? Maybe.
+Jo owned three of the backpacks. Did Jo own two of the backpacks?", No.,0
+3,three-at least two,"Jo noticed all of the cats. Did Jo notice none of the cats? No.
+Sophie liked half of the scarves. Did Sophie like some of the scarves? Yes.
+Mary ate most of the cherries. Did Mary eat three of the cherries? Maybe.
+Lucy bought three of the chocolates. Did Lucy buy at least two of the chocolates?", Yes.,1
+3,at least two-three,"Jo noticed all of the cats. Did Jo notice none of the cats? No.
+Sophie liked half of the scarves. Did Sophie like some of the scarves? Yes.
+Mary ate most of the cherries. Did Mary eat three of the cherries? Maybe.
+Bill purchased at least two of the cakes. Did Bill purchase three of the cakes?", No.,0
+3,three-three,"Jo noticed all of the cats. Did Jo notice none of the cats? No.
+Sophie liked half of the scarves. Did Sophie like some of the scarves? Yes.
+Mary ate most of the cherries. Did Mary eat three of the cherries? Maybe.
+Three of the hats are green. Are three of the hats green?", Yes.,1
+3,at least two-at least two,"Jo noticed all of the cats. Did Jo notice none of the cats? No.
+Sophie liked half of the scarves. Did Sophie like some of the scarves? Yes.
+Mary ate most of the cherries. Did Mary eat three of the cherries? Maybe.
+The woman saw at least two of the shirts. Did the woman see at least two of the shirts?", Yes.,1
+3,two-three,"Three of the backpacks are red. Are more than two of the backpacks red? Yes.
+Bill had several of the snacks. Did Bill have none of the snacks? No.
+Sidney wanted half of the oranges. Did Sidney want three of the oranges? Maybe.
+Robin ordered two of the strawberries. Did Robin order three of the strawberries?", No.,1
+3,three-two,"Three of the backpacks are red. Are more than two of the backpacks red? Yes.
+Bill had several of the snacks. Did Bill have none of the snacks? No.
+Sidney wanted half of the oranges. Did Sidney want three of the oranges? Maybe.
+The man got three of the umbrellas. Did the man get two of the umbrellas?", No.,0
+3,three-at least two,"Three of the backpacks are red. Are more than two of the backpacks red? Yes.
+Bill had several of the snacks. Did Bill have none of the snacks? No.
+Sidney wanted half of the oranges. Did Sidney want three of the oranges? Maybe.
+John ate three of the oranges. Did John eat at least two of the oranges?", Yes.,1
+3,at least two-three,"Three of the backpacks are red. Are more than two of the backpacks red? Yes.
+Bill had several of the snacks. Did Bill have none of the snacks? No.
+Sidney wanted half of the oranges. Did Sidney want three of the oranges? Maybe.
+Laura ordered at least two of the cars. Did Laura order three of the cars?", No.,0
+3,three-three,"Three of the backpacks are red. Are more than two of the backpacks red? Yes.
+Bill had several of the snacks. Did Bill have none of the snacks? No.
+Sidney wanted half of the oranges. Did Sidney want three of the oranges? Maybe.
+Jo noticed three of the churros. Did Jo notice three of the churros?", Maybe.,0
+3,at least two-at least two,"Three of the backpacks are red. Are more than two of the backpacks red? Yes.
+Bill had several of the snacks. Did Bill have none of the snacks? No.
+Sidney wanted half of the oranges. Did Sidney want three of the oranges? Maybe.
+At least two of the burgers are mouldy. Are at least two of the burgers mouldy?", Yes.,1
+3,two-three,"The actor spotted some of the tickets. Did the actor spot more than one of the tickets? Yes.
+The singer wanted most of the pancakes. Did the singer want three of the pancakes? Maybe.
+The actor purchased most of the peanuts. Did the actor purchase none of the peanuts? No.
+The singer spotted two of the peanuts. Did the singer spot three of the peanuts?", No.,1
+3,three-two,"The actor spotted some of the tickets. Did the actor spot more than one of the tickets? Yes.
+The singer wanted most of the pancakes. Did the singer want three of the pancakes? Maybe.
+The actor purchased most of the peanuts. Did the actor purchase none of the peanuts? No.
+The woman bought three of the cherries. Did the woman buy two of the cherries?", Maybe.,0
+3,three-at least two,"The actor spotted some of the tickets. Did the actor spot more than one of the tickets? Yes.
+The singer wanted most of the pancakes. Did the singer want three of the pancakes? Maybe.
+The actor purchased most of the peanuts. Did the actor purchase none of the peanuts? No.
+The singer sold three of the rings. Did the singer sell at least two of the rings?", Yes.,1
+3,at least two-three,"The actor spotted some of the tickets. Did the actor spot more than one of the tickets? Yes.
+The singer wanted most of the pancakes. Did the singer want three of the pancakes? Maybe.
+The actor purchased most of the peanuts. Did the actor purchase none of the peanuts? No.
+Adam had at least two of the chocolates. Did Adam have three of the chocolates?", Maybe.,1
+3,three-three,"The actor spotted some of the tickets. Did the actor spot more than one of the tickets? Yes.
+The singer wanted most of the pancakes. Did the singer want three of the pancakes? Maybe.
+The actor purchased most of the peanuts. Did the actor purchase none of the peanuts? No.
+Mark noticed three of the cupcakes. Did Mark notice three of the cupcakes?", Yes.,1
+3,at least two-at least two,"The actor spotted some of the tickets. Did the actor spot more than one of the tickets? Yes.
+The singer wanted most of the pancakes. Did the singer want three of the pancakes? Maybe.
+The actor purchased most of the peanuts. Did the actor purchase none of the peanuts? No.
+Michael spotted at least two of the shoes. Did Michael spot at least two of the shoes?", Yes.,1
+3,two-three,"Sidney owned two of the scarves. Did Sidney own all of the scarves? Maybe.
+Exactly two of the hats are orange. Are one of the hats orange? No.
+Sophie bought three of the keyrings. Did Sophie buy more than two of the keyrings? Yes.
+Two of the backpacks are yellow. Are three of the backpacks yellow?", No.,1
+3,three-two,"Sidney owned two of the scarves. Did Sidney own all of the scarves? Maybe.
+Exactly two of the hats are orange. Are one of the hats orange? No.
+Sophie bought three of the keyrings. Did Sophie buy more than two of the keyrings? Yes.
+Mark owned three of the strawberries. Did Mark own two of the strawberries?", No.,0
+3,three-at least two,"Sidney owned two of the scarves. Did Sidney own all of the scarves? Maybe.
+Exactly two of the hats are orange. Are one of the hats orange? No.
+Sophie bought three of the keyrings. Did Sophie buy more than two of the keyrings? Yes.
+Michael got three of the sweaters. Did Michael get at least two of the sweaters?", Yes.,1
+3,at least two-three,"Sidney owned two of the scarves. Did Sidney own all of the scarves? Maybe.
+Exactly two of the hats are orange. Are one of the hats orange? No.
+Sophie bought three of the keyrings. Did Sophie buy more than two of the keyrings? Yes.
+Sally ate at least two of the pastries. Did Sally eat three of the pastries?", No.,0
+3,three-three,"Sidney owned two of the scarves. Did Sidney own all of the scarves? Maybe.
+Exactly two of the hats are orange. Are one of the hats orange? No.
+Sophie bought three of the keyrings. Did Sophie buy more than two of the keyrings? Yes.
+The actress liked three of the pretzels. Did the actress like three of the pretzels?", No.,0
+3,at least two-at least two,"Sidney owned two of the scarves. Did Sidney own all of the scarves? Maybe.
+Exactly two of the hats are orange. Are one of the hats orange? No.
+Sophie bought three of the keyrings. Did Sophie buy more than two of the keyrings? Yes.
+Robin noticed at least two of the hats. Did Robin notice at least two of the hats?", Yes.,1
+3,two-three,"Sophie purchased most of the rings. Did Sophie purchase none of the rings? No.
+Sam spotted half of the pastries. Did Sam spot some of the pastries? Yes.
+Two of the mugs are cheap. Are half of the mugs cheap? Maybe.
+Adam owned two of the umbrellas. Did Adam own three of the umbrellas?", No.,1
+3,three-two,"Sophie purchased most of the rings. Did Sophie purchase none of the rings? No.
+Sam spotted half of the pastries. Did Sam spot some of the pastries? Yes.
+Two of the mugs are cheap. Are half of the mugs cheap? Maybe.
+Laura sold three of the tickets. Did Laura sell two of the tickets?", No.,0
+3,three-at least two,"Sophie purchased most of the rings. Did Sophie purchase none of the rings? No.
+Sam spotted half of the pastries. Did Sam spot some of the pastries? Yes.
+Two of the mugs are cheap. Are half of the mugs cheap? Maybe.
+The actor got three of the sandwiches. Did the actor get at least two of the sandwiches?", Yes.,1
+3,at least two-three,"Sophie purchased most of the rings. Did Sophie purchase none of the rings? No.
+Sam spotted half of the pastries. Did Sam spot some of the pastries? Yes.
+Two of the mugs are cheap. Are half of the mugs cheap? Maybe.
+Sam noticed at least two of the shirts. Did Sam notice three of the shirts?", No.,0
+3,three-three,"Sophie purchased most of the rings. Did Sophie purchase none of the rings? No.
+Sam spotted half of the pastries. Did Sam spot some of the pastries? Yes.
+Two of the mugs are cheap. Are half of the mugs cheap? Maybe.
+Three of the apples are cold. Are three of the apples cold?", Yes.,1
+3,at least two-at least two,"Sophie purchased most of the rings. Did Sophie purchase none of the rings? No.
+Sam spotted half of the pastries. Did Sam spot some of the pastries? Yes.
+Two of the mugs are cheap. Are half of the mugs cheap? Maybe.
+Sidney ate at least two of the sandwiches. Did Sidney eat at least two of the sandwiches?", Yes.,1
+3,two-three,"None of the strawberries are cold. Are some of the strawberries cold? No.
+Adam sold two of the cupcakes. Did Adam sell two of the cupcakes? Yes.
+Jo purchased two of the chocolates. Did Jo purchase half of the chocolates? Maybe.
+The actor noticed two of the mugs. Did the actor notice three of the mugs?", No.,1
+3,three-two,"None of the strawberries are cold. Are some of the strawberries cold? No.
+Adam sold two of the cupcakes. Did Adam sell two of the cupcakes? Yes.
+Jo purchased two of the chocolates. Did Jo purchase half of the chocolates? Maybe.
+Robin ordered three of the candles. Did Robin order two of the candles?", No.,0
+3,three-at least two,"None of the strawberries are cold. Are some of the strawberries cold? No.
+Adam sold two of the cupcakes. Did Adam sell two of the cupcakes? Yes.
+Jo purchased two of the chocolates. Did Jo purchase half of the chocolates? Maybe.
+Three of the mugs are impressive. Are at least two of the mugs impressive?", Yes.,1
+3,at least two-three,"None of the strawberries are cold. Are some of the strawberries cold? No.
+Adam sold two of the cupcakes. Did Adam sell two of the cupcakes? Yes.
+Jo purchased two of the chocolates. Did Jo purchase half of the chocolates? Maybe.
+Robin purchased at least two of the snacks. Did Robin purchase three of the snacks?", No.,0
+3,three-three,"None of the strawberries are cold. Are some of the strawberries cold? No.
+Adam sold two of the cupcakes. Did Adam sell two of the cupcakes? Yes.
+Jo purchased two of the chocolates. Did Jo purchase half of the chocolates? Maybe.
+The singer noticed three of the mugs. Did the singer notice three of the mugs?", No.,0
+3,at least two-at least two,"None of the strawberries are cold. Are some of the strawberries cold? No.
+Adam sold two of the cupcakes. Did Adam sell two of the cupcakes? Yes.
+Jo purchased two of the chocolates. Did Jo purchase half of the chocolates? Maybe.
+Mark ate at least two of the oranges. Did Mark eat at least two of the oranges?", Yes.,1
+3,two-three,"Robin had several of the umbrellas. Did Robin have none of the umbrellas? No.
+The teacher had two of the snacks. Did the teacher have some of the snacks? Yes.
+The teacher purchased half of the candles. Did the teacher purchase three of the candles? Maybe.
+The woman had two of the cupcakes. Did the woman have three of the cupcakes?", No.,1
+3,three-two,"Robin had several of the umbrellas. Did Robin have none of the umbrellas? No.
+The teacher had two of the snacks. Did the teacher have some of the snacks? Yes.
+The teacher purchased half of the candles. Did the teacher purchase three of the candles? Maybe.
+Three of the cherries are mouldy. Are two of the cherries mouldy?", No.,0
+3,three-at least two,"Robin had several of the umbrellas. Did Robin have none of the umbrellas? No.
+The teacher had two of the snacks. Did the teacher have some of the snacks? Yes.
+The teacher purchased half of the candles. Did the teacher purchase three of the candles? Maybe.
+Three of the cats are colourful. Are at least two of the cats colourful?", Yes.,1
+3,at least two-three,"Robin had several of the umbrellas. Did Robin have none of the umbrellas? No.
+The teacher had two of the snacks. Did the teacher have some of the snacks? Yes.
+The teacher purchased half of the candles. Did the teacher purchase three of the candles? Maybe.
+Sophie had at least two of the hats. Did Sophie have three of the hats?", No.,0
+3,three-three,"Robin had several of the umbrellas. Did Robin have none of the umbrellas? No.
+The teacher had two of the snacks. Did the teacher have some of the snacks? Yes.
+The teacher purchased half of the candles. Did the teacher purchase three of the candles? Maybe.
+Three of the toys are pretty. Are three of the toys pretty?", Yes.,1
+3,at least two-at least two,"Robin had several of the umbrellas. Did Robin have none of the umbrellas? No.
+The teacher had two of the snacks. Did the teacher have some of the snacks? Yes.
+The teacher purchased half of the candles. Did the teacher purchase three of the candles? Maybe.
+Michael sold at least two of the backpacks. Did Michael sell at least two of the backpacks?", Yes.,1
+3,two-three,"The actress ate none of the peanuts. Did the actress eat several of the peanuts? No.
+Sally got most of the bagels. Did Sally get three of the bagels? Maybe.
+Three of the tickets are red. Are more than two of the tickets red? Yes.
+Two of the strawberries are cold. Are three of the strawberries cold?", No.,1
+3,three-two,"The actress ate none of the peanuts. Did the actress eat several of the peanuts? No.
+Sally got most of the bagels. Did Sally get three of the bagels? Maybe.
+Three of the tickets are red. Are more than two of the tickets red? Yes.
+The actress wanted three of the oranges. Did the actress want two of the oranges?", No.,0
+3,three-at least two,"The actress ate none of the peanuts. Did the actress eat several of the peanuts? No.
+Sally got most of the bagels. Did Sally get three of the bagels? Maybe.
+Three of the tickets are red. Are more than two of the tickets red? Yes.
+Three of the cherries are cheap. Are at least two of the cherries cheap?", Yes.,1
+3,at least two-three,"The actress ate none of the peanuts. Did the actress eat several of the peanuts? No.
+Sally got most of the bagels. Did Sally get three of the bagels? Maybe.
+Three of the tickets are red. Are more than two of the tickets red? Yes.
+The actress saw at least two of the shoes. Did the actress see three of the shoes?", Maybe.,1
+3,three-three,"The actress ate none of the peanuts. Did the actress eat several of the peanuts? No.
+Sally got most of the bagels. Did Sally get three of the bagels? Maybe.
+Three of the tickets are red. Are more than two of the tickets red? Yes.
+Lucy wanted three of the shoes. Did Lucy want three of the shoes?", Yes.,1
+3,at least two-at least two,"The actress ate none of the peanuts. Did the actress eat several of the peanuts? No.
+Sally got most of the bagels. Did Sally get three of the bagels? Maybe.
+Three of the tickets are red. Are more than two of the tickets red? Yes.
+Mark ate at least two of the pastries. Did Mark eat at least two of the pastries?", Maybe.,0
+3,two-three,"Sidney had half of the cupcakes. Did Sidney have three of the cupcakes? Maybe.
+Sally noticed several of the bottles. Did Sally notice none of the bottles? No.
+Sally liked some of the pastries. Did Sally like two of the pastries? Yes.
+Jo sold two of the hats. Did Jo sell three of the hats?", No.,1
+3,three-two,"Sidney had half of the cupcakes. Did Sidney have three of the cupcakes? Maybe.
+Sally noticed several of the bottles. Did Sally notice none of the bottles? No.
+Sally liked some of the pastries. Did Sally like two of the pastries? Yes.
+Three of the pretzels are cold. Are two of the pretzels cold?", No.,0
+3,three-at least two,"Sidney had half of the cupcakes. Did Sidney have three of the cupcakes? Maybe.
+Sally noticed several of the bottles. Did Sally notice none of the bottles? No.
+Sally liked some of the pastries. Did Sally like two of the pastries? Yes.
+Three of the pretzels are cheap. Are at least two of the pretzels cheap?", Yes.,1
+3,at least two-three,"Sidney had half of the cupcakes. Did Sidney have three of the cupcakes? Maybe.
+Sally noticed several of the bottles. Did Sally notice none of the bottles? No.
+Sally liked some of the pastries. Did Sally like two of the pastries? Yes.
+The actor bought at least two of the strawberries. Did the actor buy three of the strawberries?", No.,0
+3,three-three,"Sidney had half of the cupcakes. Did Sidney have three of the cupcakes? Maybe.
+Sally noticed several of the bottles. Did Sally notice none of the bottles? No.
+Sally liked some of the pastries. Did Sally like two of the pastries? Yes.
+Three of the sweaters are sold out. Are three of the sweaters sold out?", Yes.,1
+3,at least two-at least two,"Sidney had half of the cupcakes. Did Sidney have three of the cupcakes? Maybe.
+Sally noticed several of the bottles. Did Sally notice none of the bottles? No.
+Sally liked some of the pastries. Did Sally like two of the pastries? Yes.
+Sam sold at least two of the burgers. Did Sam sell at least two of the burgers?", Yes.,1
+3,two-three,"Most of the shoes are blue. Are three of the shoes blue? Maybe.
+Jim liked three of the candles. Did Jim like more than two of the candles? Yes.
+Jo owned all of the chocolates. Did Jo own none of the chocolates? No.
+Adam liked two of the tickets. Did Adam like three of the tickets?", No.,1
+3,three-two,"Most of the shoes are blue. Are three of the shoes blue? Maybe.
+Jim liked three of the candles. Did Jim like more than two of the candles? Yes.
+Jo owned all of the chocolates. Did Jo own none of the chocolates? No.
+Adam sold three of the pancakes. Did Adam sell two of the pancakes?", No.,0
+3,three-at least two,"Most of the shoes are blue. Are three of the shoes blue? Maybe.
+Jim liked three of the candles. Did Jim like more than two of the candles? Yes.
+Jo owned all of the chocolates. Did Jo own none of the chocolates? No.
+Three of the pancakes are mouldy. Are at least two of the pancakes mouldy?", Yes.,1
+3,at least two-three,"Most of the shoes are blue. Are three of the shoes blue? Maybe.
+Jim liked three of the candles. Did Jim like more than two of the candles? Yes.
+Jo owned all of the chocolates. Did Jo own none of the chocolates? No.
+The woman noticed at least two of the dogs. Did the woman notice three of the dogs?", Maybe.,1
+3,three-three,"Most of the shoes are blue. Are three of the shoes blue? Maybe.
+Jim liked three of the candles. Did Jim like more than two of the candles? Yes.
+Jo owned all of the chocolates. Did Jo own none of the chocolates? No.
+Mary liked three of the sweaters. Did Mary like three of the sweaters?", Yes.,1
+3,at least two-at least two,"Most of the shoes are blue. Are three of the shoes blue? Maybe.
+Jim liked three of the candles. Did Jim like more than two of the candles? Yes.
+Jo owned all of the chocolates. Did Jo own none of the chocolates? No.
+At least two of the pancakes are impressive. Are at least two of the pancakes impressive?", Yes.,1
+3,two-three,"John ate some of the strawberries. Did John eat two of the strawberries? Yes.
+Most of the bottles are yellow. Are three of the bottles yellow? Maybe.
+Jim saw exactly two of the shirts. Did Jim see none of the shirts? No.
+Two of the cakes are on sale. Are three of the cakes on sale?", No.,1
+3,three-two,"John ate some of the strawberries. Did John eat two of the strawberries? Yes.
+Most of the bottles are yellow. Are three of the bottles yellow? Maybe.
+Jim saw exactly two of the shirts. Did Jim see none of the shirts? No.
+Bill ordered three of the bagels. Did Bill order two of the bagels?", Yes.,1
+3,three-at least two,"John ate some of the strawberries. Did John eat two of the strawberries? Yes.
+Most of the bottles are yellow. Are three of the bottles yellow? Maybe.
+Jim saw exactly two of the shirts. Did Jim see none of the shirts? No.
+John purchased three of the rings. Did John purchase at least two of the rings?", Yes.,1
+3,at least two-three,"John ate some of the strawberries. Did John eat two of the strawberries? Yes.
+Most of the bottles are yellow. Are three of the bottles yellow? Maybe.
+Jim saw exactly two of the shirts. Did Jim see none of the shirts? No.
+The man noticed at least two of the dogs. Did the man notice three of the dogs?", Maybe.,1
+3,three-three,"John ate some of the strawberries. Did John eat two of the strawberries? Yes.
+Most of the bottles are yellow. Are three of the bottles yellow? Maybe.
+Jim saw exactly two of the shirts. Did Jim see none of the shirts? No.
+The woman ate three of the pretzels. Did the woman eat three of the pretzels?", Yes.,1
+3,at least two-at least two,"John ate some of the strawberries. Did John eat two of the strawberries? Yes.
+Most of the bottles are yellow. Are three of the bottles yellow? Maybe.
+Jim saw exactly two of the shirts. Did Jim see none of the shirts? No.
+Robin noticed at least two of the pretzels. Did Robin notice at least two of the pretzels?", Yes.,1
+4,two-three,"Several of the bottles are red. Are none of the bottles red? No.
+Sam purchased half of the apples. Did Sam purchase three of the apples? Maybe.
+Sophie ate three of the pretzels. Did Sophie eat more than two of the pretzels? Yes.
+Mark saw half of the pastries. Did Mark see three of the pastries? Maybe.
+The woman purchased two of the strawberries. Did the woman purchase three of the strawberries?", No.,1
+4,three-two,"Several of the bottles are red. Are none of the bottles red? No.
+Sam purchased half of the apples. Did Sam purchase three of the apples? Maybe.
+Sophie ate three of the pretzels. Did Sophie eat more than two of the pretzels? Yes.
+Mark saw half of the pastries. Did Mark see three of the pastries? Maybe.
+Ann owned three of the candles. Did Ann own two of the candles?", Maybe.,0
+4,three-at least two,"Several of the bottles are red. Are none of the bottles red? No.
+Sam purchased half of the apples. Did Sam purchase three of the apples? Maybe.
+Sophie ate three of the pretzels. Did Sophie eat more than two of the pretzels? Yes.
+Mark saw half of the pastries. Did Mark see three of the pastries? Maybe.
+Three of the umbrellas are orange. Are at least two of the umbrellas orange?", Yes.,1
+4,at least two-three,"Several of the bottles are red. Are none of the bottles red? No.
+Sam purchased half of the apples. Did Sam purchase three of the apples? Maybe.
+Sophie ate three of the pretzels. Did Sophie eat more than two of the pretzels? Yes.
+Mark saw half of the pastries. Did Mark see three of the pastries? Maybe.
+At least two of the cars are orange. Are three of the cars orange?", No.,0
+4,three-three,"Several of the bottles are red. Are none of the bottles red? No.
+Sam purchased half of the apples. Did Sam purchase three of the apples? Maybe.
+Sophie ate three of the pretzels. Did Sophie eat more than two of the pretzels? Yes.
+Mark saw half of the pastries. Did Mark see three of the pastries? Maybe.
+The teacher saw three of the pancakes. Did the teacher see three of the pancakes?", Yes.,1
+4,at least two-at least two,"Several of the bottles are red. Are none of the bottles red? No.
+Sam purchased half of the apples. Did Sam purchase three of the apples? Maybe.
+Sophie ate three of the pretzels. Did Sophie eat more than two of the pretzels? Yes.
+Mark saw half of the pastries. Did Mark see three of the pastries? Maybe.
+The actress ate at least two of the pancakes. Did the actress eat at least two of the pancakes?", Yes.,1
+4,two-three,"Half of the bottles are blue. Are half of the bottles blue? Yes.
+Lucy bought two of the burgers. Did Lucy buy half of the burgers? Maybe.
+Sally owned several of the shirts. Did Sally own none of the shirts? No.
+The actress purchased half of the pastries. Did the actress purchase three of the pastries? Maybe.
+The teacher wanted two of the pretzels. Did the teacher want three of the pretzels?", No.,1
+4,three-two,"Half of the bottles are blue. Are half of the bottles blue? Yes.
+Lucy bought two of the burgers. Did Lucy buy half of the burgers? Maybe.
+Sally owned several of the shirts. Did Sally own none of the shirts? No.
+The actress purchased half of the pastries. Did the actress purchase three of the pastries? Maybe.
+The man wanted three of the keyrings. Did the man want two of the keyrings?", No.,0
+4,three-at least two,"Half of the bottles are blue. Are half of the bottles blue? Yes.
+Lucy bought two of the burgers. Did Lucy buy half of the burgers? Maybe.
+Sally owned several of the shirts. Did Sally own none of the shirts? No.
+The actress purchased half of the pastries. Did the actress purchase three of the pastries? Maybe.
+The actor noticed three of the oranges. Did the actor notice at least two of the oranges?", Yes.,1
+4,at least two-three,"Half of the bottles are blue. Are half of the bottles blue? Yes.
+Lucy bought two of the burgers. Did Lucy buy half of the burgers? Maybe.
+Sally owned several of the shirts. Did Sally own none of the shirts? No.
+The actress purchased half of the pastries. Did the actress purchase three of the pastries? Maybe.
+The singer ordered at least two of the cakes. Did the singer order three of the cakes?", Maybe.,1
+4,three-three,"Half of the bottles are blue. Are half of the bottles blue? Yes.
+Lucy bought two of the burgers. Did Lucy buy half of the burgers? Maybe.
+Sally owned several of the shirts. Did Sally own none of the shirts? No.
+The actress purchased half of the pastries. Did the actress purchase three of the pastries? Maybe.
+The actor purchased three of the burgers. Did the actor purchase three of the burgers?", Yes.,1
+4,at least two-at least two,"Half of the bottles are blue. Are half of the bottles blue? Yes.
+Lucy bought two of the burgers. Did Lucy buy half of the burgers? Maybe.
+Sally owned several of the shirts. Did Sally own none of the shirts? No.
+The actress purchased half of the pastries. Did the actress purchase three of the pastries? Maybe.
+Sally owned at least two of the cherries. Did Sally own at least two of the cherries?", Yes.,1
+4,two-three,"Jim had most of the umbrellas. Did Jim have three of the umbrellas? Maybe.
+Michael owned both of the cakes. Did Michael own all of the cakes? Yes.
+Jo liked half of the mugs. Did Jo like three of the mugs? Maybe.
+Ann bought exactly two of the bagels. Did Ann buy none of the bagels? No.
+Mark purchased two of the snacks. Did Mark purchase three of the snacks?", No.,1
+4,three-two,"Jim had most of the umbrellas. Did Jim have three of the umbrellas? Maybe.
+Michael owned both of the cakes. Did Michael own all of the cakes? Yes.
+Jo liked half of the mugs. Did Jo like three of the mugs? Maybe.
+Ann bought exactly two of the bagels. Did Ann buy none of the bagels? No.
+Three of the pancakes are colourful. Are two of the pancakes colourful?", Yes.,1
+4,three-at least two,"Jim had most of the umbrellas. Did Jim have three of the umbrellas? Maybe.
+Michael owned both of the cakes. Did Michael own all of the cakes? Yes.
+Jo liked half of the mugs. Did Jo like three of the mugs? Maybe.
+Ann bought exactly two of the bagels. Did Ann buy none of the bagels? No.
+Three of the bagels are expensive. Are at least two of the bagels expensive?", Yes.,1
+4,at least two-three,"Jim had most of the umbrellas. Did Jim have three of the umbrellas? Maybe.
+Michael owned both of the cakes. Did Michael own all of the cakes? Yes.
+Jo liked half of the mugs. Did Jo like three of the mugs? Maybe.
+Ann bought exactly two of the bagels. Did Ann buy none of the bagels? No.
+Sally purchased at least two of the churros. Did Sally purchase three of the churros?", Maybe.,1
+4,three-three,"Jim had most of the umbrellas. Did Jim have three of the umbrellas? Maybe.
+Michael owned both of the cakes. Did Michael own all of the cakes? Yes.
+Jo liked half of the mugs. Did Jo like three of the mugs? Maybe.
+Ann bought exactly two of the bagels. Did Ann buy none of the bagels? No.
+Three of the churros are colourful. Are three of the churros colourful?", Yes.,1
+4,at least two-at least two,"Jim had most of the umbrellas. Did Jim have three of the umbrellas? Maybe.
+Michael owned both of the cakes. Did Michael own all of the cakes? Yes.
+Jo liked half of the mugs. Did Jo like three of the mugs? Maybe.
+Ann bought exactly two of the bagels. Did Ann buy none of the bagels? No.
+Sally spotted at least two of the backpacks. Did Sally spot at least two of the backpacks?", Yes.,1
+4,two-three,"Robin got most of the pastries. Did Robin get three of the pastries? Maybe.
+The woman wanted several of the apples. Did the woman want none of the apples? No.
+Sidney wanted two of the cherries. Did Sidney want half of the cherries? Maybe.
+Mark ate some of the pretzels. Did Mark eat more than one of the pretzels? Yes.
+Two of the bagels are delicious. Are three of the bagels delicious?", No.,1
+4,three-two,"Robin got most of the pastries. Did Robin get three of the pastries? Maybe.
+The woman wanted several of the apples. Did the woman want none of the apples? No.
+Sidney wanted two of the cherries. Did Sidney want half of the cherries? Maybe.
+Mark ate some of the pretzels. Did Mark eat more than one of the pretzels? Yes.
+Sally spotted three of the mugs. Did Sally spot two of the mugs?", Maybe.,0
+4,three-at least two,"Robin got most of the pastries. Did Robin get three of the pastries? Maybe.
+The woman wanted several of the apples. Did the woman want none of the apples? No.
+Sidney wanted two of the cherries. Did Sidney want half of the cherries? Maybe.
+Mark ate some of the pretzels. Did Mark eat more than one of the pretzels? Yes.
+The actor purchased three of the churros. Did the actor purchase at least two of the churros?", Yes.,1
+4,at least two-three,"Robin got most of the pastries. Did Robin get three of the pastries? Maybe.
+The woman wanted several of the apples. Did the woman want none of the apples? No.
+Sidney wanted two of the cherries. Did Sidney want half of the cherries? Maybe.
+Mark ate some of the pretzels. Did Mark eat more than one of the pretzels? Yes.
+At least two of the parades are colourful. Are three of the parades colourful?", Maybe.,1
+4,three-three,"Robin got most of the pastries. Did Robin get three of the pastries? Maybe.
+The woman wanted several of the apples. Did the woman want none of the apples? No.
+Sidney wanted two of the cherries. Did Sidney want half of the cherries? Maybe.
+Mark ate some of the pretzels. Did Mark eat more than one of the pretzels? Yes.
+Ann had three of the rings. Did Ann have three of the rings?", Maybe.,0
+4,at least two-at least two,"Robin got most of the pastries. Did Robin get three of the pastries? Maybe.
+The woman wanted several of the apples. Did the woman want none of the apples? No.
+Sidney wanted two of the cherries. Did Sidney want half of the cherries? Maybe.
+Mark ate some of the pretzels. Did Mark eat more than one of the pretzels? Yes.
+Sally had at least two of the sweaters. Did Sally have at least two of the sweaters?", Maybe.,0
+4,two-three,"The actor owned three of the hats. Did the actor own more than two of the hats? Yes.
+Jo wanted most of the pastries. Did Jo want three of the pastries? Maybe.
+Exactly two of the bagels are colourful. Are none of the bagels colourful? No.
+The actor wanted half of the cupcakes. Did the actor want three of the cupcakes? Maybe.
+Sidney owned two of the strawberries. Did Sidney own three of the strawberries?", No.,1
+4,three-two,"The actor owned three of the hats. Did the actor own more than two of the hats? Yes.
+Jo wanted most of the pastries. Did Jo want three of the pastries? Maybe.
+Exactly two of the bagels are colourful. Are none of the bagels colourful? No.
+The actor wanted half of the cupcakes. Did the actor want three of the cupcakes? Maybe.
+Sam had three of the bottles. Did Sam have two of the bottles?", Yes.,1
+4,three-at least two,"The actor owned three of the hats. Did the actor own more than two of the hats? Yes.
+Jo wanted most of the pastries. Did Jo want three of the pastries? Maybe.
+Exactly two of the bagels are colourful. Are none of the bagels colourful? No.
+The actor wanted half of the cupcakes. Did the actor want three of the cupcakes? Maybe.
+The woman had three of the shirts. Did the woman have at least two of the shirts?", Yes.,1
+4,at least two-three,"The actor owned three of the hats. Did the actor own more than two of the hats? Yes.
+Jo wanted most of the pastries. Did Jo want three of the pastries? Maybe.
+Exactly two of the bagels are colourful. Are none of the bagels colourful? No.
+The actor wanted half of the cupcakes. Did the actor want three of the cupcakes? Maybe.
+At least two of the shoes are green. Are three of the shoes green?", Yes.,0
+4,three-three,"The actor owned three of the hats. Did the actor own more than two of the hats? Yes.
+Jo wanted most of the pastries. Did Jo want three of the pastries? Maybe.
+Exactly two of the bagels are colourful. Are none of the bagels colourful? No.
+The actor wanted half of the cupcakes. Did the actor want three of the cupcakes? Maybe.
+The actor wanted three of the pastries. Did the actor want three of the pastries?", Yes.,1
+4,at least two-at least two,"The actor owned three of the hats. Did the actor own more than two of the hats? Yes.
+Jo wanted most of the pastries. Did Jo want three of the pastries? Maybe.
+Exactly two of the bagels are colourful. Are none of the bagels colourful? No.
+The actor wanted half of the cupcakes. Did the actor want three of the cupcakes? Maybe.
+Sally ordered at least two of the bottles. Did Sally order at least two of the bottles?", Yes.,1
+4,two-three,"Laura had most of the apples. Did Laura have none of the apples? No.
+Most of the toys are green. Are three of the toys green? Maybe.
+Michael purchased half of the keyrings. Did Michael purchase three of the keyrings? Maybe.
+The man had some of the chocolates. Did the man have more than one of the chocolates? Yes.
+Bill saw two of the dogs. Did Bill see three of the dogs?", No.,1
+4,three-two,"Laura had most of the apples. Did Laura have none of the apples? No.
+Most of the toys are green. Are three of the toys green? Maybe.
+Michael purchased half of the keyrings. Did Michael purchase three of the keyrings? Maybe.
+The man had some of the chocolates. Did the man have more than one of the chocolates? Yes.
+The actor saw three of the giraffes. Did the actor see two of the giraffes?", No.,0
+4,three-at least two,"Laura had most of the apples. Did Laura have none of the apples? No.
+Most of the toys are green. Are three of the toys green? Maybe.
+Michael purchased half of the keyrings. Did Michael purchase three of the keyrings? Maybe.
+The man had some of the chocolates. Did the man have more than one of the chocolates? Yes.
+Sidney spotted three of the churros. Did Sidney spot at least two of the churros?", Yes.,1
+4,at least two-three,"Laura had most of the apples. Did Laura have none of the apples? No.
+Most of the toys are green. Are three of the toys green? Maybe.
+Michael purchased half of the keyrings. Did Michael purchase three of the keyrings? Maybe.
+The man had some of the chocolates. Did the man have more than one of the chocolates? Yes.
+Sam got at least two of the sweaters. Did Sam get three of the sweaters?", No.,0
+4,three-three,"Laura had most of the apples. Did Laura have none of the apples? No.
+Most of the toys are green. Are three of the toys green? Maybe.
+Michael purchased half of the keyrings. Did Michael purchase three of the keyrings? Maybe.
+The man had some of the chocolates. Did the man have more than one of the chocolates? Yes.
+John noticed three of the pastries. Did John notice three of the pastries?", Yes.,1
+4,at least two-at least two,"Laura had most of the apples. Did Laura have none of the apples? No.
+Most of the toys are green. Are three of the toys green? Maybe.
+Michael purchased half of the keyrings. Did Michael purchase three of the keyrings? Maybe.
+The man had some of the chocolates. Did the man have more than one of the chocolates? Yes.
+At least two of the umbrellas are sold out. Are at least two of the umbrellas sold out?", Yes.,1
+4,two-three,"Sam sold most of the umbrellas. Did Sam sell three of the umbrellas? Maybe.
+Most of the cherries are tasty. Are three of the cherries tasty? Maybe.
+The actress got several of the pretzels. Did the actress get none of the pretzels? No.
+Bill noticed two of the dogs. Did Bill notice two of the dogs? Yes.
+The actress noticed two of the rings. Did the actress notice three of the rings?", No.,1
+4,three-two,"Sam sold most of the umbrellas. Did Sam sell three of the umbrellas? Maybe.
+Most of the cherries are tasty. Are three of the cherries tasty? Maybe.
+The actress got several of the pretzels. Did the actress get none of the pretzels? No.
+Bill noticed two of the dogs. Did Bill notice two of the dogs? Yes.
+Sophie ate three of the pancakes. Did Sophie eat two of the pancakes?", No.,0
+4,three-at least two,"Sam sold most of the umbrellas. Did Sam sell three of the umbrellas? Maybe.
+Most of the cherries are tasty. Are three of the cherries tasty? Maybe.
+The actress got several of the pretzels. Did the actress get none of the pretzels? No.
+Bill noticed two of the dogs. Did Bill notice two of the dogs? Yes.
+Three of the candles are impressive. Are at least two of the candles impressive?", Yes.,1
+4,at least two-three,"Sam sold most of the umbrellas. Did Sam sell three of the umbrellas? Maybe.
+Most of the cherries are tasty. Are three of the cherries tasty? Maybe.
+The actress got several of the pretzels. Did the actress get none of the pretzels? No.
+Bill noticed two of the dogs. Did Bill notice two of the dogs? Yes.
+Sally spotted at least two of the cupcakes. Did Sally spot three of the cupcakes?", Maybe.,1
+4,three-three,"Sam sold most of the umbrellas. Did Sam sell three of the umbrellas? Maybe.
+Most of the cherries are tasty. Are three of the cherries tasty? Maybe.
+The actress got several of the pretzels. Did the actress get none of the pretzels? No.
+Bill noticed two of the dogs. Did Bill notice two of the dogs? Yes.
+Ann purchased three of the churros. Did Ann purchase three of the churros?", Yes.,1
+4,at least two-at least two,"Sam sold most of the umbrellas. Did Sam sell three of the umbrellas? Maybe.
+Most of the cherries are tasty. Are three of the cherries tasty? Maybe.
+The actress got several of the pretzels. Did the actress get none of the pretzels? No.
+Bill noticed two of the dogs. Did Bill notice two of the dogs? Yes.
+The actress ordered at least two of the pancakes. Did the actress order at least two of the pancakes?", Yes.,1
+4,two-three,"The actor saw half of the adverts. Did the actor see three of the adverts? Maybe.
+Bill liked most of the keyrings. Did Bill like three of the keyrings? Maybe.
+Laura spotted several of the pancakes. Did Laura spot none of the pancakes? No.
+Jim noticed some of the warnings. Did Jim notice more than one of the warnings? Yes.
+Jo wanted two of the cakes. Did Jo want three of the cakes?", No.,1
+4,three-two,"The actor saw half of the adverts. Did the actor see three of the adverts? Maybe.
+Bill liked most of the keyrings. Did Bill like three of the keyrings? Maybe.
+Laura spotted several of the pancakes. Did Laura spot none of the pancakes? No.
+Jim noticed some of the warnings. Did Jim notice more than one of the warnings? Yes.
+Robin liked three of the shirts. Did Robin like two of the shirts?", No.,0
+4,three-at least two,"The actor saw half of the adverts. Did the actor see three of the adverts? Maybe.
+Bill liked most of the keyrings. Did Bill like three of the keyrings? Maybe.
+Laura spotted several of the pancakes. Did Laura spot none of the pancakes? No.
+Jim noticed some of the warnings. Did Jim notice more than one of the warnings? Yes.
+Three of the umbrellas are orange. Are at least two of the umbrellas orange?", Yes.,1
+4,at least two-three,"The actor saw half of the adverts. Did the actor see three of the adverts? Maybe.
+Bill liked most of the keyrings. Did Bill like three of the keyrings? Maybe.
+Laura spotted several of the pancakes. Did Laura spot none of the pancakes? No.
+Jim noticed some of the warnings. Did Jim notice more than one of the warnings? Yes.
+At least two of the hats are impressive. Are three of the hats impressive?", Yes.,0
+4,three-three,"The actor saw half of the adverts. Did the actor see three of the adverts? Maybe.
+Bill liked most of the keyrings. Did Bill like three of the keyrings? Maybe.
+Laura spotted several of the pancakes. Did Laura spot none of the pancakes? No.
+Jim noticed some of the warnings. Did Jim notice more than one of the warnings? Yes.
+Jim bought three of the mugs. Did Jim buy three of the mugs?", Yes.,1
+4,at least two-at least two,"The actor saw half of the adverts. Did the actor see three of the adverts? Maybe.
+Bill liked most of the keyrings. Did Bill like three of the keyrings? Maybe.
+Laura spotted several of the pancakes. Did Laura spot none of the pancakes? No.
+Jim noticed some of the warnings. Did Jim notice more than one of the warnings? Yes.
+Jim noticed at least two of the umbrellas. Did Jim notice at least two of the umbrellas?", Yes.,1
+4,two-three,"Some of the candles are expensive. Are more than one of the candles expensive? Yes.
+Jo wanted two of the sandwiches. Did Jo want half of the sandwiches? Maybe.
+Exactly two of the bagels are on sale. Are none of the bagels on sale? No.
+Sam wanted most of the apples. Did Sam want three of the apples? Maybe.
+Two of the churros are delicious. Are three of the churros delicious?", Yes.,0
+4,three-two,"Some of the candles are expensive. Are more than one of the candles expensive? Yes.
+Jo wanted two of the sandwiches. Did Jo want half of the sandwiches? Maybe.
+Exactly two of the bagels are on sale. Are none of the bagels on sale? No.
+Sam wanted most of the apples. Did Sam want three of the apples? Maybe.
+Mary purchased three of the pretzels. Did Mary purchase two of the pretzels?", No.,0
+4,three-at least two,"Some of the candles are expensive. Are more than one of the candles expensive? Yes.
+Jo wanted two of the sandwiches. Did Jo want half of the sandwiches? Maybe.
+Exactly two of the bagels are on sale. Are none of the bagels on sale? No.
+Sam wanted most of the apples. Did Sam want three of the apples? Maybe.
+Three of the cars are red. Are at least two of the cars red?", Yes.,1
+4,at least two-three,"Some of the candles are expensive. Are more than one of the candles expensive? Yes.
+Jo wanted two of the sandwiches. Did Jo want half of the sandwiches? Maybe.
+Exactly two of the bagels are on sale. Are none of the bagels on sale? No.
+Sam wanted most of the apples. Did Sam want three of the apples? Maybe.
+The man ate at least two of the sandwiches. Did the man eat three of the sandwiches?", Maybe.,1
+4,three-three,"Some of the candles are expensive. Are more than one of the candles expensive? Yes.
+Jo wanted two of the sandwiches. Did Jo want half of the sandwiches? Maybe.
+Exactly two of the bagels are on sale. Are none of the bagels on sale? No.
+Sam wanted most of the apples. Did Sam want three of the apples? Maybe.
+The woman wanted three of the cars. Did the woman want three of the cars?", Yes.,1
+4,at least two-at least two,"Some of the candles are expensive. Are more than one of the candles expensive? Yes.
+Jo wanted two of the sandwiches. Did Jo want half of the sandwiches? Maybe.
+Exactly two of the bagels are on sale. Are none of the bagels on sale? No.
+Sam wanted most of the apples. Did Sam want three of the apples? Maybe.
+At least two of the bagels are cold. Are at least two of the bagels cold?", Yes.,1
+4,two-three,"Two of the pretzels are mouldy. Are half of the pretzels mouldy? Maybe.
+Mary bought exactly two of the pastries. Did Mary buy three of the pastries? No.
+Sophie sold half of the pancakes. Did Sophie sell three of the pancakes? Maybe.
+Both of the chocolates are sold out. Are both of the chocolates sold out? Yes.
+Ann bought two of the apples. Did Ann buy three of the apples?", No.,1
+4,three-two,"Two of the pretzels are mouldy. Are half of the pretzels mouldy? Maybe.
+Mary bought exactly two of the pastries. Did Mary buy three of the pastries? No.
+Sophie sold half of the pancakes. Did Sophie sell three of the pancakes? Maybe.
+Both of the chocolates are sold out. Are both of the chocolates sold out? Yes.
+Ann ordered three of the churros. Did Ann order two of the churros?", No.,0
+4,three-at least two,"Two of the pretzels are mouldy. Are half of the pretzels mouldy? Maybe.
+Mary bought exactly two of the pastries. Did Mary buy three of the pastries? No.
+Sophie sold half of the pancakes. Did Sophie sell three of the pancakes? Maybe.
+Both of the chocolates are sold out. Are both of the chocolates sold out? Yes.
+Sam liked three of the pastries. Did Sam like at least two of the pastries?", Yes.,1
+4,at least two-three,"Two of the pretzels are mouldy. Are half of the pretzels mouldy? Maybe.
+Mary bought exactly two of the pastries. Did Mary buy three of the pastries? No.
+Sophie sold half of the pancakes. Did Sophie sell three of the pancakes? Maybe.
+Both of the chocolates are sold out. Are both of the chocolates sold out? Yes.
+Bill liked at least two of the snacks. Did Bill like three of the snacks?", Maybe.,1
+4,three-three,"Two of the pretzels are mouldy. Are half of the pretzels mouldy? Maybe.
+Mary bought exactly two of the pastries. Did Mary buy three of the pastries? No.
+Sophie sold half of the pancakes. Did Sophie sell three of the pancakes? Maybe.
+Both of the chocolates are sold out. Are both of the chocolates sold out? Yes.
+Sophie wanted three of the peanuts. Did Sophie want three of the peanuts?", Yes.,1
+4,at least two-at least two,"Two of the pretzels are mouldy. Are half of the pretzels mouldy? Maybe.
+Mary bought exactly two of the pastries. Did Mary buy three of the pastries? No.
+Sophie sold half of the pancakes. Did Sophie sell three of the pancakes? Maybe.
+Both of the chocolates are sold out. Are both of the chocolates sold out? Yes.
+At least two of the cherries are affordable. Are at least two of the cherries affordable?", Yes.,1
+4,two-three,"Lucy saw none of the sweaters. Did Lucy see some of the sweaters? No.
+Two of the umbrellas are pretty. Are half of the umbrellas pretty? Maybe.
+The woman had half of the cupcakes. Did the woman have three of the cupcakes? Maybe.
+John had three of the snacks. Did John have three of the snacks? Yes.
+Robin spotted two of the cars. Did Robin spot three of the cars?", No.,1
+4,three-two,"Lucy saw none of the sweaters. Did Lucy see some of the sweaters? No.
+Two of the umbrellas are pretty. Are half of the umbrellas pretty? Maybe.
+The woman had half of the cupcakes. Did the woman have three of the cupcakes? Maybe.
+John had three of the snacks. Did John have three of the snacks? Yes.
+Sophie had three of the shirts. Did Sophie have two of the shirts?", No.,0
+4,three-at least two,"Lucy saw none of the sweaters. Did Lucy see some of the sweaters? No.
+Two of the umbrellas are pretty. Are half of the umbrellas pretty? Maybe.
+The woman had half of the cupcakes. Did the woman have three of the cupcakes? Maybe.
+John had three of the snacks. Did John have three of the snacks? Yes.
+Three of the shoes are affordable. Are at least two of the shoes affordable?", Maybe.,0
+4,at least two-three,"Lucy saw none of the sweaters. Did Lucy see some of the sweaters? No.
+Two of the umbrellas are pretty. Are half of the umbrellas pretty? Maybe.
+The woman had half of the cupcakes. Did the woman have three of the cupcakes? Maybe.
+John had three of the snacks. Did John have three of the snacks? Yes.
+John had at least two of the sweaters. Did John have three of the sweaters?", No.,0
+4,three-three,"Lucy saw none of the sweaters. Did Lucy see some of the sweaters? No.
+Two of the umbrellas are pretty. Are half of the umbrellas pretty? Maybe.
+The woman had half of the cupcakes. Did the woman have three of the cupcakes? Maybe.
+John had three of the snacks. Did John have three of the snacks? Yes.
+Three of the bottles are green. Are three of the bottles green?", Yes.,1
+4,at least two-at least two,"Lucy saw none of the sweaters. Did Lucy see some of the sweaters? No.
+Two of the umbrellas are pretty. Are half of the umbrellas pretty? Maybe.
+The woman had half of the cupcakes. Did the woman have three of the cupcakes? Maybe.
+John had three of the snacks. Did John have three of the snacks? Yes.
+John got at least two of the strawberries. Did John get at least two of the strawberries?", Yes.,1
+4,two-three,"The teacher sold most of the pancakes. Did the teacher sell none of the pancakes? No.
+The teacher owned most of the tickets. Did the teacher own three of the tickets? Maybe.
+Michael got half of the sweaters. Did Michael get half of the sweaters? Yes.
+Sally got two of the rings. Did Sally get all of the rings? Maybe.
+Jo noticed two of the mice. Did Jo notice three of the mice?", No.,1
+4,three-two,"The teacher sold most of the pancakes. Did the teacher sell none of the pancakes? No.
+The teacher owned most of the tickets. Did the teacher own three of the tickets? Maybe.
+Michael got half of the sweaters. Did Michael get half of the sweaters? Yes.
+Sally got two of the rings. Did Sally get all of the rings? Maybe.
+The teacher sold three of the shirts. Did the teacher sell two of the shirts?", No.,0
+4,three-at least two,"The teacher sold most of the pancakes. Did the teacher sell none of the pancakes? No.
+The teacher owned most of the tickets. Did the teacher own three of the tickets? Maybe.
+Michael got half of the sweaters. Did Michael get half of the sweaters? Yes.
+Sally got two of the rings. Did Sally get all of the rings? Maybe.
+The actress owned three of the peanuts. Did the actress own at least two of the peanuts?", Yes.,1
+4,at least two-three,"The teacher sold most of the pancakes. Did the teacher sell none of the pancakes? No.
+The teacher owned most of the tickets. Did the teacher own three of the tickets? Maybe.
+Michael got half of the sweaters. Did Michael get half of the sweaters? Yes.
+Sally got two of the rings. Did Sally get all of the rings? Maybe.
+Bill purchased at least two of the pancakes. Did Bill purchase three of the pancakes?", No.,0
+4,three-three,"The teacher sold most of the pancakes. Did the teacher sell none of the pancakes? No.
+The teacher owned most of the tickets. Did the teacher own three of the tickets? Maybe.
+Michael got half of the sweaters. Did Michael get half of the sweaters? Yes.
+Sally got two of the rings. Did Sally get all of the rings? Maybe.
+The singer liked three of the rings. Did the singer like three of the rings?", Yes.,1
+4,at least two-at least two,"The teacher sold most of the pancakes. Did the teacher sell none of the pancakes? No.
+The teacher owned most of the tickets. Did the teacher own three of the tickets? Maybe.
+Michael got half of the sweaters. Did Michael get half of the sweaters? Yes.
+Sally got two of the rings. Did Sally get all of the rings? Maybe.
+The actor ordered at least two of the scarves. Did the actor order at least two of the scarves?", Yes.,1
+4,two-three,"Michael spotted half of the pancakes. Did Michael spot three of the pancakes? Maybe.
+Sally bought exactly two of the backpacks. Did Sally buy one of the backpacks? No.
+Two of the cherries are sold out. Are half of the cherries sold out? Maybe.
+Both of the snacks are delicious. Are both of the snacks delicious? Yes.
+Two of the cupcakes are affordable. Are three of the cupcakes affordable?", No.,1
+4,three-two,"Michael spotted half of the pancakes. Did Michael spot three of the pancakes? Maybe.
+Sally bought exactly two of the backpacks. Did Sally buy one of the backpacks? No.
+Two of the cherries are sold out. Are half of the cherries sold out? Maybe.
+Both of the snacks are delicious. Are both of the snacks delicious? Yes.
+The woman owned three of the shirts. Did the woman own two of the shirts?", No.,0
+4,three-at least two,"Michael spotted half of the pancakes. Did Michael spot three of the pancakes? Maybe.
+Sally bought exactly two of the backpacks. Did Sally buy one of the backpacks? No.
+Two of the cherries are sold out. Are half of the cherries sold out? Maybe.
+Both of the snacks are delicious. Are both of the snacks delicious? Yes.
+Mary sold three of the cherries. Did Mary sell at least two of the cherries?", Yes.,1
+4,at least two-three,"Michael spotted half of the pancakes. Did Michael spot three of the pancakes? Maybe.
+Sally bought exactly two of the backpacks. Did Sally buy one of the backpacks? No.
+Two of the cherries are sold out. Are half of the cherries sold out? Maybe.
+Both of the snacks are delicious. Are both of the snacks delicious? Yes.
+The man spotted at least two of the sandwiches. Did the man spot three of the sandwiches?", No.,0
+4,three-three,"Michael spotted half of the pancakes. Did Michael spot three of the pancakes? Maybe.
+Sally bought exactly two of the backpacks. Did Sally buy one of the backpacks? No.
+Two of the cherries are sold out. Are half of the cherries sold out? Maybe.
+Both of the snacks are delicious. Are both of the snacks delicious? Yes.
+Three of the candles are pretty. Are three of the candles pretty?", Yes.,1
+4,at least two-at least two,"Michael spotted half of the pancakes. Did Michael spot three of the pancakes? Maybe.
+Sally bought exactly two of the backpacks. Did Sally buy one of the backpacks? No.
+Two of the cherries are sold out. Are half of the cherries sold out? Maybe.
+Both of the snacks are delicious. Are both of the snacks delicious? Yes.
+At least two of the scarves are sold out. Are at least two of the scarves sold out?", Yes.,1
+4,two-three,"Laura purchased half of the pretzels. Did Laura purchase three of the pretzels? Maybe.
+Jo liked most of the mugs. Did Jo like none of the mugs? No.
+Adam had most of the sandwiches. Did Adam have three of the sandwiches? Maybe.
+Mary owned two of the cars. Did Mary own two of the cars? Yes.
+Jo liked two of the mugs. Did Jo like three of the mugs?", No.,1
+4,three-two,"Laura purchased half of the pretzels. Did Laura purchase three of the pretzels? Maybe.
+Jo liked most of the mugs. Did Jo like none of the mugs? No.
+Adam had most of the sandwiches. Did Adam have three of the sandwiches? Maybe.
+Mary owned two of the cars. Did Mary own two of the cars? Yes.
+Sam bought three of the snacks. Did Sam buy two of the snacks?", No.,0
+4,three-at least two,"Laura purchased half of the pretzels. Did Laura purchase three of the pretzels? Maybe.
+Jo liked most of the mugs. Did Jo like none of the mugs? No.
+Adam had most of the sandwiches. Did Adam have three of the sandwiches? Maybe.
+Mary owned two of the cars. Did Mary own two of the cars? Yes.
+Three of the candles are affordable. Are at least two of the candles affordable?", Yes.,1
+4,at least two-three,"Laura purchased half of the pretzels. Did Laura purchase three of the pretzels? Maybe.
+Jo liked most of the mugs. Did Jo like none of the mugs? No.
+Adam had most of the sandwiches. Did Adam have three of the sandwiches? Maybe.
+Mary owned two of the cars. Did Mary own two of the cars? Yes.
+Sidney purchased at least two of the pancakes. Did Sidney purchase three of the pancakes?", Maybe.,1
+4,three-three,"Laura purchased half of the pretzels. Did Laura purchase three of the pretzels? Maybe.
+Jo liked most of the mugs. Did Jo like none of the mugs? No.
+Adam had most of the sandwiches. Did Adam have three of the sandwiches? Maybe.
+Mary owned two of the cars. Did Mary own two of the cars? Yes.
+The actor noticed three of the bagels. Did the actor notice three of the bagels?", Yes.,1
+4,at least two-at least two,"Laura purchased half of the pretzels. Did Laura purchase three of the pretzels? Maybe.
+Jo liked most of the mugs. Did Jo like none of the mugs? No.
+Adam had most of the sandwiches. Did Adam have three of the sandwiches? Maybe.
+Mary owned two of the cars. Did Mary own two of the cars? Yes.
+Lucy ate at least two of the peanuts. Did Lucy eat at least two of the peanuts?", Yes.,1
+4,two-three,"Jim saw half of the parades. Did Jim see half of the parades? Yes.
+Laura bought half of the peanuts. Did Laura buy three of the peanuts? Maybe.
+Michael owned exactly two of the pastries. Did Michael own one of the pastries? No.
+Half of the rings are affordable. Are three of the rings affordable? Maybe.
+Two of the mugs are blue. Are three of the mugs blue?", No.,1
+4,three-two,"Jim saw half of the parades. Did Jim see half of the parades? Yes.
+Laura bought half of the peanuts. Did Laura buy three of the peanuts? Maybe.
+Michael owned exactly two of the pastries. Did Michael own one of the pastries? No.
+Half of the rings are affordable. Are three of the rings affordable? Maybe.
+Sidney ordered three of the snacks. Did Sidney order two of the snacks?", No.,0
+4,three-at least two,"Jim saw half of the parades. Did Jim see half of the parades? Yes.
+Laura bought half of the peanuts. Did Laura buy three of the peanuts? Maybe.
+Michael owned exactly two of the pastries. Did Michael own one of the pastries? No.
+Half of the rings are affordable. Are three of the rings affordable? Maybe.
+Michael got three of the keyrings. Did Michael get at least two of the keyrings?", Yes.,1
+4,at least two-three,"Jim saw half of the parades. Did Jim see half of the parades? Yes.
+Laura bought half of the peanuts. Did Laura buy three of the peanuts? Maybe.
+Michael owned exactly two of the pastries. Did Michael own one of the pastries? No.
+Half of the rings are affordable. Are three of the rings affordable? Maybe.
+At least two of the strawberries are pretty. Are three of the strawberries pretty?", No.,0
+4,three-three,"Jim saw half of the parades. Did Jim see half of the parades? Yes.
+Laura bought half of the peanuts. Did Laura buy three of the peanuts? Maybe.
+Michael owned exactly two of the pastries. Did Michael own one of the pastries? No.
+Half of the rings are affordable. Are three of the rings affordable? Maybe.
+The singer bought three of the cars. Did the singer buy three of the cars?", Yes.,1
+4,at least two-at least two,"Jim saw half of the parades. Did Jim see half of the parades? Yes.
+Laura bought half of the peanuts. Did Laura buy three of the peanuts? Maybe.
+Michael owned exactly two of the pastries. Did Michael own one of the pastries? No.
+Half of the rings are affordable. Are three of the rings affordable? Maybe.
+Adam had at least two of the snacks. Did Adam have at least two of the snacks?", Yes.,1
+4,two-three,"John saw half of the candles. Did John see three of the candles? Maybe.
+Sophie spotted all of the hats. Did Sophie spot none of the hats? No.
+Mark noticed two of the temples. Did Mark notice two of the temples? Yes.
+Michael saw half of the stores. Did Michael see three of the stores? Maybe.
+Bill got two of the bottles. Did Bill get three of the bottles?", No.,1
+4,three-two,"John saw half of the candles. Did John see three of the candles? Maybe.
+Sophie spotted all of the hats. Did Sophie spot none of the hats? No.
+Mark noticed two of the temples. Did Mark notice two of the temples? Yes.
+Michael saw half of the stores. Did Michael see three of the stores? Maybe.
+Ann spotted three of the parades. Did Ann spot two of the parades?", No.,0
+4,three-at least two,"John saw half of the candles. Did John see three of the candles? Maybe.
+Sophie spotted all of the hats. Did Sophie spot none of the hats? No.
+Mark noticed two of the temples. Did Mark notice two of the temples? Yes.
+Michael saw half of the stores. Did Michael see three of the stores? Maybe.
+The teacher purchased three of the sandwiches. Did the teacher purchase at least two of the sandwiches?", Yes.,1
+4,at least two-three,"John saw half of the candles. Did John see three of the candles? Maybe.
+Sophie spotted all of the hats. Did Sophie spot none of the hats? No.
+Mark noticed two of the temples. Did Mark notice two of the temples? Yes.
+Michael saw half of the stores. Did Michael see three of the stores? Maybe.
+Michael spotted at least two of the snacks. Did Michael spot three of the snacks?", No.,0
+4,three-three,"John saw half of the candles. Did John see three of the candles? Maybe.
+Sophie spotted all of the hats. Did Sophie spot none of the hats? No.
+Mark noticed two of the temples. Did Mark notice two of the temples? Yes.
+Michael saw half of the stores. Did Michael see three of the stores? Maybe.
+Laura owned three of the rings. Did Laura own three of the rings?", Yes.,1
+4,at least two-at least two,"John saw half of the candles. Did John see three of the candles? Maybe.
+Sophie spotted all of the hats. Did Sophie spot none of the hats? No.
+Mark noticed two of the temples. Did Mark notice two of the temples? Yes.
+Michael saw half of the stores. Did Michael see three of the stores? Maybe.
+Adam ordered at least two of the peanuts. Did Adam order at least two of the peanuts?", Yes.,1
+4,two-three,"Bill wanted none of the keyrings. Did Bill want two of the keyrings? No.
+The actress noticed most of the sweaters. Did the actress notice three of the sweaters? Maybe.
+Sam noticed two of the tickets. Did Sam notice some of the tickets? Yes.
+The actor liked most of the backpacks. Did the actor like three of the backpacks? Maybe.
+The woman bought two of the strawberries. Did the woman buy three of the strawberries?", No.,1
+4,three-two,"Bill wanted none of the keyrings. Did Bill want two of the keyrings? No.
+The actress noticed most of the sweaters. Did the actress notice three of the sweaters? Maybe.
+Sam noticed two of the tickets. Did Sam notice some of the tickets? Yes.
+The actor liked most of the backpacks. Did the actor like three of the backpacks? Maybe.
+The man sold three of the burgers. Did the man sell two of the burgers?", No.,0
+4,three-at least two,"Bill wanted none of the keyrings. Did Bill want two of the keyrings? No.
+The actress noticed most of the sweaters. Did the actress notice three of the sweaters? Maybe.
+Sam noticed two of the tickets. Did Sam notice some of the tickets? Yes.
+The actor liked most of the backpacks. Did the actor like three of the backpacks? Maybe.
+Jim wanted three of the strawberries. Did Jim want at least two of the strawberries?", Yes.,1
+4,at least two-three,"Bill wanted none of the keyrings. Did Bill want two of the keyrings? No.
+The actress noticed most of the sweaters. Did the actress notice three of the sweaters? Maybe.
+Sam noticed two of the tickets. Did Sam notice some of the tickets? Yes.
+The actor liked most of the backpacks. Did the actor like three of the backpacks? Maybe.
+Michael ordered at least two of the sweaters. Did Michael order three of the sweaters?", No.,0
+4,three-three,"Bill wanted none of the keyrings. Did Bill want two of the keyrings? No.
+The actress noticed most of the sweaters. Did the actress notice three of the sweaters? Maybe.
+Sam noticed two of the tickets. Did Sam notice some of the tickets? Yes.
+The actor liked most of the backpacks. Did the actor like three of the backpacks? Maybe.
+The woman purchased three of the cupcakes. Did the woman purchase three of the cupcakes?", Yes.,1
+4,at least two-at least two,"Bill wanted none of the keyrings. Did Bill want two of the keyrings? No.
+The actress noticed most of the sweaters. Did the actress notice three of the sweaters? Maybe.
+Sam noticed two of the tickets. Did Sam notice some of the tickets? Yes.
+The actor liked most of the backpacks. Did the actor like three of the backpacks? Maybe.
+The actor ate at least two of the bagels. Did the actor eat at least two of the bagels?", Yes.,1
+4,two-three,"Jim owned two of the strawberries. Did Jim own half of the strawberries? Maybe.
+Sally bought exactly two of the toys. Did Sally buy one of the toys? No.
+Michael had half of the sandwiches. Did Michael have some of the sandwiches? Yes.
+Two of the scarves are red. Are all of the scarves red? Maybe.
+Two of the toys are red. Are three of the toys red?", No.,1
+4,three-two,"Jim owned two of the strawberries. Did Jim own half of the strawberries? Maybe.
+Sally bought exactly two of the toys. Did Sally buy one of the toys? No.
+Michael had half of the sandwiches. Did Michael have some of the sandwiches? Yes.
+Two of the scarves are red. Are all of the scarves red? Maybe.
+The singer sold three of the candles. Did the singer sell two of the candles?", No.,0
+4,three-at least two,"Jim owned two of the strawberries. Did Jim own half of the strawberries? Maybe.
+Sally bought exactly two of the toys. Did Sally buy one of the toys? No.
+Michael had half of the sandwiches. Did Michael have some of the sandwiches? Yes.
+Two of the scarves are red. Are all of the scarves red? Maybe.
+Laura wanted three of the peanuts. Did Laura want at least two of the peanuts?", Yes.,1
+4,at least two-three,"Jim owned two of the strawberries. Did Jim own half of the strawberries? Maybe.
+Sally bought exactly two of the toys. Did Sally buy one of the toys? No.
+Michael had half of the sandwiches. Did Michael have some of the sandwiches? Yes.
+Two of the scarves are red. Are all of the scarves red? Maybe.
+The teacher ate at least two of the cupcakes. Did the teacher eat three of the cupcakes?", Maybe.,1
+4,three-three,"Jim owned two of the strawberries. Did Jim own half of the strawberries? Maybe.
+Sally bought exactly two of the toys. Did Sally buy one of the toys? No.
+Michael had half of the sandwiches. Did Michael have some of the sandwiches? Yes.
+Two of the scarves are red. Are all of the scarves red? Maybe.
+Three of the cherries are delicious. Are three of the cherries delicious?", Yes.,1
+4,at least two-at least two,"Jim owned two of the strawberries. Did Jim own half of the strawberries? Maybe.
+Sally bought exactly two of the toys. Did Sally buy one of the toys? No.
+Michael had half of the sandwiches. Did Michael have some of the sandwiches? Yes.
+Two of the scarves are red. Are all of the scarves red? Maybe.
+Jim sold at least two of the cakes. Did Jim sell at least two of the cakes?", Yes.,1
+4,two-three,"Sidney wanted both of the sandwiches. Did Sidney want both of the sandwiches? Yes.
+The woman purchased all of the toys. Did the woman purchase none of the toys? No.
+Most of the chocolates are sold out. Are three of the chocolates sold out? Maybe.
+John liked two of the strawberries. Did John like all of the strawberries? Maybe.
+The actor bought two of the rings. Did the actor buy three of the rings?", No.,1
+4,three-two,"Sidney wanted both of the sandwiches. Did Sidney want both of the sandwiches? Yes.
+The woman purchased all of the toys. Did the woman purchase none of the toys? No.
+Most of the chocolates are sold out. Are three of the chocolates sold out? Maybe.
+John liked two of the strawberries. Did John like all of the strawberries? Maybe.
+Sophie ordered three of the cupcakes. Did Sophie order two of the cupcakes?", No.,0
+4,three-at least two,"Sidney wanted both of the sandwiches. Did Sidney want both of the sandwiches? Yes.
+The woman purchased all of the toys. Did the woman purchase none of the toys? No.
+Most of the chocolates are sold out. Are three of the chocolates sold out? Maybe.
+John liked two of the strawberries. Did John like all of the strawberries? Maybe.
+Laura wanted three of the bagels. Did Laura want at least two of the bagels?", Yes.,1
+4,at least two-three,"Sidney wanted both of the sandwiches. Did Sidney want both of the sandwiches? Yes.
+The woman purchased all of the toys. Did the woman purchase none of the toys? No.
+Most of the chocolates are sold out. Are three of the chocolates sold out? Maybe.
+John liked two of the strawberries. Did John like all of the strawberries? Maybe.
+Jim liked at least two of the pancakes. Did Jim like three of the pancakes?", Maybe.,1
+4,three-three,"Sidney wanted both of the sandwiches. Did Sidney want both of the sandwiches? Yes.
+The woman purchased all of the toys. Did the woman purchase none of the toys? No.
+Most of the chocolates are sold out. Are three of the chocolates sold out? Maybe.
+John liked two of the strawberries. Did John like all of the strawberries? Maybe.
+Laura wanted three of the cherries. Did Laura want three of the cherries?", Yes.,1
+4,at least two-at least two,"Sidney wanted both of the sandwiches. Did Sidney want both of the sandwiches? Yes.
+The woman purchased all of the toys. Did the woman purchase none of the toys? No.
+Most of the chocolates are sold out. Are three of the chocolates sold out? Maybe.
+John liked two of the strawberries. Did John like all of the strawberries? Maybe.
+The woman ordered at least two of the sweaters. Did the woman order at least two of the sweaters?", Yes.,1
+4,two-three,"The singer owned two of the shirts. Did the singer own all of the shirts? Maybe.
+The actress owned most of the cupcakes. Did the actress own three of the cupcakes? Maybe.
+The actor purchased three of the scarves. Did the actor purchase three of the scarves? Yes.
+Laura bought none of the chocolates. Did Laura buy some of the chocolates? No.
+The actor bought two of the pretzels. Did the actor buy three of the pretzels?", No.,1
+4,three-two,"The singer owned two of the shirts. Did the singer own all of the shirts? Maybe.
+The actress owned most of the cupcakes. Did the actress own three of the cupcakes? Maybe.
+The actor purchased three of the scarves. Did the actor purchase three of the scarves? Yes.
+Laura bought none of the chocolates. Did Laura buy some of the chocolates? No.
+Mary spotted three of the umbrellas. Did Mary spot two of the umbrellas?", Maybe.,0
+4,three-at least two,"The singer owned two of the shirts. Did the singer own all of the shirts? Maybe.
+The actress owned most of the cupcakes. Did the actress own three of the cupcakes? Maybe.
+The actor purchased three of the scarves. Did the actor purchase three of the scarves? Yes.
+Laura bought none of the chocolates. Did Laura buy some of the chocolates? No.
+The actress ate three of the chocolates. Did the actress eat at least two of the chocolates?", Yes.,1
+4,at least two-three,"The singer owned two of the shirts. Did the singer own all of the shirts? Maybe.
+The actress owned most of the cupcakes. Did the actress own three of the cupcakes? Maybe.
+The actor purchased three of the scarves. Did the actor purchase three of the scarves? Yes.
+Laura bought none of the chocolates. Did Laura buy some of the chocolates? No.
+Sophie sold at least two of the shoes. Did Sophie sell three of the shoes?", Maybe.,1
+4,three-three,"The singer owned two of the shirts. Did the singer own all of the shirts? Maybe.
+The actress owned most of the cupcakes. Did the actress own three of the cupcakes? Maybe.
+The actor purchased three of the scarves. Did the actor purchase three of the scarves? Yes.
+Laura bought none of the chocolates. Did Laura buy some of the chocolates? No.
+Ann ordered three of the churros. Did Ann order three of the churros?", Yes.,1
+4,at least two-at least two,"The singer owned two of the shirts. Did the singer own all of the shirts? Maybe.
+The actress owned most of the cupcakes. Did the actress own three of the cupcakes? Maybe.
+The actor purchased three of the scarves. Did the actor purchase three of the scarves? Yes.
+Laura bought none of the chocolates. Did Laura buy some of the chocolates? No.
+Michael saw at least two of the performers. Did Michael see at least two of the performers?", Yes.,1
+4,two-three,"Adam purchased both of the sweaters. Did Adam purchase two of the sweaters? Yes.
+Jim sold most of the cupcakes. Did Jim sell three of the cupcakes? Maybe.
+All of the umbrellas are sold out. Are none of the umbrellas sold out? No.
+Bill bought two of the bottles. Did Bill buy all of the bottles? Maybe.
+Two of the mugs are expensive. Are three of the mugs expensive?", No.,1
+4,three-two,"Adam purchased both of the sweaters. Did Adam purchase two of the sweaters? Yes.
+Jim sold most of the cupcakes. Did Jim sell three of the cupcakes? Maybe.
+All of the umbrellas are sold out. Are none of the umbrellas sold out? No.
+Bill bought two of the bottles. Did Bill buy all of the bottles? Maybe.
+Adam wanted three of the shirts. Did Adam want two of the shirts?", No.,0
+4,three-at least two,"Adam purchased both of the sweaters. Did Adam purchase two of the sweaters? Yes.
+Jim sold most of the cupcakes. Did Jim sell three of the cupcakes? Maybe.
+All of the umbrellas are sold out. Are none of the umbrellas sold out? No.
+Bill bought two of the bottles. Did Bill buy all of the bottles? Maybe.
+The singer got three of the peanuts. Did the singer get at least two of the peanuts?", Yes.,1
+4,at least two-three,"Adam purchased both of the sweaters. Did Adam purchase two of the sweaters? Yes.
+Jim sold most of the cupcakes. Did Jim sell three of the cupcakes? Maybe.
+All of the umbrellas are sold out. Are none of the umbrellas sold out? No.
+Bill bought two of the bottles. Did Bill buy all of the bottles? Maybe.
+The teacher sold at least two of the cars. Did the teacher sell three of the cars?", Maybe.,1
+4,three-three,"Adam purchased both of the sweaters. Did Adam purchase two of the sweaters? Yes.
+Jim sold most of the cupcakes. Did Jim sell three of the cupcakes? Maybe.
+All of the umbrellas are sold out. Are none of the umbrellas sold out? No.
+Bill bought two of the bottles. Did Bill buy all of the bottles? Maybe.
+Three of the pastries are on sale. Are three of the pastries on sale?", Yes.,1
+4,at least two-at least two,"Adam purchased both of the sweaters. Did Adam purchase two of the sweaters? Yes.
+Jim sold most of the cupcakes. Did Jim sell three of the cupcakes? Maybe.
+All of the umbrellas are sold out. Are none of the umbrellas sold out? No.
+Bill bought two of the bottles. Did Bill buy all of the bottles? Maybe.
+Sophie bought at least two of the candles. Did Sophie buy at least two of the candles?", Yes.,1
+4,two-three,"John owned half of the burgers. Did John own three of the burgers? Maybe.
+The man bought most of the cakes. Did the man buy three of the cakes? Maybe.
+Bill sold several of the candles. Did Bill sell none of the candles? No.
+The teacher got two of the bagels. Did the teacher get more than one of the bagels? Yes.
+Sam bought two of the umbrellas. Did Sam buy three of the umbrellas?", No.,1
+4,three-two,"John owned half of the burgers. Did John own three of the burgers? Maybe.
+The man bought most of the cakes. Did the man buy three of the cakes? Maybe.
+Bill sold several of the candles. Did Bill sell none of the candles? No.
+The teacher got two of the bagels. Did the teacher get more than one of the bagels? Yes.
+The teacher bought three of the snacks. Did the teacher buy two of the snacks?", No.,0
+4,three-at least two,"John owned half of the burgers. Did John own three of the burgers? Maybe.
+The man bought most of the cakes. Did the man buy three of the cakes? Maybe.
+Bill sold several of the candles. Did Bill sell none of the candles? No.
+The teacher got two of the bagels. Did the teacher get more than one of the bagels? Yes.
+Three of the pretzels are sold out. Are at least two of the pretzels sold out?", Yes.,1
+4,at least two-three,"John owned half of the burgers. Did John own three of the burgers? Maybe.
+The man bought most of the cakes. Did the man buy three of the cakes? Maybe.
+Bill sold several of the candles. Did Bill sell none of the candles? No.
+The teacher got two of the bagels. Did the teacher get more than one of the bagels? Yes.
+Mary wanted at least two of the cherries. Did Mary want three of the cherries?", No.,0
+4,three-three,"John owned half of the burgers. Did John own three of the burgers? Maybe.
+The man bought most of the cakes. Did the man buy three of the cakes? Maybe.
+Bill sold several of the candles. Did Bill sell none of the candles? No.
+The teacher got two of the bagels. Did the teacher get more than one of the bagels? Yes.
+Jim got three of the umbrellas. Did Jim get three of the umbrellas?", Yes.,1
+4,at least two-at least two,"John owned half of the burgers. Did John own three of the burgers? Maybe.
+The man bought most of the cakes. Did the man buy three of the cakes? Maybe.
+Bill sold several of the candles. Did Bill sell none of the candles? No.
+The teacher got two of the bagels. Did the teacher get more than one of the bagels? Yes.
+Sidney wanted at least two of the oranges. Did Sidney want at least two of the oranges?", Yes.,1
+4,two-three,"Mary ordered half of the pancakes. Did Mary order three of the pancakes? Maybe.
+The actress ate none of the oranges. Did the actress eat some of the oranges? No.
+Sally noticed two of the sights. Did Sally notice all of the sights? Maybe.
+Three of the burgers are warm. Are more than two of the burgers warm? Yes.
+The actor noticed two of the mugs. Did the actor notice three of the mugs?", No.,1
+4,three-two,"Mary ordered half of the pancakes. Did Mary order three of the pancakes? Maybe.
+The actress ate none of the oranges. Did the actress eat some of the oranges? No.
+Sally noticed two of the sights. Did Sally notice all of the sights? Maybe.
+Three of the burgers are warm. Are more than two of the burgers warm? Yes.
+Sophie bought three of the mugs. Did Sophie buy two of the mugs?", No.,0
+4,three-at least two,"Mary ordered half of the pancakes. Did Mary order three of the pancakes? Maybe.
+The actress ate none of the oranges. Did the actress eat some of the oranges? No.
+Sally noticed two of the sights. Did Sally notice all of the sights? Maybe.
+Three of the burgers are warm. Are more than two of the burgers warm? Yes.
+John spotted three of the sights. Did John spot at least two of the sights?", Yes.,1
+4,at least two-three,"Mary ordered half of the pancakes. Did Mary order three of the pancakes? Maybe.
+The actress ate none of the oranges. Did the actress eat some of the oranges? No.
+Sally noticed two of the sights. Did Sally notice all of the sights? Maybe.
+Three of the burgers are warm. Are more than two of the burgers warm? Yes.
+At least two of the umbrellas are green. Are three of the umbrellas green?", Yes.,0
+4,three-three,"Mary ordered half of the pancakes. Did Mary order three of the pancakes? Maybe.
+The actress ate none of the oranges. Did the actress eat some of the oranges? No.
+Sally noticed two of the sights. Did Sally notice all of the sights? Maybe.
+Three of the burgers are warm. Are more than two of the burgers warm? Yes.
+Robin had three of the pancakes. Did Robin have three of the pancakes?", Maybe.,0
+4,at least two-at least two,"Mary ordered half of the pancakes. Did Mary order three of the pancakes? Maybe.
+The actress ate none of the oranges. Did the actress eat some of the oranges? No.
+Sally noticed two of the sights. Did Sally notice all of the sights? Maybe.
+Three of the burgers are warm. Are more than two of the burgers warm? Yes.
+Sidney sold at least two of the cherries. Did Sidney sell at least two of the cherries?", Yes.,1
+4,two-three,"Sally saw several of the chocolates. Did Sally see none of the chocolates? No.
+Michael sold three of the candles. Did Michael sell more than two of the candles? Yes.
+Ann sold half of the umbrellas. Did Ann sell three of the umbrellas? Maybe.
+Bill ordered most of the toys. Did Bill order three of the toys? Maybe.
+Lucy liked two of the umbrellas. Did Lucy like three of the umbrellas?", No.,1
+4,three-two,"Sally saw several of the chocolates. Did Sally see none of the chocolates? No.
+Michael sold three of the candles. Did Michael sell more than two of the candles? Yes.
+Ann sold half of the umbrellas. Did Ann sell three of the umbrellas? Maybe.
+Bill ordered most of the toys. Did Bill order three of the toys? Maybe.
+Sidney bought three of the shoes. Did Sidney buy two of the shoes?", No.,0
+4,three-at least two,"Sally saw several of the chocolates. Did Sally see none of the chocolates? No.
+Michael sold three of the candles. Did Michael sell more than two of the candles? Yes.
+Ann sold half of the umbrellas. Did Ann sell three of the umbrellas? Maybe.
+Bill ordered most of the toys. Did Bill order three of the toys? Maybe.
+Three of the churros are cold. Are at least two of the churros cold?", Yes.,1
+4,at least two-three,"Sally saw several of the chocolates. Did Sally see none of the chocolates? No.
+Michael sold three of the candles. Did Michael sell more than two of the candles? Yes.
+Ann sold half of the umbrellas. Did Ann sell three of the umbrellas? Maybe.
+Bill ordered most of the toys. Did Bill order three of the toys? Maybe.
+The actor saw at least two of the shoes. Did the actor see three of the shoes?", No.,0
+4,three-three,"Sally saw several of the chocolates. Did Sally see none of the chocolates? No.
+Michael sold three of the candles. Did Michael sell more than two of the candles? Yes.
+Ann sold half of the umbrellas. Did Ann sell three of the umbrellas? Maybe.
+Bill ordered most of the toys. Did Bill order three of the toys? Maybe.
+Robin wanted three of the candles. Did Robin want three of the candles?", Yes.,1
+4,at least two-at least two,"Sally saw several of the chocolates. Did Sally see none of the chocolates? No.
+Michael sold three of the candles. Did Michael sell more than two of the candles? Yes.
+Ann sold half of the umbrellas. Did Ann sell three of the umbrellas? Maybe.
+Bill ordered most of the toys. Did Bill order three of the toys? Maybe.
+Jim had at least two of the chocolates. Did Jim have at least two of the chocolates?", Yes.,1
+4,two-three,"Sally owned two of the mugs. Did Sally own all of the mugs? Maybe.
+Jim purchased most of the mugs. Did Jim purchase three of the mugs? Maybe.
+Ann owned some of the burgers. Did Ann own two of the burgers? Yes.
+Adam purchased exactly two of the mugs. Did Adam purchase three of the mugs? No.
+Two of the snacks are colourful. Are three of the snacks colourful?", No.,1
+4,three-two,"Sally owned two of the mugs. Did Sally own all of the mugs? Maybe.
+Jim purchased most of the mugs. Did Jim purchase three of the mugs? Maybe.
+Ann owned some of the burgers. Did Ann own two of the burgers? Yes.
+Adam purchased exactly two of the mugs. Did Adam purchase three of the mugs? No.
+Adam noticed three of the churros. Did Adam notice two of the churros?", Yes.,1
+4,three-at least two,"Sally owned two of the mugs. Did Sally own all of the mugs? Maybe.
+Jim purchased most of the mugs. Did Jim purchase three of the mugs? Maybe.
+Ann owned some of the burgers. Did Ann own two of the burgers? Yes.
+Adam purchased exactly two of the mugs. Did Adam purchase three of the mugs? No.
+The woman ordered three of the tickets. Did the woman order at least two of the tickets?", Yes.,1
+4,at least two-three,"Sally owned two of the mugs. Did Sally own all of the mugs? Maybe.
+Jim purchased most of the mugs. Did Jim purchase three of the mugs? Maybe.
+Ann owned some of the burgers. Did Ann own two of the burgers? Yes.
+Adam purchased exactly two of the mugs. Did Adam purchase three of the mugs? No.
+Mark ate at least two of the pastries. Did Mark eat three of the pastries?", No.,0
+4,three-three,"Sally owned two of the mugs. Did Sally own all of the mugs? Maybe.
+Jim purchased most of the mugs. Did Jim purchase three of the mugs? Maybe.
+Ann owned some of the burgers. Did Ann own two of the burgers? Yes.
+Adam purchased exactly two of the mugs. Did Adam purchase three of the mugs? No.
+Three of the churros are expensive. Are three of the churros expensive?", Yes.,1
+4,at least two-at least two,"Sally owned two of the mugs. Did Sally own all of the mugs? Maybe.
+Jim purchased most of the mugs. Did Jim purchase three of the mugs? Maybe.
+Ann owned some of the burgers. Did Ann own two of the burgers? Yes.
+Adam purchased exactly two of the mugs. Did Adam purchase three of the mugs? No.
+The actor wanted at least two of the candles. Did the actor want at least two of the candles?", Yes.,1
