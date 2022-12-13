@@ -66,12 +66,12 @@ the prompting template used for textual entailment by GPT-3 (Brown et al. 2020),
 
 Examples in the prompt prefix used the same template as the target, but contained the correct answer at the end. 
 We used a template-based "grammar" to generate the examples and target questions with a range of verbs and verb-appropriate nouns. 
-To focus the model's attention on entailments involving determiners, we used pairs of determiners that entailed or did not entail each other without the use of implicature, such as \emph{all} entailing \emph{not none}, \emph{two} entailing \emph{some}, and \emph{half} neither entailing nor contradicting \emph{three} (for a `Maybe' answer). We balanced the division of the $n$ examples evenly between `Yes' and `No' answers with 1-2 `Maybe' answers (for $n$ odd vs. even)\footnote{For $n=1$ we used a single `Yes' example and for $n=2$ we used one `Yes' and one `No' example.}. This gave rise to the following templates:
+To focus the model's attention on entailments involving determiners, we used pairs of determiners that entailed or did not entail each other without the use of implicature, such as _all_ entailing _not none_, _two_ entailing _some_, and \emph{half} neither entailing nor contradicting _three_ (for a 'Maybe' answer). We balanced the division of the $n$ examples evenly between 'Yes' and 'No' answers with 1-2 'Maybe' answers (for $n$ odd vs. even). For $n=1$ we used a single 'Yes' example and for $n=2$ we used one 'Yes' and one 'No' example. This gave rise to the following templates:
 
 * {det1} of the {noun} are {adj}. Are {det2} of the {noun} {adj}? {answer}.
 * {subject} {past verb} {det1} of the {noun}. Did {subject} {inf verb} {det2} of the {noun}? {answer}.
 
-Given the prefix of _n_ examples followed by the target prompt, we asked the model to deterministically predict an additional 2-5 tokens, and judged it correct if the tokens contained the target answer.
+Given the prefix of $n$ examples followed by the target prompt, we asked the model to deterministically predict an additional 2-5 tokens, and judged it correct if the tokens contained the target answer.
 
 ## Results on GPT-3
 
