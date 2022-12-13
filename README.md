@@ -4,7 +4,7 @@ This work developed out of a final project for MIT 9.19 Computational Psycholing
 In the final project, we focused on GPT-2 and BERT; this repository extends the scalar implicature part of the work to GPT-3.
 
 I investigate whether GPT-3 is capable of calculating scalar implicatures using _some/all_ and exact numbers using both prompting techniques and surprisal measures. 
-Results show that GPT-3 reliably calculates the scalar implicature for \emph{some/all} in a few-shot setting, as well as the number implicature, contrasting with GPT-2 
+Results show that GPT-3 reliably calculates the scalar implicature for _some/all_ in a few-shot setting, as well as the number implicature, contrasting with GPT-2 
 which was only able to calculate the scalar implicature for _some/all_ and failed on the number implicatures.
 
 ## What are scalar implicatures?
